@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "companies": 643,
+ "companies": 652,
  "scanned": 240,
  "hits": [
   {
@@ -375,6 +375,24 @@
    "locClass": "outside-europe",
    "url": "https://bitwarden.com/careers/7820709003/?gh_jid=7820709003",
    "posted": "2026-10-07"
+  },
+  {
+   "companyId": "bugcrowd-com",
+   "company": "Bugcrowd",
+   "companyHq": "San Francisco, CA, USA",
+   "companyType": "private",
+   "tier": 1,
+   "investors": [
+    "General Catalyst",
+    "New Enterprise Associates",
+    "Paladin Capital Group"
+   ],
+   "title": "Application Security Engineer - (5 months Contract)",
+   "flexibleCyber": true,
+   "location": "Remote - Brazil",
+   "locClass": "outside-europe",
+   "url": "https://boards.greenhouse.io/bugcrowd/jobs/8310677?gh_jid=8310677",
+   "posted": "2026-11-03"
   },
   {
    "companyId": "bugcrowd-com",

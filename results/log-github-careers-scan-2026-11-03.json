@@ -1,61 +1,61 @@
 {
- "docId": "2026-11-03-github-careers-scan-1217",
+ "docId": "2026-11-03-github-careers-scan-1233",
  "actor": "github",
  "task": "GitHub careers scan",
  "runType": "scheduled",
- "started": "2026-11-03T12:17:20Z",
- "finished": "2026-11-03T12:17:33Z",
- "summary": "240 job boards read (6862 postings), 286 roles shortlisted, 4 errors, 56 left for the browser",
+ "started": "2026-11-03T12:33:46Z",
+ "finished": "2026-11-03T12:34:27Z",
+ "summary": "240 job boards read (6863 postings), 287 roles shortlisted, 4 errors, 56 left for the browser",
  "events": [
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "run",
    "text": "Started GitHub careers scan on GitHub Actions"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "read",
-   "text": "Read the company list (data/companies.json): 643 cyber vendors to check",
+   "text": "Read the company list (data/companies.json): 652 cyber vendors to check",
    "url": "https://github.com/CyberheadAdvisors/JobsCRM/blob/main/data/companies.json"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "connect",
    "text": "Connected to Ashby job-board API (api.ashbyhq.com)",
    "result": "read-only, no sign-in"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "connect",
    "text": "Connected to Greenhouse job-board API (boards-api.greenhouse.io)",
    "result": "read-only, no sign-in"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "connect",
    "text": "Connected to Lever postings API (api.lever.co)",
    "result": "read-only, no sign-in"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "connect",
    "text": "Connected to SmartRecruiters postings API (api.smartrecruiters.com)",
    "result": "read-only, no sign-in"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "connect",
    "text": "Connected to Workable widget API (apply.workable.com)",
    "result": "read-only, no sign-in"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "connect",
    "text": "Connected to Workday job search (<tenant>.myworkdayjobs.com)",
    "result": "read-only, no sign-in"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "review",
    "text": "Shortlisted Senior Director, Product Management \u2013 Developer & AI at 1Password for Claude to judge",
    "url": "https://jobs.ashbyhq.com/1password/618d6f38-988d-4e1f-af12-f5fdeebf05ed",
@@ -65,7 +65,7 @@
    "id": "1password-com"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager, Security at 1Password for Claude to judge",
    "url": "https://jobs.ashbyhq.com/1password/ff516ff4-2726-4c18-ae6e-681640d9c81d",
@@ -75,7 +75,7 @@
    "id": "1password-com"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "review",
    "text": "Shortlisted Director of Product, AI Growth at 1Password for Claude to judge",
    "url": "https://jobs.ashbyhq.com/1password/8151254c-b7d1-4653-87b1-7afeba176898",
@@ -85,7 +85,7 @@
    "id": "1password-com"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "review",
    "text": "Shortlisted Senior Group Product Manager (Apono) at 1Password for Claude to judge",
    "url": "https://jobs.ashbyhq.com/1password/0759fd1f-945b-40a6-95e1-e498bcab2044",
@@ -95,7 +95,7 @@
    "id": "1password-com"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager at 1Password for Claude to judge",
    "url": "https://jobs.ashbyhq.com/1password/0a11e3df-2212-419e-a1ff-dc501fa7a084",
@@ -105,7 +105,7 @@
    "id": "1password-com"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "read",
    "text": "Read 1Password job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/1password",
@@ -115,7 +115,7 @@
    "id": "1password-com"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "error",
    "text": "Could not read A10 Networks's job board (workday)",
    "url": "https://osv-a10networks.wd5.myworkdayjobs.com/A10CareerSite",
@@ -124,7 +124,7 @@
    "id": "a10networks-com"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "review",
    "text": "Shortlisted Director of Security Engineering at Abnormal AI for Claude to judge",
    "url": "https://abnormal.ai/careers/jobs/8015100003?gh_jid=8015100003",
@@ -134,7 +134,7 @@
    "id": "abnormal-ai"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "read",
    "text": "Read Abnormal AI job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/abnormalsecurity/jobs",
@@ -144,7 +144,7 @@
    "id": "abnormal-ai"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "read",
    "text": "Read Adaptive Security job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/adaptivesecurity",
@@ -154,7 +154,7 @@
    "id": "adaptivesecurity-com"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "read",
    "text": "Read Alethea job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/alethea/jobs",
@@ -163,7 +163,7 @@
    "id": "alethea-com"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "read",
    "text": "Read Alloy job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/alloy/jobs",
@@ -173,7 +173,7 @@
    "id": "alloy-com"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:46Z",
    "action": "read",
    "text": "Read Anagram job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/anagram",
@@ -183,7 +183,7 @@
    "id": "anagramsecurity-com"
   },
   {
-   "ts": "2026-11-03T12:17:20Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "read",
    "text": "Read Anomali job board",
    "url": "https://api.lever.co/v0/postings/anomali",
@@ -193,7 +193,7 @@
    "id": "anomali-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "read",
    "text": "Read Antimatter job board",
    "url": "https://api.smartrecruiters.com/v1/companies/antimatter/postings",
@@ -203,7 +203,7 @@
    "id": "antimatter-io"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "read",
    "text": "Read Apiiro job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/apiiro/jobs",
@@ -213,7 +213,7 @@
    "id": "apiiro-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "read",
    "text": "Read AppOmni job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/appomni/jobs",
@@ -222,7 +222,7 @@
    "id": "appomni-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "read",
    "text": "Read Arkose Labs job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/arkoselabs/jobs",
@@ -232,7 +232,7 @@
    "id": "arkoselabs-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "read",
    "text": "Read Armadin Security job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/armadin",
@@ -242,7 +242,7 @@
    "id": "armadin-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "read",
    "text": "Read Armis job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/armissecurity/jobs",
@@ -251,7 +251,7 @@
    "id": "armis-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "read",
    "text": "Read ArmorCode job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/armorcode/jobs",
@@ -261,7 +261,7 @@
    "id": "armorcode-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "read",
    "text": "Read Aura job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/aura/jobs",
@@ -271,7 +271,7 @@
    "id": "aura-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "read",
    "text": "Read Authzed job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/authzed",
@@ -281,7 +281,7 @@
    "id": "authzed-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "read",
    "text": "Read Automox job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/automox/jobs",
@@ -291,7 +291,7 @@
    "id": "automox-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "review",
    "text": "Shortlisted Principal Security Architect, Active Directory & Entra ID Backup and Recovery at AvePoint for Claude to judge",
    "url": "https://www.avepoint.com/careers/job-detail?gh_jid=8303526",
@@ -301,7 +301,7 @@
    "id": "avepoint-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "review",
    "text": "Shortlisted Principal Security Architect, Active Directory & Entra ID Backup and Recovery at AvePoint for Claude to judge",
    "url": "https://www.avepoint.com/careers/job-detail?gh_jid=8265434",
@@ -311,7 +311,7 @@
    "id": "avepoint-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "review",
    "text": "Shortlisted Principal Security Architect, Active Directory & Entra ID Backup and Recovery at AvePoint for Claude to judge",
    "url": "https://www.avepoint.com/careers/job-detail?gh_jid=8303519",
@@ -321,7 +321,7 @@
    "id": "avepoint-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager at AvePoint for Claude to judge",
    "url": "https://www.avepoint.com/careers/job-detail?gh_jid=7829634",
@@ -331,7 +331,7 @@
    "id": "avepoint-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "read",
    "text": "Read AvePoint job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/avepoint/jobs",
@@ -341,7 +341,7 @@
    "id": "avepoint-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "read",
    "text": "Read Aviatrix job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/aviatrix/jobs",
@@ -351,7 +351,7 @@
    "id": "aviatrix-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "review",
    "text": "Shortlisted Director, Product Design at Axonius for Claude to judge",
    "url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=7995556003",
@@ -361,7 +361,7 @@
    "id": "axonius-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "review",
    "text": "Shortlisted Product Security Architect- 9-month temp position at Axonius for Claude to judge",
    "url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=8004240003",
@@ -371,7 +371,7 @@
    "id": "axonius-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "review",
    "text": "Shortlisted Product Security Architect- 9-month temp position at Axonius for Claude to judge",
    "url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=7886132003",
@@ -381,7 +381,7 @@
    "id": "axonius-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "review",
    "text": "Shortlisted Product Security Architect- 9-month temp position at Axonius for Claude to judge",
    "url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=8004181003",
@@ -391,7 +391,7 @@
    "id": "axonius-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "review",
    "text": "Shortlisted Senior Director, Strategic Events & Programs at Axonius for Claude to judge",
    "url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=8036067003",
@@ -401,7 +401,7 @@
    "id": "axonius-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager at Axonius for Claude to judge",
    "url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=8008023003",
@@ -411,7 +411,7 @@
    "id": "axonius-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "read",
    "text": "Read Axonius job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/axonius/jobs",
@@ -421,7 +421,7 @@
    "id": "axonius-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "error",
    "text": "Could not read Barracuda Networks's job board (ashby)",
    "url": "https://api.ashbyhq.com/posting-api/job-board/barracuda-networks",
@@ -430,7 +430,7 @@
    "id": "barracuda-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "read",
    "text": "Read Beyond Identity job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/beyondidentity/jobs",
@@ -439,7 +439,7 @@
    "id": "beyondidentity-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager - AI Security at BigID for Claude to judge",
    "url": "https://bigid.com/company/careers/job-details/8908475002?gh_jid=8908475002",
@@ -449,7 +449,7 @@
    "id": "bigid-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager \u2013 Agentic AI at BigID for Claude to judge",
    "url": "https://bigid.com/company/careers/job-details/8874136002?gh_jid=8874136002",
@@ -459,7 +459,7 @@
    "id": "bigid-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "read",
    "text": "Read BigID job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/bigid/jobs",
@@ -469,7 +469,7 @@
    "id": "bigid-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "review",
    "text": "Shortlisted Penetration Tester - Contract at Bishop Fox for Claude to judge",
    "url": "http://www.bishopfox.com/jobs?gh_jid=7902114",
@@ -479,7 +479,7 @@
    "id": "bishopfox-com"
   },
   {
-   "ts": "2026-11-03T12:17:21Z",
+   "ts": "2026-11-03T12:33:47Z",
    "action": "read",
    "text": "Read Bishop Fox job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/bishopfox/jobs",
@@ -489,7 +489,7 @@
    "id": "bishopfox-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - TPRM at BitSight for Claude to judge",
    "url": "https://bitsight.wd1.myworkdayjobs.com/Bitsight/job/Remote-Portugal/Senior-Product-Manager---TPRM_JR101386-1",
@@ -499,7 +499,7 @@
    "id": "bitsight-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read BitSight job board",
    "url": "https://bitsight.wd1.myworkdayjobs.com/Bitsight",
@@ -509,7 +509,7 @@
    "id": "bitsight-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - Platform at Bitwarden for Claude to judge",
    "url": "https://bitwarden.com/careers/7996376003/?gh_jid=7996376003",
@@ -519,7 +519,7 @@
    "id": "bitwarden-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted VP, Channel & Strategic Partnerships at Bitwarden for Claude to judge",
    "url": "https://bitwarden.com/careers/7820709003/?gh_jid=7820709003",
@@ -529,7 +529,7 @@
    "id": "bitwarden-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read Bitwarden job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/bitwarden/jobs",
@@ -539,7 +539,7 @@
    "id": "bitwarden-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read Bloom Security job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/bloom/jobs",
@@ -548,7 +548,7 @@
    "id": "bloom-security"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read BlueRock job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/bluerocksecurity",
@@ -557,7 +557,7 @@
    "id": "bluerock-io"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read Blumira job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/blumira/jobs",
@@ -566,7 +566,7 @@
    "id": "blumira-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read Bold Security job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/bold/jobs",
@@ -576,7 +576,7 @@
    "id": "bold-security"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read Brinqa job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/brinqa/jobs",
@@ -586,7 +586,17 @@
    "id": "brinqa-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
+   "action": "review",
+   "text": "Shortlisted Application Security Engineer - (5 months Contract) at Bugcrowd for Claude to judge",
+   "url": "https://boards.greenhouse.io/bugcrowd/jobs/8310677?gh_jid=8310677",
+   "result": "candidate",
+   "detail": "Location: Remote - Brazil; posted 2026-11-03",
+   "coll": "companies",
+   "id": "bugcrowd-com"
+  },
+  {
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Application Security Engineer  II (Contract - 5 months ) at Bugcrowd for Claude to judge",
    "url": "https://boards.greenhouse.io/bugcrowd/jobs/8288958?gh_jid=8288958",
@@ -596,17 +606,17 @@
    "id": "bugcrowd-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read Bugcrowd job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/bugcrowd/jobs",
-   "result": "12 postings, 1 shortlisted",
+   "result": "13 postings, 2 shortlisted",
    "detail": "7 dropped: not senior (no Head/Director/VP/C-level/interim/fractional); 4 dropped: not a product, security, strategy, alliances or M&A title",
    "coll": "companies",
    "id": "bugcrowd-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read Casco job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/casco",
@@ -616,7 +626,7 @@
    "id": "casco-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read Castle job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/castle",
@@ -626,7 +636,7 @@
    "id": "castle-io"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Director Product Marketing, Network Security at Cato Networks for Claude to judge",
    "url": "https://www.catonetworks.com/careers/careers-post/4926467101?gh_jid=4926467101",
@@ -636,7 +646,7 @@
    "id": "catonetworks-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Global Alliance Director at Cato Networks for Claude to judge",
    "url": "https://www.catonetworks.com/careers/careers-post/4998746101?gh_jid=4998746101",
@@ -646,7 +656,7 @@
    "id": "catonetworks-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Professional Services Consultant - AI Security at Cato Networks for Claude to judge",
    "url": "https://www.catonetworks.com/careers/careers-post/4944382101?gh_jid=4944382101",
@@ -656,7 +666,7 @@
    "id": "catonetworks-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted VP of Product Management, Management Platform & Network and Security Operations at Cato Networks for Claude to judge",
    "url": "https://www.catonetworks.com/careers/careers-post/4977295101?gh_jid=4977295101",
@@ -666,7 +676,7 @@
    "id": "catonetworks-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read Cato Networks job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/catonetworks/jobs",
@@ -676,7 +686,7 @@
    "id": "catonetworks-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Director of Business Development, Federal at Censys for Claude to judge",
    "url": "https://job-boards.greenhouse.io/censys/jobs/8537032002",
@@ -686,7 +696,7 @@
    "id": "censys-io"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Director, Product Management at Censys for Claude to judge",
    "url": "https://job-boards.greenhouse.io/censys/jobs/8485923002",
@@ -696,7 +706,7 @@
    "id": "censys-io"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Internet Map at Censys for Claude to judge",
    "url": "https://job-boards.greenhouse.io/censys/jobs/8767260002",
@@ -706,7 +716,7 @@
    "id": "censys-io"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read Censys job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/censys/jobs",
@@ -716,7 +726,7 @@
    "id": "censys-io"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Director of Product, AML & Digital Asset Compliance at CertiK for Claude to judge",
    "url": "https://jobs.lever.co/certik/36fa63d5-f3e0-4529-8c87-392aab2763a1",
@@ -726,7 +736,7 @@
    "id": "certik-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read CertiK job board",
    "url": "https://api.lever.co/v0/postings/certik",
@@ -736,7 +746,7 @@
    "id": "certik-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Principal Product Security Engineer at Chainguard for Claude to judge",
    "url": "https://job-boards.greenhouse.io/chainguard/jobs/4719783006",
@@ -746,7 +756,7 @@
    "id": "chainguard-dev"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Principal Product Security Engineer at Chainguard for Claude to judge",
    "url": "https://job-boards.greenhouse.io/chainguard/jobs/4724289006",
@@ -756,7 +766,7 @@
    "id": "chainguard-dev"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Principal Product Security Engineer at Chainguard for Claude to judge",
    "url": "https://job-boards.greenhouse.io/chainguard/jobs/4724290006",
@@ -766,7 +776,7 @@
    "id": "chainguard-dev"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Principal Product Security Researcher at Chainguard for Claude to judge",
    "url": "https://job-boards.greenhouse.io/chainguard/jobs/4723619006",
@@ -776,7 +786,7 @@
    "id": "chainguard-dev"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Principal Product Security Researcher at Chainguard for Claude to judge",
    "url": "https://job-boards.greenhouse.io/chainguard/jobs/4723615006",
@@ -786,7 +796,7 @@
    "id": "chainguard-dev"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Principal Product Security Researcher at Chainguard for Claude to judge",
    "url": "https://job-boards.greenhouse.io/chainguard/jobs/4723614006",
@@ -796,7 +806,7 @@
    "id": "chainguard-dev"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, AI CICD at Chainguard for Claude to judge",
    "url": "https://job-boards.greenhouse.io/chainguard/jobs/4712509006",
@@ -806,7 +816,7 @@
    "id": "chainguard-dev"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager (Athena) at Chainguard for Claude to judge",
    "url": "https://job-boards.greenhouse.io/chainguard/jobs/4720603006",
@@ -816,7 +826,7 @@
    "id": "chainguard-dev"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read Chainguard job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/chainguard/jobs",
@@ -826,7 +836,7 @@
    "id": "chainguard-dev"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read Clearly AI job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/clearly-ai",
@@ -836,7 +846,7 @@
    "id": "clearly-ai-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read ClearVector job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/clearvector",
@@ -846,7 +856,7 @@
    "id": "clearvector-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read Clerk job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/clerk",
@@ -856,7 +866,7 @@
    "id": "clerk-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Chief of Staff to Chief Strategy Officer at Cloudflare for Claude to judge",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8076815?gh_jid=8076815",
@@ -866,7 +876,7 @@
    "id": "cloudflare-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted GTM Strategy Senior Principal / Director, Consumption Operations at Cloudflare for Claude to judge",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8301592?gh_jid=8301592",
@@ -876,7 +886,7 @@
    "id": "cloudflare-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager, Certificate Authority at Cloudflare for Claude to judge",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8276299?gh_jid=8276299",
@@ -886,7 +896,7 @@
    "id": "cloudflare-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Senior Director of Engineering, Billing Platform at Cloudflare for Claude to judge",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8152825?gh_jid=8152825",
@@ -896,7 +906,7 @@
    "id": "cloudflare-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - Application Protection & Governance at Cloudflare for Claude to judge",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8200670?gh_jid=8200670",
@@ -906,7 +916,7 @@
    "id": "cloudflare-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Cloudflare Workers at Cloudflare for Claude to judge",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8166601?gh_jid=8166601",
@@ -916,7 +926,7 @@
    "id": "cloudflare-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Email Security at Cloudflare for Claude to judge",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8173954?gh_jid=8173954",
@@ -926,7 +936,7 @@
    "id": "cloudflare-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Enterprise at Cloudflare for Claude to judge",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8158527?gh_jid=8158527",
@@ -936,7 +946,7 @@
    "id": "cloudflare-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - FinTech at Cloudflare for Claude to judge",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8064473?gh_jid=8064473",
@@ -946,7 +956,7 @@
    "id": "cloudflare-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - Threat Intel at Cloudflare for Claude to judge",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8243552?gh_jid=8243552",
@@ -956,7 +966,7 @@
    "id": "cloudflare-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Social Media Strategy Director at Cloudflare for Claude to judge",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8049608?gh_jid=8049608",
@@ -966,7 +976,7 @@
    "id": "cloudflare-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Strategic Partnerships Lead / Director - AEO/GEO Analytics at Cloudflare for Claude to judge",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8304122?gh_jid=8304122",
@@ -976,7 +986,7 @@
    "id": "cloudflare-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read Cloudflare job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs",
@@ -986,7 +996,7 @@
    "id": "cloudflare-com"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "review",
    "text": "Shortlisted Director, Strategic Partnerships at Clutch Security for Claude to judge",
    "url": "https://job-boards.greenhouse.io/clutch/jobs/6238358004",
@@ -996,7 +1006,7 @@
    "id": "clutch-security"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read Clutch Security job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/clutch/jobs",
@@ -1006,7 +1016,7 @@
    "id": "clutch-security"
   },
   {
-   "ts": "2026-11-03T12:17:25Z",
+   "ts": "2026-11-03T12:33:52Z",
    "action": "read",
    "text": "Read Cogent Security job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/cogent-security",
@@ -1016,7 +1026,7 @@
    "id": "cogent-security"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Partner Insights & Systems Integration at Cohesity for Claude to judge",
    "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---California---Remote/Product-Insights---System-Integration-Product-Manager_R04723",
@@ -1026,7 +1036,7 @@
    "id": "cohesity-com"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "review",
    "text": "Shortlisted Director, OEM HPE Alliances at Cohesity for Claude to judge",
    "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Director--OEM-HPE-Alliances_R04720",
@@ -1036,7 +1046,7 @@
    "id": "cohesity-com"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "review",
    "text": "Shortlisted Senior Director, Global Channel & Alliances Operations at Cohesity for Claude to judge",
    "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Senior-Director--Global-Channel---Alliances-Operations_R04709",
@@ -1046,7 +1056,7 @@
    "id": "cohesity-com"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "read",
    "text": "Read Cohesity job board",
    "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers",
@@ -1056,7 +1066,7 @@
    "id": "cohesity-com"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "read",
    "text": "Read Commvault job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/commvault/jobs",
@@ -1066,7 +1076,7 @@
    "id": "commvault-com"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "review",
    "text": "Shortlisted Residential Security Agent, Ad Hoc Part Time (Malibu,CA) at Concentric AI for Claude to judge",
    "url": "https://job-boards.greenhouse.io/concentric/jobs/4716163006",
@@ -1076,7 +1086,7 @@
    "id": "concentric-ai"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "review",
    "text": "Shortlisted Residential Security Agent, Ad Hoc Part Time (San Francisco Bay Area) at Concentric AI for Claude to judge",
    "url": "https://job-boards.greenhouse.io/concentric/jobs/4716157006",
@@ -1086,7 +1096,7 @@
    "id": "concentric-ai"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "read",
    "text": "Read Concentric AI job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/concentric/jobs",
@@ -1096,7 +1106,7 @@
    "id": "concentric-ai"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "read",
    "text": "Read Contrast Security job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/contrast-security",
@@ -1105,7 +1115,7 @@
    "id": "contrastsecurity-com"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "read",
    "text": "Read Corelight job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/corelight/jobs",
@@ -1115,7 +1125,7 @@
    "id": "corelight-com"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "read",
    "text": "Read Corsha job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/corshainc/jobs",
@@ -1125,7 +1135,7 @@
    "id": "corsha-com"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "review",
    "text": "Shortlisted Director, Product Management (Security) at Cribl for Claude to judge",
    "url": "https://cribl.io/job-detail/?gh_jid=6223331004",
@@ -1135,7 +1145,7 @@
    "id": "cribl-io"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "read",
    "text": "Read Cribl job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/cribl/jobs",
@@ -1145,7 +1155,7 @@
    "id": "cribl-io"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "review",
    "text": "Shortlisted SVP, Product Marketing (Remote) at CrowdStrike for Claude to judge",
    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/SVP--Product-Marketing--Remote-_R30632",
@@ -1155,7 +1165,7 @@
    "id": "crowdstrike-com"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "review",
    "text": "Shortlisted Senior Director, AI Security Systems (Remote) at CrowdStrike for Claude to judge",
    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Senior-Director--AI-Security-Systems--Remote-_R30677-1",
@@ -1165,7 +1175,7 @@
    "id": "crowdstrike-com"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "review",
    "text": "Shortlisted Director, Corporate Development: M&A Integration & Operations (Remote) at CrowdStrike for Claude to judge",
    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Director--Corporate-Development--M-A-Integration---Operations--Remote-_R30676-1",
@@ -1175,7 +1185,7 @@
    "id": "crowdstrike-com"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "review",
    "text": "Shortlisted Director,  Product Management-Hybrid at CrowdStrike for Claude to judge",
    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Israel---Tel-Aviv/Director---Product-management_R30280",
@@ -1185,7 +1195,7 @@
    "id": "crowdstrike-com"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "read",
    "text": "Read CrowdStrike job board",
    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers",
@@ -1195,7 +1205,7 @@
    "id": "crowdstrike-com"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "read",
    "text": "Read CyberCube job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/cybcube",
@@ -1205,7 +1215,7 @@
    "id": "cybcube-com"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "review",
    "text": "Shortlisted Director, Product Design at Cyberhaven for Claude to judge",
    "url": "https://jobs.ashbyhq.com/cyberhaven/7bfb921c-838f-4163-b2af-d5d1eae9460c",
@@ -1215,7 +1225,7 @@
    "id": "cyberhaven-com"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager at Cyberhaven for Claude to judge",
    "url": "https://jobs.ashbyhq.com/cyberhaven/c89706ad-d95c-48c5-b94c-812857492d78",
@@ -1225,7 +1235,7 @@
    "id": "cyberhaven-com"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "read",
    "text": "Read Cyberhaven job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/cyberhaven",
@@ -1235,7 +1245,7 @@
    "id": "cyberhaven-com"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "read",
    "text": "Read Resilience job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/resilience/jobs",
@@ -1245,7 +1255,7 @@
    "id": "cyberresilience-com"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "review",
    "text": "Shortlisted Director of Products (REMOTE) at Cyware for Claude to judge",
    "url": "https://boards.greenhouse.io/cyware/jobs/8008513003?gh_jid=8008513003",
@@ -1255,7 +1265,7 @@
    "id": "cyware-com"
   },
   {
-   "ts": "2026-11-03T12:17:28Z",
+   "ts": "2026-11-03T12:33:56Z",
    "action": "read",
    "text": "Read Cyware job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/cyware/jobs",
@@ -1265,7 +1275,7 @@
    "id": "cyware-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - NDR at Darktrace for Claude to judge",
    "url": "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Product-Manager---NDR_JR101892",
@@ -1275,7 +1285,7 @@
    "id": "darktrace-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Head of Demo Strategy & Product Experiences at Darktrace for Claude to judge",
    "url": "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Head-of-Demo-Strategy---Product-Experiences_JR102372",
@@ -1285,7 +1295,7 @@
    "id": "darktrace-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted VP, Pricing & Packaging at Darktrace for Claude to judge",
    "url": "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/VP--Pricing---Packaging_JR102477",
@@ -1295,7 +1305,7 @@
    "id": "darktrace-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted VP, Security & AI Strategy at Darktrace for Claude to judge",
    "url": "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/New-York-Office-United-States/VP--Security---AI-Strategy_JR102238",
@@ -1305,7 +1315,7 @@
    "id": "darktrace-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Darktrace job board",
    "url": "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal",
@@ -1315,7 +1325,7 @@
    "id": "darktrace-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Dashlane job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/dashlane/jobs",
@@ -1325,7 +1335,7 @@
    "id": "dashlane-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Daylight Security job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/daylight/jobs",
@@ -1335,7 +1345,7 @@
    "id": "daylight-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager at Delinea for Claude to judge",
    "url": "https://jobs.ashbyhq.com/delinea/b0d82a51-4494-4928-840a-7800abba8af6",
@@ -1345,7 +1355,7 @@
    "id": "delinea-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - Identity Inventory, Correlation and Graph at Delinea for Claude to judge",
    "url": "https://jobs.ashbyhq.com/delinea/79f6065e-a97f-41fe-9878-721b27ed5a42",
@@ -1355,7 +1365,7 @@
    "id": "delinea-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - Remote Access Client Portfolio at Delinea for Claude to judge",
    "url": "https://jobs.ashbyhq.com/delinea/a15efb2a-6cb6-4598-908d-7d7817507539",
@@ -1365,7 +1375,7 @@
    "id": "delinea-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - Browser and Mobile Applications at Delinea for Claude to judge",
    "url": "https://jobs.ashbyhq.com/delinea/cd3d7af7-4f2e-4e43-8a68-317675da3c12",
@@ -1375,7 +1385,7 @@
    "id": "delinea-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Delinea job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/delinea",
@@ -1385,7 +1395,7 @@
    "id": "delinea-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read depthfirst job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/depthfirst",
@@ -1395,7 +1405,7 @@
    "id": "depthfirst-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Descope job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/descope/jobs",
@@ -1405,7 +1415,7 @@
    "id": "descope-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "error",
    "text": "Could not read DNSFilter's job board (greenhouse)",
    "url": "https://boards-api.greenhouse.io/v1/boards/dnsfilter/jobs",
@@ -1414,7 +1424,7 @@
    "id": "dnsfilter-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Dope Security job board",
    "url": "https://apply.workable.com/api/v1/widget/accounts/dope",
@@ -1423,7 +1433,7 @@
    "id": "dope-security"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Doppel job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/doppel",
@@ -1433,7 +1443,7 @@
    "id": "doppel-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Doppler job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/doppler",
@@ -1443,7 +1453,7 @@
    "id": "doppler-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager 2, Assurance at Drata for Claude to judge",
    "url": "https://jobs.ashbyhq.com/drata/cf5e1a06-8720-4e5c-93c6-5494c39c862c",
@@ -1453,7 +1463,7 @@
    "id": "drata-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Marketing Manager at Drata for Claude to judge",
    "url": "https://jobs.ashbyhq.com/drata/0dd897fb-3279-4268-aab3-8fdb5fbe052a",
@@ -1463,7 +1473,7 @@
    "id": "drata-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Compliance at Drata for Claude to judge",
    "url": "https://jobs.ashbyhq.com/drata/251874fd-c8a5-4d9e-8c34-f73526bc7982",
@@ -1473,7 +1483,7 @@
    "id": "drata-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Drata job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/drata",
@@ -1483,7 +1493,7 @@
    "id": "drata-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Head of Product at Dune Security for Claude to judge",
    "url": "https://jobs.ashbyhq.com/dune/b3fa8dd4-295d-4ddb-ae78-0936c48f3412",
@@ -1493,7 +1503,7 @@
    "id": "dune-security"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Dune Security job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/dune",
@@ -1503,7 +1513,7 @@
    "id": "dune-security"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Dyneti Technologies job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/dyneti",
@@ -1513,7 +1523,7 @@
    "id": "dyneti-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted AWS Alliance Director \u2014 EMEA at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8121350&gh_jid=8121350",
@@ -1523,7 +1533,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Consulting Architect - Security (EMEA / Public Sector eligible ) at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8153274&gh_jid=8153274",
@@ -1533,7 +1543,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Consulting Architect - Security/SIEM (Canberra) at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8138599&gh_jid=8138599",
@@ -1543,7 +1553,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Corporate Development at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8177123&gh_jid=8177123",
@@ -1553,7 +1563,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Product Management, Observability at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8312184&gh_jid=8312184",
@@ -1563,7 +1573,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Product Management, Observability at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8312179&gh_jid=8312179",
@@ -1573,7 +1583,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Product Management, Observability at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8312178&gh_jid=8312178",
@@ -1583,7 +1593,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Product Management, Observability at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8312175&gh_jid=8312175",
@@ -1593,7 +1603,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Product Management, Observability at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8312168&gh_jid=8312168",
@@ -1603,7 +1613,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Product Management, Observability at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8312171&gh_jid=8312171",
@@ -1613,7 +1623,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Product Management, Observability at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8301538&gh_jid=8301538",
@@ -1623,7 +1633,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager Agents and Context - Elasticsearch at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8306248&gh_jid=8306248",
@@ -1633,7 +1643,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager Agents and Context - Elasticsearch at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=7602101&gh_jid=7602101",
@@ -1643,7 +1653,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager Agents and Context - Elasticsearch at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8070011&gh_jid=8070011",
@@ -1653,7 +1663,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager Agents and Context - Elasticsearch at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8306249&gh_jid=8306249",
@@ -1663,7 +1673,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager II, AI/Vectors  Elasticsearch at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8306238&gh_jid=8306238",
@@ -1673,7 +1683,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager II, AI/Vectors - Elasticsearch at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8121962&gh_jid=8121962",
@@ -1683,7 +1693,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager II, AI/Vectors - Elasticsearch at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8306243&gh_jid=8306243",
@@ -1693,7 +1703,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager II, AI/Vectors - Elasticsearch at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8306227&gh_jid=8306227",
@@ -1703,7 +1713,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager, Security Pricing and Packaging (Serverless) - Security Solutions at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8332655&gh_jid=8332655",
@@ -1713,7 +1723,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager, Security Pricing and Packaging (Serverless) - Security Solutions at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8316745&gh_jid=8316745",
@@ -1723,7 +1733,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Regional Vice President - Financial Services, Strategic Accounts at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8201974&gh_jid=8201974",
@@ -1733,7 +1743,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Control Plane - Platform at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8088818&gh_jid=8088818",
@@ -1743,7 +1753,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Control Plane - Platform at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8093933&gh_jid=8093933",
@@ -1753,7 +1763,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - Self service cloud at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8041202&gh_jid=8041202",
@@ -1763,7 +1773,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - Self service cloud at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8041208&gh_jid=8041208",
@@ -1773,7 +1783,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - Self service cloud at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8041209&gh_jid=8041209",
@@ -1783,7 +1793,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - Self service cloud at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8041211&gh_jid=8041211",
@@ -1793,7 +1803,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - Self service cloud at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8041203&gh_jid=8041203",
@@ -1803,7 +1813,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - Self service cloud at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8028261&gh_jid=8028261",
@@ -1813,7 +1823,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - US Public Sector at Elastic for Claude to judge",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8188365&gh_jid=8188365",
@@ -1823,7 +1833,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Elastic job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/elastic/jobs",
@@ -1833,7 +1843,7 @@
    "id": "elastic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Head of Compliance Product at Elliptic for Claude to judge",
    "url": "https://jobs.ashbyhq.com/elliptic/51f1c7d2-dff9-46dc-8141-c25031b5fcdb",
@@ -1843,7 +1853,7 @@
    "id": "elliptic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Head of Compliance Product at Elliptic for Claude to judge",
    "url": "https://jobs.ashbyhq.com/elliptic/1547cf49-ed1f-439f-b389-b7ef7b9df967",
@@ -1853,7 +1863,7 @@
    "id": "elliptic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager at Elliptic for Claude to judge",
    "url": "https://jobs.ashbyhq.com/elliptic/2785c937-6cbd-45f4-b210-48c6a650b249",
@@ -1863,7 +1873,7 @@
    "id": "elliptic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Head of Compliance Product at Elliptic for Claude to judge",
    "url": "https://jobs.ashbyhq.com/elliptic/34be9c00-ff95-48c3-bfe8-63b2ea029b7a",
@@ -1873,7 +1883,7 @@
    "id": "elliptic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Elliptic job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/elliptic",
@@ -1883,7 +1893,7 @@
    "id": "elliptic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Encore job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/encore/jobs",
@@ -1893,7 +1903,7 @@
    "id": "encore-io"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Escape job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/escape",
@@ -1903,7 +1913,7 @@
    "id": "escape-tech"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Evervault job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/evervault",
@@ -1913,7 +1923,7 @@
    "id": "evervault-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Exabeam job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/exabeam/jobs",
@@ -1922,7 +1932,7 @@
    "id": "exabeam-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Exein job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/exein/jobs",
@@ -1931,7 +1941,7 @@
    "id": "exein-io"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Expel job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/expel/jobs",
@@ -1941,7 +1951,7 @@
    "id": "expel-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Fable Security job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/fable",
@@ -1951,7 +1961,7 @@
    "id": "fablesecurity-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Feedzai job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/feedzai/jobs",
@@ -1961,7 +1971,7 @@
    "id": "feedzai-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Fig Security job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/fig",
@@ -1971,7 +1981,7 @@
    "id": "fig-security"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Filigran job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/filigran",
@@ -1981,7 +1991,7 @@
    "id": "filigran-io"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Fireblocks job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/fireblocks/jobs",
@@ -1991,7 +2001,7 @@
    "id": "fireblocks-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read FireMon job board",
    "url": "https://api.lever.co/v0/postings/firemon",
@@ -2001,7 +2011,7 @@
    "id": "firemon-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Product Management (MSP) at Fixify for Claude to judge",
    "url": "https://job-boards.greenhouse.io/fixify/jobs/5442446008",
@@ -2011,7 +2021,7 @@
    "id": "fixify-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Fixify job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/fixify/jobs",
@@ -2020,7 +2030,7 @@
    "id": "fixify-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Flashpoint job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/flashpoint.io",
@@ -2030,7 +2040,7 @@
    "id": "flashpoint-intel-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager \u2013 Chargeback Recovery & Dispute Management at Forter for Claude to judge",
    "url": "https://job-boards.greenhouse.io/forter/jobs/8878373002",
@@ -2040,7 +2050,7 @@
    "id": "forter-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Forter job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/forter/jobs",
@@ -2050,7 +2060,7 @@
    "id": "forter-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Principal Product Manager - MoneyLion at Gen Digital for Claude to judge",
    "url": "https://jobs.ashbyhq.com/gen-digital/94c2b4f4-0bd3-45f2-86de-b1ce68b1ae73",
@@ -2060,7 +2070,7 @@
    "id": "gendigital-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager at Gen Digital for Claude to judge",
    "url": "https://jobs.ashbyhq.com/gen-digital/2d228314-d7ab-451f-8282-f3f9b471a80b",
@@ -2070,7 +2080,7 @@
    "id": "gendigital-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - Engine by Gen at Gen Digital for Claude to judge",
    "url": "https://jobs.ashbyhq.com/gen-digital/e3310b35-e86d-4ff6-adc9-34d18713e565",
@@ -2080,7 +2090,7 @@
    "id": "gendigital-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Sr Principal Product Manager at Gen Digital for Claude to judge",
    "url": "https://jobs.ashbyhq.com/gen-digital/5ba7035b-d9b8-4a96-aefe-a09ec3b0afa3",
@@ -2090,7 +2100,7 @@
    "id": "gendigital-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Product Management for Customer Engagement Platform at Gen Digital for Claude to judge",
    "url": "https://jobs.ashbyhq.com/gen-digital/5b686799-29e7-4473-a8de-66c7ddfe7830",
@@ -2100,7 +2110,7 @@
    "id": "gendigital-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Product, Web Experiences at Gen Digital for Claude to judge",
    "url": "https://jobs.ashbyhq.com/gen-digital/1bddbc52-fd9a-4b47-91bb-2644ba903d45",
@@ -2110,7 +2120,7 @@
    "id": "gendigital-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Sr Principal Product Manager \u2013 Norton Point Solutions at Gen Digital for Claude to judge",
    "url": "https://jobs.ashbyhq.com/gen-digital/32214a04-367e-4f9b-a2be-348a8e1b7726",
@@ -2120,7 +2130,7 @@
    "id": "gendigital-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager - MoneyLion Marketplace at Gen Digital for Claude to judge",
    "url": "https://jobs.ashbyhq.com/gen-digital/a3ac1eba-3ecb-4be5-be57-b719ce78055a",
@@ -2130,7 +2140,7 @@
    "id": "gendigital-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Designer at Gen Digital for Claude to judge",
    "url": "https://jobs.ashbyhq.com/gen-digital/b235313c-15dd-4e3a-8000-518b2ddcc50d",
@@ -2140,7 +2150,7 @@
    "id": "gendigital-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Product, Enterprise Content Hub at Gen Digital for Claude to judge",
    "url": "https://jobs.ashbyhq.com/gen-digital/aa44de12-2e2e-4830-87c3-fb06442ad6c4",
@@ -2150,7 +2160,7 @@
    "id": "gendigital-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Platform Engineering at Gen Digital for Claude to judge",
    "url": "https://jobs.ashbyhq.com/gen-digital/7f018640-5083-4c23-b72a-f2ad472a21f7",
@@ -2160,7 +2170,7 @@
    "id": "gendigital-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Head of LifeLock Brand and Growth Strategy & Planning at Gen Digital for Claude to judge",
    "url": "https://jobs.ashbyhq.com/gen-digital/4595d9ad-e7a9-4448-bedb-abc7378ccb86",
@@ -2170,7 +2180,7 @@
    "id": "gendigital-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Gen Digital job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/gen-digital",
@@ -2180,7 +2190,7 @@
    "id": "gendigital-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Geordie AI job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/geordieai",
@@ -2190,7 +2200,7 @@
    "id": "geordie-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Agency job board",
    "url": "https://api.smartrecruiters.com/v1/companies/agency/postings",
@@ -2200,7 +2210,7 @@
    "id": "getagency-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Clarity job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/clarity",
@@ -2210,7 +2220,7 @@
    "id": "getclarity-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Unbound job board",
    "url": "https://apply.workable.com/api/v1/widget/accounts/unbound",
@@ -2219,7 +2229,7 @@
    "id": "getunbound-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Glow job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/glow/jobs",
@@ -2228,7 +2238,7 @@
    "id": "glow-security"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Integrated Partnership Sales at Golf for Claude to judge",
    "url": "https://job-boards.greenhouse.io/golf/jobs/4707030006",
@@ -2238,7 +2248,7 @@
    "id": "golf-dev"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Golf job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/golf/jobs",
@@ -2247,7 +2257,7 @@
    "id": "golf-dev"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Teleport job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/goteleport",
@@ -2257,7 +2267,7 @@
    "id": "goteleport-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Guardz job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/guardz/jobs",
@@ -2267,7 +2277,7 @@
    "id": "guardz-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read HackerOne job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/hackerone",
@@ -2277,7 +2287,7 @@
    "id": "hackerone-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Field CISO at Halcyon for Claude to judge",
    "url": "https://job-boards.greenhouse.io/halcyon/jobs/6234812004",
@@ -2287,7 +2297,7 @@
    "id": "halcyon-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Halcyon job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/halcyon/jobs",
@@ -2297,7 +2307,7 @@
    "id": "halcyon-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Harmonic Security job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/harmonic",
@@ -2307,7 +2317,7 @@
    "id": "harmonic-security"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read HiddenLayer job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/hiddenlayer/jobs",
@@ -2317,7 +2327,7 @@
    "id": "hiddenlayer-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Hiro job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/hiro/jobs",
@@ -2326,7 +2336,7 @@
    "id": "hirosecure-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Product Marketing, Proactive Offense at Horizon3.ai for Claude to judge",
    "url": "https://jobs.ashbyhq.com/horizon3ai/f82ec7bc-14e8-4ebc-8ebe-16f9621776a6",
@@ -2336,7 +2346,7 @@
    "id": "horizon3-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Horizon3.ai job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/horizon3ai",
@@ -2346,7 +2356,7 @@
    "id": "horizon3-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Hubble Technology job board",
    "url": "https://apply.workable.com/api/v1/widget/accounts/hubble",
@@ -2355,7 +2365,7 @@
    "id": "hubble-net"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read HUMAN job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/human",
@@ -2365,7 +2375,7 @@
    "id": "humansecurity-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Marketing Manager at Huntress for Claude to judge",
    "url": "https://job-boards.greenhouse.io/huntress/jobs/8047703003",
@@ -2375,7 +2385,7 @@
    "id": "huntress-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Marketing Manager - Managed EDR at Huntress for Claude to judge",
    "url": "https://job-boards.greenhouse.io/huntress/jobs/8042270003",
@@ -2385,7 +2395,7 @@
    "id": "huntress-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, SOC Experience at Huntress for Claude to judge",
    "url": "https://job-boards.greenhouse.io/huntress/jobs/7995748003",
@@ -2395,7 +2405,7 @@
    "id": "huntress-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Huntress job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/huntress/jobs",
@@ -2405,7 +2415,7 @@
    "id": "huntress-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Hush Security job board",
    "url": "https://api.lever.co/v0/postings/hush",
@@ -2415,7 +2425,7 @@
    "id": "hush-security"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager at Huskeys for Claude to judge",
    "url": "https://jobs.ashbyhq.com/huskeys/d66df530-c2ec-4be3-95b5-8de8b9ed49af",
@@ -2425,7 +2435,7 @@
    "id": "huskeys-io"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Huskeys job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/huskeys",
@@ -2435,7 +2445,7 @@
    "id": "huskeys-io"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Hyperproof job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/hyperproof/jobs",
@@ -2445,7 +2455,7 @@
    "id": "hyperproof-io"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read HYPR job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/hypr/jobs",
@@ -2455,7 +2465,7 @@
    "id": "hypr-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Product Management at Illumio for Claude to judge",
    "url": "https://jobs.ashbyhq.com/illumio/7f29bf76-1122-493c-a6ab-43539b025888",
@@ -2465,7 +2475,7 @@
    "id": "illumio-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Product Marketing, Ecosystems and Growth at Illumio for Claude to judge",
    "url": "https://jobs.ashbyhq.com/illumio/25a65c45-c226-4eb5-b431-bf66d1b7eb8c",
@@ -2475,7 +2485,7 @@
    "id": "illumio-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Illumio job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/illumio",
@@ -2485,7 +2495,7 @@
    "id": "illumio-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Cyber Security Consultant - Saudi Arabia at Immersive Labs for Claude to judge",
    "url": "https://jobs.ashbyhq.com/immersivelabs/c3bb9eaf-ca1e-4f05-b66c-b194521efc64",
@@ -2495,7 +2505,7 @@
    "id": "immersivelabs-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Solutions Consultant (Cyber Security) - Portugal at Immersive Labs for Claude to judge",
    "url": "https://jobs.ashbyhq.com/immersivelabs/79b86368-e231-4947-bb4b-c05de75cf7a3",
@@ -2505,7 +2515,7 @@
    "id": "immersivelabs-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Immersive Labs job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/immersivelabs",
@@ -2515,7 +2525,7 @@
    "id": "immersivelabs-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Immuta job board",
    "url": "https://api.lever.co/v0/postings/immuta",
@@ -2525,7 +2535,7 @@
    "id": "immuta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read imper.ai job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/imperai/jobs",
@@ -2534,7 +2544,7 @@
    "id": "imper-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Incognia job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/incognia/jobs",
@@ -2544,7 +2554,7 @@
    "id": "incognia-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Infisical job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/infisical",
@@ -2554,7 +2564,7 @@
    "id": "infisical-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "error",
    "text": "Could not read Infoblox's job board (ashby)",
    "url": "https://api.ashbyhq.com/posting-api/job-board/infoblox",
@@ -2563,7 +2573,7 @@
    "id": "infoblox-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Irregular job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/irregular",
@@ -2573,7 +2583,7 @@
    "id": "irregular-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Iru job board",
    "url": "https://api.lever.co/v0/postings/iru",
@@ -2583,7 +2593,7 @@
    "id": "iru-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Island job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/island/jobs",
@@ -2593,7 +2603,7 @@
    "id": "island-io"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Joon job board",
    "url": "https://apply.workable.com/api/v1/widget/accounts/joon",
@@ -2602,7 +2612,7 @@
    "id": "joon-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Product Experience & Design - India at JumpCloud for Claude to judge",
    "url": "https://jobs.lever.co/jumpcloud/fe814ed3-7c8e-49a1-9fb2-166bbcacc85e",
@@ -2612,7 +2622,7 @@
    "id": "jumpcloud-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Product Marketing Management - United States at JumpCloud for Claude to judge",
    "url": "https://jobs.lever.co/jumpcloud/61788a74-57b5-4821-bbb0-8e1605fbed5c",
@@ -2622,7 +2632,7 @@
    "id": "jumpcloud-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Product Strategy and Operations  - Mexico at JumpCloud for Claude to judge",
    "url": "https://jobs.lever.co/jumpcloud/5538068d-b61a-4897-a928-7e3dab28d7bb",
@@ -2632,7 +2642,7 @@
    "id": "jumpcloud-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Product Strategy and Operations  -India at JumpCloud for Claude to judge",
    "url": "https://jobs.lever.co/jumpcloud/a99356ea-e217-4fef-8406-3d83dc1ff2c5",
@@ -2642,7 +2652,7 @@
    "id": "jumpcloud-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Marketing Manager - India at JumpCloud for Claude to judge",
    "url": "https://jobs.lever.co/jumpcloud/6a3f9f0d-f5e5-490d-b5cf-305b99a03c63",
@@ -2652,7 +2662,7 @@
    "id": "jumpcloud-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read JumpCloud job board",
    "url": "https://api.lever.co/v0/postings/jumpcloud",
@@ -2662,7 +2672,7 @@
    "id": "jumpcloud-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Kasada job board",
    "url": "https://api.lever.co/v0/postings/kasada",
@@ -2671,7 +2681,7 @@
    "id": "kasada-io"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager at Kaseya for Claude to judge",
    "url": "https://www.kaseya.com/careers/jobs/id/6147341004/?gh_jid=6147341004",
@@ -2681,7 +2691,7 @@
    "id": "kaseya-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Kaseya job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/kaseya/jobs",
@@ -2691,7 +2701,7 @@
    "id": "kaseya-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, RevOps Strategy & Operations at Keeper Security for Claude to judge",
    "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4476538009",
@@ -2701,7 +2711,7 @@
    "id": "keepersecurity-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Consumer (B2C) at Keeper Security for Claude to judge",
    "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4364101009",
@@ -2711,7 +2721,7 @@
    "id": "keepersecurity-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Keeper Security job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/keepersecurity/jobs",
@@ -2721,7 +2731,7 @@
    "id": "keepersecurity-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Keycard job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/keycard/jobs",
@@ -2730,7 +2740,7 @@
    "id": "keycard-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Product Marketing at Keyfactor for Claude to judge",
    "url": "https://job-boards.greenhouse.io/keyfactorinc/jobs/6213037004",
@@ -2740,7 +2750,7 @@
    "id": "keyfactor-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Keyfactor job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/keyfactorinc/jobs",
@@ -2750,7 +2760,7 @@
    "id": "keyfactor-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Koi job board",
    "url": "https://apply.workable.com/api/v1/widget/accounts/koi",
@@ -2759,7 +2769,7 @@
    "id": "koi-security"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read LoginRadius job board",
    "url": "https://apply.workable.com/api/v1/widget/accounts/loginradius",
@@ -2768,7 +2778,7 @@
    "id": "loginradius-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Logz.io job board",
    "url": "https://api.lever.co/v0/postings/logz",
@@ -2778,7 +2788,7 @@
    "id": "logz-io"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Lookout job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/lookout/jobs",
@@ -2787,7 +2797,7 @@
    "id": "lookout-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Lumos job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/lumos",
@@ -2797,7 +2807,7 @@
    "id": "lumos-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Lynx job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/lynxtech/jobs",
@@ -2807,7 +2817,7 @@
    "id": "lynxtech-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Material Security job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/materialsecurity",
@@ -2817,7 +2827,7 @@
    "id": "material-security"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager at Menlo Security for Claude to judge",
    "url": "https://jobs.ashbyhq.com/menlosecurity/4b767ad4-eb16-4436-be35-b2bb4ff67dc5",
@@ -2827,7 +2837,7 @@
    "id": "menlosecurity-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Menlo Security job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/menlosecurity",
@@ -2837,7 +2847,7 @@
    "id": "menlosecurity-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Metabase Q job board",
    "url": "https://api.smartrecruiters.com/v1/companies/metabaseq/postings",
@@ -2847,7 +2857,7 @@
    "id": "metabaseq-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Method Security job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/method/jobs",
@@ -2857,7 +2867,7 @@
    "id": "method-security"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Mimic job board",
    "url": "https://api.lever.co/v0/postings/mimic",
@@ -2867,7 +2877,7 @@
    "id": "mimic-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Head of Channel Partnerships at Nebulock for Claude to judge",
    "url": "https://jobs.ashbyhq.com/nebulock/85500f0b-e230-4612-8d80-5f21a5aa63ac",
@@ -2877,7 +2887,7 @@
    "id": "nebulock-io"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Nebulock job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/nebulock",
@@ -2887,7 +2897,7 @@
    "id": "nebulock-io"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read NetScout job board",
    "url": "https://netscout.wd108.myworkdayjobs.com/Careers",
@@ -2897,7 +2907,7 @@
    "id": "netscout-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager, AI Security at Netskope for Claude to judge",
    "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8260826",
@@ -2907,7 +2917,7 @@
    "id": "netskope-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Netskope job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/netskope/jobs",
@@ -2917,7 +2927,7 @@
    "id": "netskope-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager at Nightfall AI for Claude to judge",
    "url": "https://jobs.ashbyhq.com/nightfall-ai/c269561d-b2b2-4958-a710-7ab2b65d9f2b",
@@ -2927,7 +2937,7 @@
    "id": "nightfall-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Nightfall AI job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/nightfall-ai",
@@ -2937,7 +2947,7 @@
    "id": "nightfall-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Normalyze job board",
    "url": "https://api.lever.co/v0/postings/normalyze",
@@ -2946,7 +2956,7 @@
    "id": "normalyze-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Notabene job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/notabene",
@@ -2956,7 +2966,7 @@
    "id": "notabene-id"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Nudge Security job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/nudgesecurity",
@@ -2966,7 +2976,7 @@
    "id": "nudgesecurity-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Oasis Labs job board",
    "url": "https://apply.workable.com/api/v1/widget/accounts/oasis",
@@ -2975,7 +2985,7 @@
    "id": "oasislabs-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Chief Information Security Officer (CISO) at Obsidian Security for Claude to judge",
    "url": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5417263008",
@@ -2985,7 +2995,7 @@
    "id": "obsidiansecurity-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Obsidian Security job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/obsidiansecurity/jobs",
@@ -2995,7 +3005,7 @@
    "id": "obsidiansecurity-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Ockam job board",
    "url": "https://api.lever.co/v0/postings/ockam",
@@ -3004,7 +3014,7 @@
    "id": "ockam-io"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, APJ Deal Strategy at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/8222505?gh_jid=8222505",
@@ -3014,7 +3024,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, M&A People Strategy & Integration at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/8275286?gh_jid=8275286",
@@ -3024,7 +3034,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, M&A People Strategy & Integration at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/8275271?gh_jid=8275271",
@@ -3034,7 +3044,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, M&A People Strategy & Integration at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/8275287?gh_jid=8275287",
@@ -3044,7 +3054,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Partner Product Marketing at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/8220791?gh_jid=8220791",
@@ -3054,7 +3064,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Product Communications at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/7834352?gh_jid=7834352",
@@ -3064,7 +3074,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Product Management - Integrations at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/8022237?gh_jid=8022237",
@@ -3074,7 +3084,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director Product Manager - Okta Identity Threat Detection and Response Products at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/8157885?gh_jid=8157885",
@@ -3084,7 +3094,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Acceleration Specialist - Auth0 at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/8211192?gh_jid=8211192",
@@ -3094,7 +3104,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager, Enterprise AI at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/8332523?gh_jid=8332523",
@@ -3104,7 +3114,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - Agentic Security (Auth0) at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/8038929?gh_jid=8038929",
@@ -3114,7 +3124,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - Agentic Security (Auth0) at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/8041551?gh_jid=8041551",
@@ -3124,7 +3134,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - Auth0 at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/8072515?gh_jid=8072515",
@@ -3134,7 +3144,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Auth0 AI and Identity Products (Auth0) at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/7905576?gh_jid=7905576",
@@ -3144,7 +3154,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Okta Customer Identity at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/8214073?gh_jid=8214073",
@@ -3154,7 +3164,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Okta for AI Agents at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/8249918?gh_jid=8249918",
@@ -3164,7 +3174,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - Okta Identity Governance at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/8213755?gh_jid=8213755",
@@ -3174,7 +3184,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - Policies at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/8137951?gh_jid=8137951",
@@ -3184,7 +3194,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager - UI Platform at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/8022482?gh_jid=8022482",
@@ -3194,7 +3204,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Vice President, Vertical Strategy & Commercialization at Okta for Claude to judge",
    "url": "https://www.okta.com/company/careers/opportunity/8175690?gh_jid=8175690",
@@ -3204,7 +3214,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Okta job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/okta/jobs",
@@ -3214,7 +3224,7 @@
    "id": "okta-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Oligo Security job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/oligo",
@@ -3224,7 +3234,7 @@
    "id": "oligo-security"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Onapsis job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/onapsis/jobs",
@@ -3234,7 +3244,7 @@
    "id": "onapsis-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Oneleet job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/oneleet",
@@ -3244,7 +3254,7 @@
    "id": "oneleet-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read OneSpan job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/onespan/jobs",
@@ -3254,7 +3264,7 @@
    "id": "onespan-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager, AI Build Governance at OneTrust for Claude to judge",
    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8192394",
@@ -3264,7 +3274,7 @@
    "id": "onetrust-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager, AI Runtime Governance at OneTrust for Claude to judge",
    "url": "https://job-boards.greenhouse.io/onetrust/jobs/8192392",
@@ -3274,7 +3284,7 @@
    "id": "onetrust-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read OneTrust job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/onetrust/jobs",
@@ -3284,7 +3294,7 @@
    "id": "onetrust-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Ontic job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/ontic",
@@ -3294,7 +3304,7 @@
    "id": "ontic-co"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Onyx Security job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/onyx/jobs",
@@ -3303,7 +3313,7 @@
    "id": "onyx-security"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Opal job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/opal",
@@ -3313,7 +3323,7 @@
    "id": "opal-dev"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal AI Cybersecurity Advisor | Remote, USA at Optiv for Claude to judge",
    "url": "https://optiv.wd5.myworkdayjobs.com/Optiv_Careers/job/Overland-Park-Kansas/Principal-AI-Cybersecurity-Advisor_2026-13965",
@@ -3323,7 +3333,7 @@
    "id": "optiv-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Sr. Cybersecurity Advisor - Secure Networking | Remote, BAY AREA at Optiv for Claude to judge",
    "url": "https://optiv.wd5.myworkdayjobs.com/Optiv_Careers/job/Phoenix-Arizona/Sr-Cybersecurity-Advisor---Secure-Networking---Remote--BAY-AREA_2026-13914",
@@ -3333,7 +3343,7 @@
    "id": "optiv-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Cybersecurity Advisor-Cisco Networking and Security | Remote, USA at Optiv for Claude to judge",
    "url": "https://optiv.wd5.myworkdayjobs.com/Optiv_Careers/job/Leawood-Kansas/Principal-Advisor--Center-of-Excellence--Cisco-Splunk----Remote--USA_2026-13678",
@@ -3343,7 +3353,7 @@
    "id": "optiv-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Sr. Cybersecurity Advisor - Identity - Ohio, Pennsylvania | Remote, USA at Optiv for Claude to judge",
    "url": "https://optiv.wd5.myworkdayjobs.com/Optiv_Careers/job/Cincinnati-Ohio/Sr-Cybersecurity-Advisor---Endpoint---Kentucky-or-Indiana---Remote--USA_2026-14013",
@@ -3353,7 +3363,7 @@
    "id": "optiv-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Cybersecurity Advisor - Secure Networking | Remote, TX, MO, MN at Optiv for Claude to judge",
    "url": "https://optiv.wd5.myworkdayjobs.com/Optiv_Careers/job/Houston-Texas/Cybersecurity-Advisor---Threat-Management---Remote--MN--TX--TN--MO_2026-13865-1",
@@ -3363,7 +3373,7 @@
    "id": "optiv-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Security Engineering | Remote, USA at Optiv for Claude to judge",
    "url": "https://optiv.wd5.myworkdayjobs.com/Optiv_Careers/job/Overland-Park-Kansas/Director--Security-Engineering---Remote--USA_2026-14018",
@@ -3373,7 +3383,7 @@
    "id": "optiv-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Regional Director - Cybersecurity | Remote, Northeast at Optiv for Claude to judge",
    "url": "https://optiv.wd5.myworkdayjobs.com/Optiv_Careers/job/New-York-New-York/Regional-Director---Cybersecurity---Remote--Northeast_2026-13648",
@@ -3383,7 +3393,7 @@
    "id": "optiv-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Regional Director - Cybersecurity | Remote, South Atlantic Enterprise at Optiv for Claude to judge",
    "url": "https://optiv.wd5.myworkdayjobs.com/Optiv_Careers/job/Atlanta-Georgia/Regional-Director---Cybersecurity---Remote--South-Atlantic-Enterprise_2026-13960",
@@ -3393,7 +3403,7 @@
    "id": "optiv-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Field CISO - Client Advisory | Remote, Central Region at Optiv for Claude to judge",
    "url": "https://optiv.wd5.myworkdayjobs.com/Optiv_Careers/job/Kansas-City-Missouri/Field-CISO---Client-Advisory---Remote--Central-Region_2026-14028",
@@ -3403,7 +3413,7 @@
    "id": "optiv-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Optiv job board",
    "url": "https://optiv.wd5.myworkdayjobs.com/Optiv_Careers",
@@ -3413,7 +3423,7 @@
    "id": "optiv-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Orca Security job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/orca/jobs",
@@ -3422,7 +3432,7 @@
    "id": "orca-security"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Ordr job board",
    "url": "https://api.lever.co/v0/postings/ordr",
@@ -3431,7 +3441,7 @@
    "id": "ordr-net"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Oso job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/oso",
@@ -3441,7 +3451,7 @@
    "id": "osohq-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Overwatch job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/overwatch/jobs",
@@ -3451,7 +3461,7 @@
    "id": "overwatchdata-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Parameter job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/parameter",
@@ -3461,7 +3471,7 @@
    "id": "parameter-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Director of Product Marketing at Pindrop Security for Claude to judge",
    "url": "https://job-boards.greenhouse.io/pindropsecurity/jobs/7947149",
@@ -3471,7 +3481,7 @@
    "id": "pindrop-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Agent Identity Management at Pindrop Security for Claude to judge",
    "url": "https://job-boards.greenhouse.io/pindropsecurity/jobs/8301450",
@@ -3481,7 +3491,7 @@
    "id": "pindrop-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Security Researcher - Red Team (Contract) at Pindrop Security for Claude to judge",
    "url": "https://job-boards.greenhouse.io/pindropsecurity/jobs/8273637",
@@ -3491,7 +3501,7 @@
    "id": "pindrop-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Pindrop Security job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/pindropsecurity/jobs",
@@ -3501,7 +3511,7 @@
    "id": "pindrop-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Proof of Human job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/proofofhuman",
@@ -3511,7 +3521,7 @@
    "id": "poh-org"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Prelude job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/prelude",
@@ -3521,7 +3531,7 @@
    "id": "prelude-org"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager at Prophet Security for Claude to judge",
    "url": "https://jobs.ashbyhq.com/prophet-security/4fec2dd0-0859-4760-8afd-b18057ecb32c",
@@ -3531,7 +3541,7 @@
    "id": "prophetsecurity-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Prophet Security job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/prophet-security",
@@ -3541,7 +3551,7 @@
    "id": "prophetsecurity-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Push Security job board",
    "url": "https://api.lever.co/v0/postings/pushsecurity",
@@ -3550,7 +3560,7 @@
    "id": "pushsecurity-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Quantstamp job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/quantstamp",
@@ -3559,7 +3569,7 @@
    "id": "quantstamp-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Quantum Bridge job board",
    "url": "https://apply.workable.com/api/v1/widget/accounts/quantum-bridge",
@@ -3568,7 +3578,7 @@
    "id": "qubridge-io"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Cyber Security at RapidFort for Claude to judge",
    "url": "https://job-boards.greenhouse.io/rapidfortinc/jobs/4406079009",
@@ -3578,7 +3588,7 @@
    "id": "rapidfort-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director Of Technical Product Marketing at RapidFort for Claude to judge",
    "url": "https://job-boards.greenhouse.io/rapidfortinc/jobs/4277751009",
@@ -3588,7 +3598,7 @@
    "id": "rapidfort-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read RapidFort job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/rapidfortinc/jobs",
@@ -3598,7 +3608,7 @@
    "id": "rapidfort-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Raven.io job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/raven/jobs",
@@ -3608,7 +3618,7 @@
    "id": "raven-io"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Reach Security job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/reach",
@@ -3618,7 +3628,7 @@
    "id": "reach-security"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Reality Defender job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/realitydefender",
@@ -3628,7 +3638,7 @@
    "id": "realitydefender-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Red Points job board",
    "url": "https://api.smartrecruiters.com/v1/companies/RedPoints1/postings",
@@ -3638,7 +3648,7 @@
    "id": "redpoints-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read RegScale job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/regscale",
@@ -3648,7 +3658,7 @@
    "id": "regscale-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read ReliaQuest job board",
    "url": "https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers",
@@ -3658,7 +3668,7 @@
    "id": "reliaquest-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read ReversingLabs job board",
    "url": "https://apply.workable.com/api/v1/widget/accounts/reversinglabs",
@@ -3668,7 +3678,7 @@
    "id": "reversinglabs-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Revic job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/revic",
@@ -3678,7 +3688,7 @@
    "id": "revic-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Product Design at Rubrik for Claude to judge",
    "url": "https://www.rubrik.com/company/careers/departments/job.7576642?gh_jid=7576642",
@@ -3688,7 +3698,7 @@
    "id": "rubrik-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director,Product Design at Rubrik for Claude to judge",
    "url": "https://www.rubrik.com/company/careers/departments/job.7508560?gh_jid=7508560",
@@ -3698,7 +3708,7 @@
    "id": "rubrik-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Regional Director, Strategics at Rubrik for Claude to judge",
    "url": "https://www.rubrik.com/company/careers/departments/job.8226952?gh_jid=8226952",
@@ -3708,7 +3718,7 @@
    "id": "rubrik-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Regional Sales Director, SaaS Product Specialists at Rubrik for Claude to judge",
    "url": "https://www.rubrik.com/company/careers/departments/job.8268145?gh_jid=8268145",
@@ -3718,7 +3728,7 @@
    "id": "rubrik-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Director, IT Product Management - GTM & Customer Experience at Rubrik for Claude to judge",
    "url": "https://www.rubrik.com/company/careers/departments/job.8144296?gh_jid=8144296",
@@ -3728,7 +3738,7 @@
    "id": "rubrik-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Control Plane, RSC-G & Government at Rubrik for Claude to judge",
    "url": "https://www.rubrik.com/company/careers/departments/job.8225580?gh_jid=8225580",
@@ -3738,7 +3748,7 @@
    "id": "rubrik-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager-Identity Resilience at Rubrik for Claude to judge",
    "url": "https://www.rubrik.com/company/careers/departments/job.7976001?gh_jid=7976001",
@@ -3748,7 +3758,7 @@
    "id": "rubrik-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Rubrik job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/rubrik/jobs",
@@ -3758,7 +3768,7 @@
    "id": "rubrik-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Runsybil job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/runsybil-jobs",
@@ -3768,7 +3778,7 @@
    "id": "runsybil-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read SafeBreach job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/safebreach/jobs",
@@ -3778,7 +3788,7 @@
    "id": "safebreach-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Salt Security job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/saltsecurity/jobs",
@@ -3788,7 +3798,7 @@
    "id": "salt-security"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Product Management, Financial Simulation and Modeling at SandboxAQ for Claude to judge",
    "url": "https://jobs.ashbyhq.com/sandboxaq/a5897e7a-5453-4098-a16e-d8566a2c1992",
@@ -3798,7 +3808,7 @@
    "id": "sandboxaq-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Product Management, Financial Simulation and Modeling at SandboxAQ for Claude to judge",
    "url": "https://jobs.ashbyhq.com/sandboxaq/3eabb716-eaef-432e-ad88-f3e16d01e54b",
@@ -3808,7 +3818,7 @@
    "id": "sandboxaq-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Director of Product Management, Materials Discovery at SandboxAQ for Claude to judge",
    "url": "https://jobs.ashbyhq.com/sandboxaq/35fd6553-0dde-4e68-a757-20f7de5a1567",
@@ -3818,7 +3828,7 @@
    "id": "sandboxaq-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager, Catalysis at SandboxAQ for Claude to judge",
    "url": "https://jobs.ashbyhq.com/sandboxaq/ce5671a0-cc92-435b-95ee-6be37d9bba1f",
@@ -3828,7 +3838,7 @@
    "id": "sandboxaq-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Strategic Partnerships & Alliances, Chemical Simulation at SandboxAQ for Claude to judge",
    "url": "https://jobs.ashbyhq.com/sandboxaq/88df8dd4-674c-4fb4-b35e-0092eaa406ce",
@@ -3838,7 +3848,7 @@
    "id": "sandboxaq-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager, Material Science at SandboxAQ for Claude to judge",
    "url": "https://jobs.ashbyhq.com/sandboxaq/91aa801d-0f99-4271-bd77-baccbeed9adf",
@@ -3848,7 +3858,7 @@
    "id": "sandboxaq-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read SandboxAQ job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/sandboxaq",
@@ -3858,7 +3868,7 @@
    "id": "sandboxaq-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Sapiom job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/sapiom",
@@ -3868,7 +3878,7 @@
    "id": "sapiom-ai"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Product Management - FedGov at Saviynt for Claude to judge",
    "url": "https://jobs.lever.co/saviynt/f6a28e9c-6012-4eaf-8232-83cda5a38441",
@@ -3878,7 +3888,7 @@
    "id": "saviynt-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Product Management - Privileged Access Management at Saviynt for Claude to judge",
    "url": "https://jobs.lever.co/saviynt/766418c4-bf0e-4455-8dce-5702562ea450",
@@ -3888,7 +3898,7 @@
    "id": "saviynt-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Vice President - Security Operations Center and Cyber Defense at Saviynt for Claude to judge",
    "url": "https://jobs.lever.co/saviynt/e2b6ea31-1f27-44b9-bf61-dbb26beea2d9",
@@ -3898,7 +3908,7 @@
    "id": "saviynt-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Vice President, Application Security at Saviynt for Claude to judge",
    "url": "https://jobs.lever.co/saviynt/556cb1a4-c1e2-49a5-a4b4-1029e132edb8",
@@ -3908,7 +3918,7 @@
    "id": "saviynt-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted VP, Product Marketing \u2013 Identity Security Portfolio at Saviynt for Claude to judge",
    "url": "https://jobs.lever.co/saviynt/bc178398-a102-4c60-9647-e170c704f9fc",
@@ -3918,7 +3928,7 @@
    "id": "saviynt-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Saviynt job board",
    "url": "https://api.lever.co/v0/postings/saviynt",
@@ -3928,7 +3938,7 @@
    "id": "saviynt-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Secure Code Warrior job board",
    "url": "https://api.lever.co/v0/postings/securecodewarrior",
@@ -3938,7 +3948,7 @@
    "id": "securecodewarrior-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read SecurityScorecard job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/securityscorecard/jobs",
@@ -3948,7 +3958,7 @@
    "id": "securityscorecard-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Semgrep job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/semgrep",
@@ -3958,7 +3968,7 @@
    "id": "semgrep-dev"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Semperis job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/semperis",
@@ -3968,7 +3978,7 @@
    "id": "semperis-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Product Management at SentinelOne for Claude to judge",
    "url": "https://www.sentinelone.com/jobs/?gh_jid=8040890003",
@@ -3978,7 +3988,7 @@
    "id": "sentinelone-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Software Engineering, Agent Platform at SentinelOne for Claude to judge",
    "url": "https://www.sentinelone.com/jobs/?gh_jid=8161794003",
@@ -3988,7 +3998,7 @@
    "id": "sentinelone-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Legal Director, Strategic Deals at SentinelOne for Claude to judge",
    "url": "https://www.sentinelone.com/jobs/?gh_jid=8004567003",
@@ -3998,7 +4008,7 @@
    "id": "sentinelone-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted VP, Product - Platform & User Experience at SentinelOne for Claude to judge",
    "url": "https://www.sentinelone.com/jobs/?gh_jid=7887070003",
@@ -4008,7 +4018,7 @@
    "id": "sentinelone-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read SentinelOne job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/sentinellabs/jobs",
@@ -4018,7 +4028,7 @@
    "id": "sentinelone-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Sentra job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/sentra",
@@ -4028,7 +4038,7 @@
    "id": "sentra-io"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read SEON Fraud Fighters job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/seon",
@@ -4038,7 +4048,7 @@
    "id": "seon-io"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Shift Security job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/shift",
@@ -4048,7 +4058,7 @@
    "id": "shift-security"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Shift5 job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/shift5/jobs",
@@ -4058,7 +4068,7 @@
    "id": "shift5-io"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Sift job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/sift",
@@ -4068,7 +4078,7 @@
    "id": "sift-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Authorization Optimization at Signifyd for Claude to judge",
    "url": "https://job-boards.greenhouse.io/signifyd95/jobs/8311261",
@@ -4078,7 +4088,7 @@
    "id": "signifyd-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Signifyd job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/signifyd95/jobs",
@@ -4088,7 +4098,7 @@
    "id": "signifyd-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Skyflow job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/skyflow",
@@ -4098,7 +4108,7 @@
    "id": "skyflow-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Smallstep job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/smallstep",
@@ -4108,7 +4118,7 @@
    "id": "smallstep-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Snyk job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/snyk",
@@ -4118,7 +4128,7 @@
    "id": "snyk-io"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Head of Product at Socket.dev for Claude to judge",
    "url": "https://jobs.ashbyhq.com/socket/02c4af15-7ff5-4a4a-a961-cb1a557fb80a",
@@ -4128,7 +4138,7 @@
    "id": "socket-dev"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Socket.dev job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/socket",
@@ -4138,7 +4148,7 @@
    "id": "socket-dev"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Core Fraud Services at Socure for Claude to judge",
    "url": "https://jobs.ashbyhq.com/socure/c102743f-f368-4393-8776-3a83a461fd0d",
@@ -4148,7 +4158,7 @@
    "id": "socure-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Head of Credit Products at Socure for Claude to judge",
    "url": "https://jobs.ashbyhq.com/socure/deeb602a-2cf5-4f7e-b665-8363b7d8e5ce",
@@ -4158,7 +4168,7 @@
    "id": "socure-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Head of Solution and Commercialization Strategy at Socure for Claude to judge",
    "url": "https://jobs.ashbyhq.com/socure/37b1c17f-1510-4975-b016-1216345a8c17",
@@ -4168,7 +4178,7 @@
    "id": "socure-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Watchlist at Socure for Claude to judge",
    "url": "https://jobs.ashbyhq.com/socure/055da1d9-4664-4921-9787-642b34465bba",
@@ -4178,7 +4188,7 @@
    "id": "socure-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Operations Manager at Socure for Claude to judge",
    "url": "https://jobs.ashbyhq.com/socure/66f9e73e-1eb8-45a7-a47a-d2095c73c3b4",
@@ -4188,7 +4198,7 @@
    "id": "socure-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Identity Products at Socure for Claude to judge",
    "url": "https://jobs.ashbyhq.com/socure/39f89181-37e6-4358-a959-d38966d27f32",
@@ -4198,7 +4208,7 @@
    "id": "socure-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Head of Market Strategy, Public Sector at Socure for Claude to judge",
    "url": "https://jobs.ashbyhq.com/socure/cad3e43c-f9a7-44fb-a2b0-6577541e1a58",
@@ -4208,7 +4218,7 @@
    "id": "socure-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Strategic Alliance Director at Socure for Claude to judge",
    "url": "https://jobs.ashbyhq.com/socure/425210d6-1f00-436a-8780-c07afc797989",
@@ -4218,7 +4228,7 @@
    "id": "socure-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Socure job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/socure",
@@ -4228,7 +4238,7 @@
    "id": "socure-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Sola Security job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/sola",
@@ -4238,7 +4248,7 @@
    "id": "sola-security"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Sonrai Security job board",
    "url": "https://api.lever.co/v0/postings/sonrai-security",
@@ -4248,7 +4258,7 @@
    "id": "sonraisecurity-com"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager-BloodHound Enterprise at SpecterOps for Claude to judge",
    "url": "https://job-boards.greenhouse.io/specterops/jobs/8609019002",
@@ -4258,7 +4268,7 @@
    "id": "specterops-io"
   },
   {
-   "ts": "2026-11-03T12:17:32Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read SpecterOps job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/specterops/jobs",
@@ -4268,7 +4278,7 @@
    "id": "specterops-io"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Professional Services & Audit Delivery Partnerships at Sprinto for Claude to judge",
    "url": "https://jobs.lever.co/Sprinto/5e866b3b-5580-4f00-ad16-3bbf3beb0ea3",
@@ -4278,7 +4288,7 @@
    "id": "sprinto-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted GRC Consultant \u2013 Compliance & Audit Readiness at Sprinto for Claude to judge",
    "url": "https://jobs.lever.co/Sprinto/96239caa-e8c8-4d04-a734-49fd6a12eb0f",
@@ -4288,7 +4298,7 @@
    "id": "sprinto-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior GRC Consultant at Sprinto for Claude to judge",
    "url": "https://jobs.lever.co/Sprinto/28e86724-78ef-49c0-ab4a-65bcabeab8c6",
@@ -4298,7 +4308,7 @@
    "id": "sprinto-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Sprinto job board",
    "url": "https://api.lever.co/v0/postings/Sprinto",
@@ -4308,7 +4318,7 @@
    "id": "sprinto-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read StackHawk job board",
    "url": "https://api.lever.co/v0/postings/stackhawk",
@@ -4318,7 +4328,7 @@
    "id": "stackhawk-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Stacklok job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/stacklok/jobs",
@@ -4328,7 +4338,7 @@
    "id": "stacklok-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Stream Security job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/stream",
@@ -4338,7 +4348,7 @@
    "id": "stream-security"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Strivacity job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/strivacity/jobs",
@@ -4348,7 +4358,7 @@
    "id": "strivacity-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read strongDM job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/strongdm",
@@ -4357,7 +4367,7 @@
    "id": "strongdm-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Sublime Security job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/sublime-security",
@@ -4366,7 +4376,7 @@
    "id": "sublimesecurity-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager at Sumo Logic for Claude to judge",
    "url": "https://job-boards.greenhouse.io/sumologic/jobs/8089130",
@@ -4376,7 +4386,7 @@
    "id": "sumologic-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager at Sumo Logic for Claude to judge",
    "url": "https://job-boards.greenhouse.io/sumologic/jobs/8098451",
@@ -4386,7 +4396,7 @@
    "id": "sumologic-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Sumo Logic job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/sumologic/jobs",
@@ -4396,7 +4406,7 @@
    "id": "sumologic-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Consultant, Digital Forensics and Incident Response (DFIR) (Remote) at Surefire Cyber for Claude to judge",
    "url": "https://job-boards.greenhouse.io/surefirecyber/jobs/5279830007",
@@ -4406,7 +4416,7 @@
    "id": "surefirecyber-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Consultant, Digital Forensics and Incident Response (DFIR) (Remote) at Surefire Cyber for Claude to judge",
    "url": "https://job-boards.greenhouse.io/surefirecyber/jobs/5279823007",
@@ -4416,7 +4426,7 @@
    "id": "surefirecyber-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Surefire Cyber job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/surefirecyber/jobs",
@@ -4426,7 +4436,7 @@
    "id": "surefirecyber-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Surf AI job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/surfai/jobs",
@@ -4436,7 +4446,7 @@
    "id": "surf-ai"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Sweet Security job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/sweetsecurity/jobs",
@@ -4446,7 +4456,7 @@
    "id": "sweet-security"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Synack job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/synack/jobs",
@@ -4456,7 +4466,7 @@
    "id": "synack-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Security Engineering at Sysdig for Claude to judge",
    "url": "https://jobs.lever.co/sysdig/49b38de8-5034-4bd1-a5eb-a206a2866516",
@@ -4466,7 +4476,7 @@
    "id": "sysdig-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Security Research at Sysdig for Claude to judge",
    "url": "https://jobs.lever.co/sysdig/a48eacc4-cc0f-47fe-9f2b-b7dd5b9b3e9b",
@@ -4476,7 +4486,7 @@
    "id": "sysdig-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Sysdig job board",
    "url": "https://api.lever.co/v0/postings/sysdig",
@@ -4486,7 +4496,7 @@
    "id": "sysdig-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Tailscale job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/tailscale/jobs",
@@ -4496,7 +4506,7 @@
    "id": "tailscale-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Strategic Accounts at Tanium for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tanium/jobs/8280252",
@@ -4506,7 +4516,7 @@
    "id": "tanium-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Strategic Accounts at Tanium for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tanium/jobs/7993973",
@@ -4516,7 +4526,7 @@
    "id": "tanium-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Strategic Accounts - Bay Area at Tanium for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tanium/jobs/8097828",
@@ -4526,7 +4536,7 @@
    "id": "tanium-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Strategic Accounts - Emerging Enterprise at Tanium for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tanium/jobs/8259503",
@@ -4536,7 +4546,7 @@
    "id": "tanium-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Strategic Accounts - Mexico at Tanium for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tanium/jobs/7514492",
@@ -4546,7 +4556,7 @@
    "id": "tanium-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Strategic Accounts - Mid-Market - AZ/Utah at Tanium for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tanium/jobs/8335038",
@@ -4556,7 +4566,7 @@
    "id": "tanium-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Strategic Accounts - Mid-Market Bay Area at Tanium for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tanium/jobs/8259500",
@@ -4566,7 +4576,7 @@
    "id": "tanium-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Strategic Accounts- Mid-Market MS/SC/AL at Tanium for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tanium/jobs/8260781",
@@ -4576,7 +4586,7 @@
    "id": "tanium-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Strategic Accounts - SLED Northeast at Tanium for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tanium/jobs/7874935",
@@ -4586,7 +4596,7 @@
    "id": "tanium-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Strategic Accounts - U.S. ARMY at Tanium for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tanium/jobs/8213830",
@@ -4596,7 +4606,7 @@
    "id": "tanium-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Strategic Accounts (U.S. Mid-Atlantic Education) at Tanium for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tanium/jobs/8335155",
@@ -4606,7 +4616,7 @@
    "id": "tanium-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Strategic Accounts - U.S. Southeast Education at Tanium for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tanium/jobs/8280255",
@@ -4616,7 +4626,7 @@
    "id": "tanium-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Product Management - Data Platform at Tanium for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tanium/jobs/8068531",
@@ -4626,7 +4636,7 @@
    "id": "tanium-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Product Partnerships - Technical Partnerships & Programs at Tanium for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tanium/jobs/7739888",
@@ -4636,7 +4646,7 @@
    "id": "tanium-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Strategic Partner Accounts - Optiv/Guidepoint at Tanium for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tanium/jobs/8260778",
@@ -4646,7 +4656,7 @@
    "id": "tanium-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Product Marketing Director at Tanium for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tanium/jobs/8226548",
@@ -4656,7 +4666,7 @@
    "id": "tanium-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, AI Core Services at Tanium for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tanium/jobs/8113459",
@@ -4666,7 +4676,7 @@
    "id": "tanium-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Tanium job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/tanium/jobs",
@@ -4676,7 +4686,7 @@
    "id": "tanium-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director, Global Government Affairs (SLED) - Cybersecurity at Tenable for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tenableinc/jobs/5467527008",
@@ -4686,7 +4696,7 @@
    "id": "tenable-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Director of Product Marketing -  Cloud & OT Security at Tenable for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tenableinc/jobs/5413733008",
@@ -4696,7 +4706,7 @@
    "id": "tenable-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager at Tenable for Claude to judge",
    "url": "https://job-boards.greenhouse.io/tenableinc/jobs/5446550008",
@@ -4706,7 +4716,7 @@
    "id": "tenable-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Tenable job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/tenableinc/jobs",
@@ -4716,7 +4726,7 @@
    "id": "tenable-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager - AI at TENEX.AI for Claude to judge",
    "url": "https://jobs.ashbyhq.com/tenex/bbca1aa3-cdfe-495c-8739-3c3119bfdfd0",
@@ -4726,7 +4736,7 @@
    "id": "tenex-ai"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read TENEX.AI job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/tenex",
@@ -4736,7 +4746,7 @@
    "id": "tenex-ai"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Terra Security job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/terra",
@@ -4746,7 +4756,7 @@
    "id": "terra-security"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Tigera job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/tigera/jobs",
@@ -4756,7 +4766,7 @@
    "id": "tigera-io"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Tines job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/tines/jobs",
@@ -4766,7 +4776,7 @@
    "id": "tines-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Tolmo job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/tolmo",
@@ -4776,7 +4786,7 @@
    "id": "tolmo-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Torq job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/torq/jobs",
@@ -4786,7 +4796,7 @@
    "id": "torq-io"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Tracebit job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/tracebit",
@@ -4796,7 +4806,7 @@
    "id": "tracebit-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager at Transmit Security for Claude to judge",
    "url": "https://www.transmitsecurity.com/about/careers/job?gh_jid=8742089002",
@@ -4806,7 +4816,7 @@
    "id": "transmitsecurity-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:33:58Z",
    "action": "read",
    "text": "Read Transmit Security job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/transmitsecurity/jobs",
@@ -4816,7 +4826,7 @@
    "id": "transmitsecurity-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "read",
    "text": "Read TrustArc job board",
    "url": "https://api.lever.co/v0/postings/trustarc",
@@ -4826,7 +4836,7 @@
    "id": "trustarc-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "read",
    "text": "Read Riot job board",
    "url": "https://api.lever.co/v0/postings/tryriot",
@@ -4836,7 +4846,7 @@
    "id": "tryriot-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Commitments at Vanta for Claude to judge",
    "url": "https://jobs.ashbyhq.com/vanta/0eb769bf-5444-491b-8721-2fc579ca4932",
@@ -4846,7 +4856,7 @@
    "id": "vanta-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted GRC Pre-Sales Consultant / Solutions Engineer \u2013 EMEA at Vanta for Claude to judge",
    "url": "https://jobs.ashbyhq.com/vanta/d38e7474-2b44-415c-824a-3debb757c9af",
@@ -4856,7 +4866,7 @@
    "id": "vanta-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted GRC Pre-Sales Consultant / Solutions Engineer \u2013 EMEA at Vanta for Claude to judge",
    "url": "https://jobs.ashbyhq.com/vanta/70a8c96d-ab5d-4e3e-9ff3-7f45a3147be4",
@@ -4866,7 +4876,7 @@
    "id": "vanta-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Director of Product, Governance & Compliance at Vanta for Claude to judge",
    "url": "https://jobs.ashbyhq.com/vanta/20d2c9aa-19da-4370-9378-491312f6f98a",
@@ -4876,7 +4886,7 @@
    "id": "vanta-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Director, Vanta for Government Partnerships at Vanta for Claude to judge",
    "url": "https://jobs.ashbyhq.com/vanta/c27d1d10-9bab-484b-af98-1071c6834d77",
@@ -4886,7 +4896,7 @@
    "id": "vanta-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager, Integrations at Vanta for Claude to judge",
    "url": "https://jobs.ashbyhq.com/vanta/22ba8036-10cb-405d-82fb-9cb07324934c",
@@ -4896,7 +4906,7 @@
    "id": "vanta-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "read",
    "text": "Read Vanta job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/vanta",
@@ -4906,7 +4916,7 @@
    "id": "vanta-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "read",
    "text": "Read Variance job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/intrinsic-safety",
@@ -4916,7 +4926,7 @@
    "id": "variance-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Director of Engineering (Data Platform) at Vectra AI for Claude to judge",
    "url": "https://www.vectra.ai/about/jobs?gh_jid=7942221",
@@ -4926,7 +4936,7 @@
    "id": "vectra-ai"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "read",
    "text": "Read Vectra AI job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/vectranetworks/jobs",
@@ -4936,7 +4946,7 @@
    "id": "vectra-ai"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Field Security Advisor at Veeam Software for Claude to judge",
    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4520406101",
@@ -4946,7 +4956,7 @@
    "id": "veeam-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Head Of National Security Policy at Veeam Software for Claude to judge",
    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5017997101",
@@ -4956,7 +4966,7 @@
    "id": "veeam-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager, Graph & Reporting at Veeam Software for Claude to judge",
    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4888499101",
@@ -4966,7 +4976,7 @@
    "id": "veeam-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Product Marketing Director, DataAI Privacy at Veeam Software for Claude to judge",
    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4935419101",
@@ -4976,7 +4986,7 @@
    "id": "veeam-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Product Marketing Director, DataAI Privacy at Veeam Software for Claude to judge",
    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4954191101",
@@ -4986,7 +4996,7 @@
    "id": "veeam-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Product Marketing Director, Veeam Intelligent ResOps at Veeam Software for Claude to judge",
    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4935417101",
@@ -4996,7 +5006,7 @@
    "id": "veeam-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Product Marketing Director, Veeam Intelligent ResOps at Veeam Software for Claude to judge",
    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4954148101",
@@ -5006,7 +5016,7 @@
    "id": "veeam-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Senior Director, Product Management at Veeam Software for Claude to judge",
    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4939106101",
@@ -5016,7 +5026,7 @@
    "id": "veeam-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "read",
    "text": "Read Veeam Software job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/veeamsoftware/jobs",
@@ -5026,7 +5036,7 @@
    "id": "veeam-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "read",
    "text": "Read Vega job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/vega/jobs",
@@ -5036,7 +5046,7 @@
    "id": "vega-io"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Senior Director of Product Marketing at Veriff for Claude to judge",
    "url": "https://www.veriff.com/careers/position/8626079002?gh_jid=8626079002",
@@ -5046,7 +5056,7 @@
    "id": "veriff-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "read",
    "text": "Read Veriff job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/veriff/jobs",
@@ -5056,7 +5066,7 @@
    "id": "veriff-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "read",
    "text": "Read Virtru job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/virtru/jobs",
@@ -5066,7 +5076,7 @@
    "id": "virtru-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "read",
    "text": "Read Vulncheck job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/vulncheck/jobs",
@@ -5076,7 +5086,7 @@
    "id": "vulncheck-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "read",
    "text": "Read WitnessAI job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/witnessai",
@@ -5086,7 +5096,7 @@
    "id": "witness-ai"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Chief of Staff - Office of the Chief Security Sales Officer at Wiz for Claude to judge",
    "url": "https://www.wiz.io/careers/job/4719423006/:title?gh_jid=4719423006",
@@ -5096,7 +5106,7 @@
    "id": "wiz-io"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Director, Strategic Partners - TCS at Wiz for Claude to judge",
    "url": "https://www.wiz.io/careers/job/4712009006/:title?gh_jid=4712009006",
@@ -5106,7 +5116,7 @@
    "id": "wiz-io"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "read",
    "text": "Read Wiz job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/wizinc/jobs",
@@ -5116,7 +5126,7 @@
    "id": "wiz-io"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "read",
    "text": "Read WorkOS job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/workos",
@@ -5126,7 +5136,7 @@
    "id": "workos-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Senior Product Manager at Yubico for Claude to judge",
    "url": "https://job-boards.greenhouse.io/yubico/jobs/4411760009",
@@ -5136,7 +5146,7 @@
    "id": "yubico-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "read",
    "text": "Read Yubico job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/yubico/jobs",
@@ -5146,7 +5156,7 @@
    "id": "yubico-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted VP of Security/GRC Partnerships at Zania for Claude to judge",
    "url": "https://jobs.ashbyhq.com/zania/5a1141b8-8772-4018-a3bb-bbe57340c154",
@@ -5156,7 +5166,7 @@
    "id": "zania-ai"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "read",
    "text": "Read Zania job board",
    "url": "https://api.ashbyhq.com/posting-api/job-board/zania",
@@ -5166,7 +5176,7 @@
    "id": "zania-ai"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Director of Global AWS Cloud Alliance at Zscaler for Claude to judge",
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5147255007",
@@ -5176,7 +5186,7 @@
    "id": "zscaler-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Director, Product Management-Customer Growth & Value Realization at Zscaler for Claude to judge",
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5250710007",
@@ -5186,7 +5196,7 @@
    "id": "zscaler-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Director, Product Management, ZIA at Zscaler for Claude to judge",
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5250704007",
@@ -5196,7 +5206,7 @@
    "id": "zscaler-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Director, Site Reliability Engineering (Production Engineering) at Zscaler for Claude to judge",
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5237915007",
@@ -5206,7 +5216,7 @@
    "id": "zscaler-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Director, Software Engineering - Common Platform Services at Zscaler for Claude to judge",
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5166806007",
@@ -5216,7 +5226,7 @@
    "id": "zscaler-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Principal Production Engineer at Zscaler for Claude to judge",
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5149607007",
@@ -5226,7 +5236,7 @@
    "id": "zscaler-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager at Zscaler for Claude to judge",
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5236312007",
@@ -5236,7 +5246,7 @@
    "id": "zscaler-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager at Zscaler for Claude to judge",
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5257756007",
@@ -5246,7 +5256,7 @@
    "id": "zscaler-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Principal Product Manager-Sovereign Cloud at Zscaler for Claude to judge",
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5215309007",
@@ -5256,7 +5266,7 @@
    "id": "zscaler-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Principal Product Marketing Manager, Zero Trust for Agentic AI at Zscaler for Claude to judge",
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5169428007",
@@ -5266,7 +5276,7 @@
    "id": "zscaler-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Principal Product Specialist (Browser Security/Web Security) at Zscaler for Claude to judge",
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5230413007",
@@ -5276,7 +5286,7 @@
    "id": "zscaler-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Principal Product Specialist-Web Security / SSE / Zero Trust at Zscaler for Claude to judge",
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5229003007",
@@ -5286,7 +5296,7 @@
    "id": "zscaler-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Regional Director, Data Security - EMEA & APJ at Zscaler for Claude to judge",
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5261047007",
@@ -5296,7 +5306,7 @@
    "id": "zscaler-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "review",
    "text": "Shortlisted Senior Director, Product Management at Zscaler for Claude to judge",
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4964557007",
@@ -5306,7 +5316,7 @@
    "id": "zscaler-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "read",
    "text": "Read Zscaler job board",
    "url": "https://boards-api.greenhouse.io/v1/boards/zscaler/jobs",
@@ -5316,17 +5326,17 @@
    "id": "zscaler-com"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "read",
    "text": "56 companies have no public job-board API; queued for the browser check by Claude",
    "detail": "Aembit, Akto, AppDome, Aqua Security, Arpio, AttackIQ, Black Kite, BlueFlag Security, Claroty, Cycode, Cyera, Detectify, DTEX, Eclypsium, Elisity, Feroot Security, Fivecast, Fleet Device Management, Forescout, GitGuardian, GoSecure, Guardare, Halborn, Hypernative, iboss, Inforcer, Interos, Jazz, Kiteworks, Lightbeam.AI, Linx Security, Lumu Technologies, Netography, NetSPI, NowSecure, Pentera, Perygee, PlainID, PrivacyHawk, ProcessUnity, Prosimo.io, Radware, Reco, Resemble AI, RiPSIM Technologies, SAM Seamless Network, Securonix, Silent Push, SPHERE Technology Solutions, Splashtop, Synadia Communications, Tenzai, Twine Security, Varonis, Vaultree, Whistic"
   },
   {
-   "ts": "2026-11-03T12:17:33Z",
+   "ts": "2026-11-03T12:34:27Z",
    "action": "run",
-   "text": "Finished: 240 job boards read (6862 postings), 286 roles shortlisted, 4 errors, 56 left for the browser",
+   "text": "Finished: 240 job boards read (6863 postings), 287 roles shortlisted, 4 errors, 56 left for the browser",
    "result": "done"
   }
  ],
- "runUrl": "https://github.com/CyberheadAdvisors/JobsCRM/actions/runs/41634424137"
+ "runUrl": "https://github.com/CyberheadAdvisors/JobsCRM/actions/runs/41636742063"
 }
