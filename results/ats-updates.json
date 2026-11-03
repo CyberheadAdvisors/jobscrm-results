@@ -1,0 +1,69 @@
+{
+ "date": "2026-11-02",
+ "checked": 381,
+ "found": [
+  {
+   "id": "above-security",
+   "name": "Above Security",
+   "ats": "workable",
+   "atsSlug": "above",
+   "atsHost": "",
+   "careersUrl": "https://apply.workable.com/above",
+   "jobs": 0
+  },
+  {
+   "id": "act-security",
+   "name": "Act",
+   "ats": "workable",
+   "atsSlug": "act",
+   "atsHost": "",
+   "careersUrl": "https://apply.workable.com/act",
+   "jobs": 0
+  },
+  {
+   "id": "akamai-com",
+   "name": "Akamai",
+   "ats": "workable",
+   "atsSlug": "akamai",
+   "atsHost": "",
+   "careersUrl": "https://apply.workable.com/akamai",
+   "jobs": 0
+  },
+  {
+   "id": "arqit-uk",
+   "name": "Arqit Quantum",
+   "ats": "greenhouse",
+   "atsSlug": "arqitlimited",
+   "atsHost": "",
+   "careersUrl": "https://job-boards.greenhouse.io/arqitlimited",
+   "jobs": 6
+  },
+  {
+   "id": "asymptotelabs-ai",
+   "name": "Asymptote Labs",
+   "ats": "ashby",
+   "atsSlug": "asymptotelabs",
+   "atsHost": "",
+   "careersUrl": "https://jobs.ashbyhq.com/asymptotelabs",
+   "jobs": 4
+  },
+  {
+   "id": "iverify-com",
+   "name": "iVerify",
+   "ats": "ashby",
+   "atsSlug": "iverify",
+   "atsHost": "",
+   "careersUrl": "https://jobs.ashbyhq.com/iverify",
+   "jobs": 4
+  },
+  {
+   "id": "ultra-security",
+   "name": "Ultra Security",
+   "ats": "ashby",
+   "atsSlug": "ultra",
+   "atsHost": "",
+   "careersUrl": "https://jobs.ashbyhq.com/ultra",
+   "jobs": 2
+  }
+ ]
+}

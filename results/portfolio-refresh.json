@@ -1,0 +1,138 @@
+{
+ "date": "2026-11-01",
+ "new": [
+  {
+   "id": "greenplaces-com",
+   "name": "Green Places",
+   "domain": "greenplaces.com",
+   "type": "private",
+   "exchange": "",
+   "ticker": "",
+   "hq": "North Raleigh, Raleigh, NC, USA",
+   "segment": "GreenPlaces is a sustainability software that serves as a company's sustainability team. W",
+   "note": "",
+   "stage": "Series A",
+   "size": "51-200 staff",
+   "investors": [
+    "Redpoint"
+   ],
+   "tier": 2,
+   "executives": [],
+   "careersUrl": "https://job-boards.greenhouse.io/greenplaces",
+   "ats": "greenhouse",
+   "atsSlug": "greenplaces",
+   "atsHost": "",
+   "status": "new",
+   "found": "2026-11-01"
+  },
+  {
+   "id": "crogl-com",
+   "name": "Crogl",
+   "domain": "crogl.com",
+   "type": "private",
+   "exchange": "",
+   "ticker": "",
+   "hq": "Albuquerque, NM, USA",
+   "segment": "Crogl investigates thousands of alerts per day following your organization's workflows by ",
+   "note": "",
+   "stage": "Seed",
+   "size": "11-50 staff",
+   "investors": [
+    "Menlo Ventures"
+   ],
+   "tier": 2,
+   "executives": [],
+   "careersUrl": "https://jobs.ashbyhq.com/crogl",
+   "ats": "ashby",
+   "atsSlug": "crogl",
+   "atsHost": "",
+   "status": "new",
+   "found": "2026-11-01"
+  },
+  {
+   "id": "goloti-com",
+   "name": "Loti",
+   "domain": "goloti.com",
+   "type": "private",
+   "exchange": "",
+   "ticker": "",
+   "hq": "University of Washington, Seattle, WA, USA",
+   "segment": "Loti AI protects major celebrities, public figures, and corporate IP from online threats, ",
+   "note": "",
+   "stage": "Series A",
+   "size": "51-200 staff",
+   "investors": [
+    "Khosla Ventures"
+   ],
+   "tier": 2,
+   "executives": [],
+   "careersUrl": "",
+   "ats": "",
+   "atsSlug": "",
+   "atsHost": "",
+   "status": "new",
+   "found": "2026-11-01"
+  },
+  {
+   "id": "runlayer-com",
+   "name": "Runlayer",
+   "domain": "runlayer.com",
+   "type": "private",
+   "exchange": "",
+   "ticker": "",
+   "hq": "New York, NY, USA",
+   "segment": "Runlayer provides an AI enablement and control platform that helps companies deploy, manag",
+   "note": "",
+   "stage": "Series A",
+   "size": "",
+   "investors": [
+    "Khosla Ventures"
+   ],
+   "tier": 2,
+   "executives": [],
+   "careersUrl": "https://jobs.ashbyhq.com/runlayer",
+   "ats": "ashby",
+   "atsSlug": "runlayer",
+   "atsHost": "",
+   "status": "new",
+   "found": "2026-11-01"
+  }
+ ],
+ "investorUpdates": {
+  "aura-com": [
+   "Ten Eleven Ventures",
+   "Accel",
+   "General Catalyst"
+  ],
+  "forescout-com": [
+   "Forgepoint Capital",
+   "Accel"
+  ],
+  "armadin-com": [
+   "Accel",
+   "Bain Capital Ventures",
+   "Ballistic Ventures",
+   "GV (Google Ventures)",
+   "Menlo Ventures"
+  ],
+  "surf-ai": [
+   "CyberStarts",
+   "Accel"
+  ],
+  "tenable-com": [
+   "Accel"
+  ],
+  "vega-io": [
+   "CyberStarts",
+   "Accel",
+   "Redpoint"
+  ]
+ },
+ "failedSources": [],
+ "stats": {
+  "existing": 716,
+  "seenThisRun": 320,
+  "new": 4,
+  "investorUpdates": 6
+ }
+}

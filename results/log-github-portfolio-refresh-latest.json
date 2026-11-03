@@ -1,0 +1,283 @@
+{
+ "docId": "2026-11-01-github-portfolio-refresh-0555",
+ "actor": "github",
+ "task": "GitHub portfolio refresh",
+ "runType": "scheduled",
+ "started": "2026-11-01T05:55:38Z",
+ "finished": "2026-11-01T05:55:55Z",
+ "summary": "320 security companies seen, 4 new candidates, 6 investor updates, 0 sources failed",
+ "events": [
+  {
+   "ts": "2026-11-01T05:55:38Z",
+   "action": "run",
+   "text": "Started GitHub portfolio refresh on GitHub Actions"
+  },
+  {
+   "ts": "2026-11-01T05:55:38Z",
+   "action": "read",
+   "text": "Read the company list (716 companies) and 155 excluded domains"
+  },
+  {
+   "ts": "2026-11-01T05:55:38Z",
+   "action": "connect",
+   "text": "Connected to the Getro portfolio-board API (api.getro.com) for 21 investors",
+   "result": "read-only"
+  },
+  {
+   "ts": "2026-11-01T05:55:38Z",
+   "action": "read",
+   "text": "Read Ten Eleven Ventures portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/1488/search/companies",
+   "result": "43 companies, 39 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:38Z",
+   "action": "read",
+   "text": "Read Forgepoint Capital portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/1369/search/companies",
+   "result": "31 companies, 23 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:38Z",
+   "action": "read",
+   "text": "Read NightDragon portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/1105/search/companies",
+   "result": "22 companies, 11 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:44Z",
+   "action": "read",
+   "text": "Read Accel portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/8672/search/companies",
+   "result": "712 companies, 69 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:44Z",
+   "action": "read",
+   "text": "Read Redpoint portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/189/search/companies",
+   "result": "98 companies, 18 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:44Z",
+   "action": "read",
+   "text": "Read General Catalyst portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/222/search/companies",
+   "result": "544 companies, 36 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:44Z",
+   "action": "read",
+   "text": "Read Sapphire Ventures portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/199/search/companies",
+   "result": "102 companies, 16 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:44Z",
+   "action": "read",
+   "text": "Read Stripes portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/167/search/companies",
+   "result": "54 companies, 10 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:44Z",
+   "action": "read",
+   "text": "Read Menlo Ventures portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/767/search/companies",
+   "result": "145 companies, 24 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:44Z",
+   "action": "read",
+   "text": "Read Summit Partners portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/36623/search/companies",
+   "result": "93 companies, 6 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:44Z",
+   "action": "read",
+   "text": "Read Scale Venture Partners portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/776/search/companies",
+   "result": "63 companies, 15 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:45Z",
+   "action": "read",
+   "text": "Read Alumni Ventures portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/176/search/companies",
+   "result": "583 companies, 38 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:45Z",
+   "action": "read",
+   "text": "Read Khosla Ventures portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/257/search/companies",
+   "result": "330 companies, 18 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:45Z",
+   "action": "read",
+   "text": "Read Wing Venture Capital portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/43520/search/companies",
+   "result": "89 companies, 19 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:45Z",
+   "action": "read",
+   "text": "Read Volition Capital portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/786/search/companies",
+   "result": "39 companies, 3 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:45Z",
+   "action": "read",
+   "text": "Read Notable Capital (GGV) portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/764/search/companies",
+   "result": "88 companies, 12 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:45Z",
+   "action": "read",
+   "text": "Read Canaan Partners portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/1419/search/companies",
+   "result": "171 companies, 8 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:45Z",
+   "action": "read",
+   "text": "Read True Ventures portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/646/search/companies",
+   "result": "118 companies, 9 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:45Z",
+   "action": "read",
+   "text": "Read Lux Capital portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/103/search/companies",
+   "result": "189 companies, 12 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:45Z",
+   "action": "read",
+   "text": "Read Greycroft portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/616/search/companies",
+   "result": "173 companies, 9 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:48Z",
+   "action": "read",
+   "text": "Read Insight Partners portfolio board",
+   "url": "https://api.getro.com/api/v2/collections/246/search/companies",
+   "result": "531 companies, 79 look like security companies"
+  },
+  {
+   "ts": "2026-11-01T05:55:48Z",
+   "action": "connect",
+   "text": "Connected to the YC company dataset on GitHub (yc-oss)",
+   "result": "read-only"
+  },
+  {
+   "ts": "2026-11-01T05:55:48Z",
+   "action": "read",
+   "text": "Read Y Combinator security companies",
+   "url": "https://raw.githubusercontent.com/yc-oss/api/main/industries/security.json",
+   "result": "125 listed"
+  },
+  {
+   "ts": "2026-11-01T05:55:55Z",
+   "action": "review",
+   "text": "New candidate company: Green Places (greenplaces.com)",
+   "result": "for Claude to review",
+   "detail": "Series A; North Raleigh, Raleigh, NC, USA; investors: Redpoint; job board: greenhouse"
+  },
+  {
+   "ts": "2026-11-01T05:55:55Z",
+   "action": "review",
+   "text": "New candidate company: Crogl (crogl.com)",
+   "result": "for Claude to review",
+   "detail": "Seed; Albuquerque, NM, USA; investors: Menlo Ventures; job board: ashby"
+  },
+  {
+   "ts": "2026-11-01T05:55:55Z",
+   "action": "review",
+   "text": "New candidate company: Loti (goloti.com)",
+   "result": "for Claude to review",
+   "detail": "Series A; University of Washington, Seattle, WA, USA; investors: Khosla Ventures; job board: none found"
+  },
+  {
+   "ts": "2026-11-01T05:55:55Z",
+   "action": "review",
+   "text": "New candidate company: Runlayer (runlayer.com)",
+   "result": "for Claude to review",
+   "detail": "Series A; New York, NY, USA; investors: Khosla Ventures; job board: ashby"
+  },
+  {
+   "ts": "2026-11-01T05:55:55Z",
+   "action": "review",
+   "text": "Aura is backed by more of your investors",
+   "result": "investor list to update",
+   "detail": "Ten Eleven Ventures, Accel, General Catalyst",
+   "coll": "companies",
+   "id": "aura-com"
+  },
+  {
+   "ts": "2026-11-01T05:55:55Z",
+   "action": "review",
+   "text": "Forescout is backed by more of your investors",
+   "result": "investor list to update",
+   "detail": "Forgepoint Capital, Accel",
+   "coll": "companies",
+   "id": "forescout-com"
+  },
+  {
+   "ts": "2026-11-01T05:55:55Z",
+   "action": "review",
+   "text": "Armadin Security is backed by more of your investors",
+   "result": "investor list to update",
+   "detail": "Accel, Bain Capital Ventures, Ballistic Ventures, GV (Google Ventures), Menlo Ventures",
+   "coll": "companies",
+   "id": "armadin-com"
+  },
+  {
+   "ts": "2026-11-01T05:55:55Z",
+   "action": "review",
+   "text": "Surf AI is backed by more of your investors",
+   "result": "investor list to update",
+   "detail": "CyberStarts, Accel",
+   "coll": "companies",
+   "id": "surf-ai"
+  },
+  {
+   "ts": "2026-11-01T05:55:55Z",
+   "action": "review",
+   "text": "Tenable is backed by more of your investors",
+   "result": "investor list to update",
+   "detail": "Accel",
+   "coll": "companies",
+   "id": "tenable-com"
+  },
+  {
+   "ts": "2026-11-01T05:55:55Z",
+   "action": "review",
+   "text": "Vega is backed by more of your investors",
+   "result": "investor list to update",
+   "detail": "CyberStarts, Accel, Redpoint",
+   "coll": "companies",
+   "id": "vega-io"
+  },
+  {
+   "ts": "2026-11-01T05:55:55Z",
+   "action": "reject",
+   "text": "Skipped 186 companies on the exclusion list",
+   "result": "previously rejected as not cyber",
+   "detail": "ActivTrak, AdeptID, Adyton, AmberBox Gunshot Detection, Ambient.ai, Anaconda, Anchorage Digital, Andesite, AppZen, Asylon Robotics, BabylonChain, Betterment, BigPanda, Blockstream, Boldin, Borqs Technologies, ButterflyMX, Canix, Certik, Chainalysis, Checkout.com, Cinder, Cloaked, CloudBolt, Coder, Comply365, Conduktor, Conntour, Crosschq, Cyera, D-ID, Deep Sentinel, Devtron, Dili (Yc S23), Disclo, Docker, Easy Aerial, Echodyne, Electric, Envoy, Esper, Etched, EthSign, Ethena, Evolv Technology, FinLocker, Flux, GitLab, GoodData, GoodTrust, Google, Graylark Technologies, Inc., Gremlin, Harness, Hotelogix, Hydrolix, Hyperbrowser, Hypersonica, Instrumental, Kestrel AI, Kidas, Kikoff, Komprise, Lakeside Software, Latent, Ledger Investing, Lexius, Life360, Litera, Lithic, M2P Fintech, Macstadium, Menlo Ventures, Merit, Middesk, MontyCloud, Mos, Motive, Multitude Insights, Munily, NMI, NetBox Labs , New Relic, NinjaOne, Niobium Microsystems, Obligo, Offchain Labs, Onodrim Industries, Orchid Labs, Ory Corp, Ozow, Paladin Drones, Parry Labs, Partnerize, PepperData, Petasense, PicnicHealth, Platform9, Pollinate, Port, PubNub, Qikpod, Qualia, Radar, Ramen Inc., Ramp, RapidSOS, Replit, Resolve Systems, Rewind, Rhombus, Rigetti Computing, Rimward, Savvy, Scantrust, Sensi.AI, Shiboleth, SkySafe, Snowflake, Software Defined Automation, Spectro Cloud, StarkWare, Stripe, Subspace, Swypex, Synthesis AI, TRM Labs, TRUORA, Tenderly, Tensor9, Tetrate, Thistle Technolgies, Thread AI, Traces, True Anomaly, True Link Financial, Tweed, Twenty, Understory, Utila, Vannevar Labs, Vercel, Verkada , Vmware Workspace One, Weaveworks, Weilliptic, Xebialabs, Xelix, Yapily, Yieldstreet"
+  },
+  {
+   "ts": "2026-11-01T05:55:55Z",
+   "action": "run",
+   "text": "Finished: 320 security companies seen, 4 new candidates, 6 investor updates, 0 sources failed",
+   "result": "done"
+  }
+ ],
+ "runUrl": "https://github.com/CyberheadAdvisors/JobsCRM/actions/runs/41278768171"
+}
