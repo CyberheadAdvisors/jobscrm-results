@@ -1,69 +1,267 @@
 {
- "date": "2026-11-02",
- "checked": 381,
+ "date": "2026-11-09",
+ "checked": 448,
  "found": [
   {
-   "id": "above-security",
-   "name": "Above Security",
+   "id": "0-security",
+   "name": "0.security",
    "ats": "workable",
-   "atsSlug": "above",
+   "atsSlug": "0",
    "atsHost": "",
-   "careersUrl": "https://apply.workable.com/above",
+   "careersUrl": "https://apply.workable.com/0",
    "jobs": 0
   },
   {
-   "id": "act-security",
-   "name": "Act",
+   "id": "1kosmos-com",
+   "name": "1Kosmos",
    "ats": "workable",
-   "atsSlug": "act",
+   "atsSlug": "1kosmos",
    "atsHost": "",
-   "careersUrl": "https://apply.workable.com/act",
+   "careersUrl": "https://apply.workable.com/1kosmos",
+   "jobs": 18
+  },
+  {
+   "id": "aembit-io",
+   "name": "Aembit",
+   "ats": "workable",
+   "atsSlug": "aembit",
+   "atsHost": "",
+   "careersUrl": "https://apply.workable.com/aembit",
    "jobs": 0
   },
   {
-   "id": "akamai-com",
-   "name": "Akamai",
+   "id": "allot-com",
+   "name": "Allot",
    "ats": "workable",
-   "atsSlug": "akamai",
+   "atsSlug": "allot",
    "atsHost": "",
-   "careersUrl": "https://apply.workable.com/akamai",
+   "careersUrl": "https://apply.workable.com/allot",
    "jobs": 0
   },
   {
-   "id": "arqit-uk",
-   "name": "Arqit Quantum",
+   "id": "balbix-com",
+   "name": "Balbix",
+   "ats": "lever",
+   "atsSlug": "balbix",
+   "atsHost": "",
+   "careersUrl": "https://jobs.lever.co/balbix",
+   "jobs": 11
+  },
+  {
+   "id": "coalitioninc-com",
+   "name": "Coalition",
    "ats": "greenhouse",
-   "atsSlug": "arqitlimited",
+   "atsSlug": "coalition",
    "atsHost": "",
-   "careersUrl": "https://job-boards.greenhouse.io/arqitlimited",
+   "careersUrl": "https://job-boards.greenhouse.io/coalition",
+   "jobs": 51
+  },
+  {
+   "id": "credo-ai",
+   "name": "Credo AI",
+   "ats": "ashby",
+   "atsSlug": "credo",
+   "atsHost": "",
+   "careersUrl": "https://jobs.ashbyhq.com/credo",
+   "jobs": 0
+  },
+  {
+   "id": "cymulate-com",
+   "name": "Cymulate",
+   "ats": "greenhouse",
+   "atsSlug": "cymulate",
+   "atsHost": "",
+   "careersUrl": "https://job-boards.greenhouse.io/cymulate",
+   "jobs": 9
+  },
+  {
+   "id": "datagrail-io",
+   "name": "DataGrail",
+   "ats": "greenhouse",
+   "atsSlug": "datagrail",
+   "atsHost": "",
+   "careersUrl": "https://job-boards.greenhouse.io/datagrail",
+   "jobs": 4
+  },
+  {
+   "id": "dropzone-ai",
+   "name": "Dropzone AI",
+   "ats": "greenhouse",
+   "atsSlug": "dropzoneai",
+   "atsHost": "",
+   "careersUrl": "https://job-boards.greenhouse.io/dropzoneai",
+   "jobs": 9
+  },
+  {
+   "id": "druva-com",
+   "name": "Druva",
+   "ats": "greenhouse",
+   "atsSlug": "druva",
+   "atsHost": "",
+   "careersUrl": "https://job-boards.greenhouse.io/druva",
+   "jobs": 27
+  },
+  {
+   "id": "duna-com",
+   "name": "Duna",
+   "ats": "ashby",
+   "atsSlug": "duna",
+   "atsHost": "",
+   "careersUrl": "https://jobs.ashbyhq.com/duna",
+   "jobs": 13
+  },
+  {
+   "id": "echo-ai",
+   "name": "Echo",
+   "ats": "greenhouse",
+   "atsSlug": "echo",
+   "atsHost": "",
+   "careersUrl": "https://job-boards.greenhouse.io/echo",
+   "jobs": 23
+  },
+  {
+   "id": "eon-io",
+   "name": "Eon",
+   "ats": "ashby",
+   "atsSlug": "eon",
+   "atsHost": "",
+   "careersUrl": "https://jobs.ashbyhq.com/eon",
+   "jobs": 8
+  },
+  {
+   "id": "finitestate-io",
+   "name": "Finite State",
+   "ats": "greenhouse",
+   "atsSlug": "finitestate",
+   "atsHost": "",
+   "careersUrl": "https://job-boards.greenhouse.io/finitestate",
+   "jobs": 10
+  },
+  {
+   "id": "fortrobotics-com",
+   "name": "FORT Robotics",
+   "ats": "greenhouse",
+   "atsSlug": "fortrobotics",
+   "atsHost": "",
+   "careersUrl": "https://job-boards.greenhouse.io/fortrobotics",
+   "jobs": 4
+  },
+  {
+   "id": "hawk-ai",
+   "name": "HAWK:AI",
+   "ats": "ashby",
+   "atsSlug": "hawk",
+   "atsHost": "",
+   "careersUrl": "https://jobs.ashbyhq.com/hawk",
+   "jobs": 22
+  },
+  {
+   "id": "hoxhunt-com",
+   "name": "Hoxhunt",
+   "ats": "ashby",
+   "atsSlug": "hoxhunt",
+   "atsHost": "",
+   "careersUrl": "https://jobs.ashbyhq.com/hoxhunt",
+   "jobs": 9
+  },
+  {
+   "id": "oak9-io",
+   "name": "oak9",
+   "ats": "lever",
+   "atsSlug": "oak9",
+   "atsHost": "",
+   "careersUrl": "https://jobs.lever.co/oak9",
+   "jobs": 0
+  },
+  {
+   "id": "pingidentity-com",
+   "name": "Ping Identity",
+   "ats": "greenhouse",
+   "atsSlug": "pingidentity",
+   "atsHost": "",
+   "careersUrl": "https://job-boards.greenhouse.io/pingidentity",
+   "jobs": 75
+  },
+  {
+   "id": "pqshield-com",
+   "name": "PQShield",
+   "ats": "greenhouse",
+   "atsSlug": "pqshield",
+   "atsHost": "",
+   "careersUrl": "https://job-boards.greenhouse.io/pqshield",
    "jobs": 6
   },
   {
-   "id": "asymptotelabs-ai",
-   "name": "Asymptote Labs",
-   "ats": "ashby",
-   "atsSlug": "asymptotelabs",
+   "id": "proof-com",
+   "name": "Proof",
+   "ats": "greenhouse",
+   "atsSlug": "proof",
    "atsHost": "",
-   "careersUrl": "https://jobs.ashbyhq.com/asymptotelabs",
-   "jobs": 4
+   "careersUrl": "https://job-boards.greenhouse.io/proof",
+   "jobs": 133
   },
   {
-   "id": "iverify-com",
-   "name": "iVerify",
+   "id": "safe-security",
+   "name": "Safe Security",
    "ats": "ashby",
-   "atsSlug": "iverify",
+   "atsSlug": "safe",
    "atsHost": "",
-   "careersUrl": "https://jobs.ashbyhq.com/iverify",
-   "jobs": 4
+   "careersUrl": "https://jobs.ashbyhq.com/safe",
+   "jobs": 22
   },
   {
-   "id": "ultra-security",
-   "name": "Ultra Security",
+   "id": "spur-us",
+   "name": "Spur",
    "ats": "ashby",
-   "atsSlug": "ultra",
+   "atsSlug": "spur",
    "atsHost": "",
-   "careersUrl": "https://jobs.ashbyhq.com/ultra",
-   "jobs": 2
+   "careersUrl": "https://jobs.ashbyhq.com/spur",
+   "jobs": 3
+  },
+  {
+   "id": "thoropass-com",
+   "name": "Thoropass",
+   "ats": "greenhouse",
+   "atsSlug": "thoropass",
+   "atsHost": "",
+   "careersUrl": "https://job-boards.greenhouse.io/thoropass",
+   "jobs": 7
+  },
+  {
+   "id": "threataware-com",
+   "name": "ThreatAware",
+   "ats": "ashby",
+   "atsSlug": "threataware",
+   "atsHost": "",
+   "careersUrl": "https://jobs.ashbyhq.com/threataware",
+   "jobs": 7
+  },
+  {
+   "id": "token-security",
+   "name": "Token Security",
+   "ats": "greenhouse",
+   "atsSlug": "tokensecurity",
+   "atsHost": "",
+   "careersUrl": "https://job-boards.greenhouse.io/tokensecurity",
+   "jobs": 5
+  },
+  {
+   "id": "trulioo-com",
+   "name": "Trulioo",
+   "ats": "ashby",
+   "atsSlug": "trulioo",
+   "atsHost": "",
+   "careersUrl": "https://jobs.ashbyhq.com/trulioo",
+   "jobs": 28
+  },
+  {
+   "id": "valimail-com",
+   "name": "Valimail",
+   "ats": "greenhouse",
+   "atsSlug": "valimail",
+   "atsHost": "",
+   "careersUrl": "https://job-boards.greenhouse.io/valimail",
+   "jobs": 3
   }
  ]
 }
