@@ -1,5 +1,5 @@
 {
- "date": "2026-11-19",
+ "date": "2026-11-20",
  "companies": 722,
  "scanned": 275,
  "hits": [
@@ -236,9 +236,9 @@
    "investors": [],
    "title": "Lead Product Manager - Cloud Infrastructure",
    "flexibleCyber": false,
-   "location": "Jersey City, NJ, United States",
+   "location": "Chicago, IL, United States",
    "locClass": "outside-europe",
-   "url": "https://www.avepoint.com/careers/job-detail?gh_jid=7558266",
+   "url": "https://www.avepoint.com/careers/job-detail?gh_jid=8256200",
    "posted": "2026-10-14"
   },
   {
@@ -250,9 +250,9 @@
    "investors": [],
    "title": "Lead Product Manager - Cloud Infrastructure",
    "flexibleCyber": false,
-   "location": "Chicago, IL, United States",
+   "location": "Jersey City, NJ, United States",
    "locClass": "outside-europe",
-   "url": "https://www.avepoint.com/careers/job-detail?gh_jid=8256200",
+   "url": "https://www.avepoint.com/careers/job-detail?gh_jid=7558266",
    "posted": "2026-10-14"
   },
   {
@@ -306,9 +306,9 @@
    "investors": [],
    "title": "Principal Security Architect, Identity Resilience",
    "flexibleCyber": false,
-   "location": "Jersey City, NJ, United States",
+   "location": "Chicago, IL, United States",
    "locClass": "outside-europe",
-   "url": "https://www.avepoint.com/careers/job-detail?gh_jid=8265431",
+   "url": "https://www.avepoint.com/careers/job-detail?gh_jid=8303952",
    "posted": "2026-11-10"
   },
   {
@@ -320,9 +320,9 @@
    "investors": [],
    "title": "Principal Security Architect, Identity Resilience",
    "flexibleCyber": false,
-   "location": "Chicago, IL, United States",
+   "location": "Jersey City, NJ, United States",
    "locClass": "outside-europe",
-   "url": "https://www.avepoint.com/careers/job-detail?gh_jid=8303952",
+   "url": "https://www.avepoint.com/careers/job-detail?gh_jid=8265431",
    "posted": "2026-11-10"
   },
   {
@@ -390,27 +390,6 @@
    ],
    "title": "Product Security Architect- 9-month temp position",
    "flexibleCyber": true,
-   "location": "Portugal ",
-   "locClass": "europe",
-   "url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=8004240003",
-   "posted": "2026-10-15"
-  },
-  {
-   "companyId": "axonius-com",
-   "company": "Axonius",
-   "companyHq": "New York, NY, USA",
-   "companyType": "private",
-   "tier": 1,
-   "investors": [
-    "Accel",
-    "Bessemer Venture Partners",
-    "Lightspeed Venture Partners",
-    "Stripes",
-    "Vertex Ventures",
-    "Alkeon Capital"
-   ],
-   "title": "Product Security Architect- 9-month temp position",
-   "flexibleCyber": true,
    "location": "Tel Aviv, Israel",
    "locClass": "europe",
    "url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=7886132003",
@@ -451,12 +430,12 @@
     "Vertex Ventures",
     "Alkeon Capital"
    ],
-   "title": "Senior AI Product Manager",
-   "flexibleCyber": false,
-   "location": "Tel Aviv, Israel",
+   "title": "Product Security Architect- 9-month temp position",
+   "flexibleCyber": true,
+   "location": "Portugal ",
    "locClass": "europe",
-   "url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=8044523003",
-   "posted": "2026-11-04"
+   "url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=8004240003",
+   "posted": "2026-10-15"
   },
   {
    "companyId": "axonius-com",
@@ -472,12 +451,12 @@
     "Vertex Ventures",
     "Alkeon Capital"
    ],
-   "title": "Senior Product Manager",
+   "title": "Senior AI Product Manager",
    "flexibleCyber": false,
    "location": "Tel Aviv, Israel",
    "locClass": "europe",
-   "url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=8008023003",
-   "posted": "2026-10-15"
+   "url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=8044523003",
+   "posted": "2026-11-04"
   },
   {
    "companyId": "balbix-com",
@@ -591,30 +570,29 @@
     "New Enterprise Associates",
     "Paladin Capital Group"
    ],
-   "title": "Application Security Engineer  II (Contract - 5 months )",
-   "flexibleCyber": true,
-   "location": "Remote - India",
-   "locClass": "remote-overseas",
-   "url": "https://boards.greenhouse.io/bugcrowd/jobs/8288958?gh_jid=8288958",
-   "posted": "2026-10-22"
-  },
-  {
-   "companyId": "bugcrowd-com",
-   "company": "Bugcrowd",
-   "companyHq": "San Francisco, CA, USA",
-   "companyType": "private",
-   "tier": 1,
-   "investors": [
-    "General Catalyst",
-    "New Enterprise Associates",
-    "Paladin Capital Group"
-   ],
    "title": "Application Security Engineer (Part time - Friday to Monday)",
    "flexibleCyber": true,
    "location": "Remote - US",
    "locClass": "remote-overseas",
    "url": "https://boards.greenhouse.io/bugcrowd/jobs/8396259?gh_jid=8396259",
-   "posted": "2026-11-17"
+   "posted": "2026-11-19"
+  },
+  {
+   "companyId": "catonetworks-com",
+   "company": "Cato Networks",
+   "companyHq": "Tel Aviv, Israel",
+   "companyType": "private",
+   "tier": 1,
+   "investors": [
+    "Ballistic Ventures",
+    "Lightspeed Venture Partners"
+   ],
+   "title": "Director Product Marketing,Secure Networking",
+   "flexibleCyber": false,
+   "location": "USA",
+   "locClass": "outside-europe",
+   "url": "https://www.catonetworks.com/careers/careers-post/4926467101?gh_jid=4926467101",
+   "posted": "2026-11-19"
   },
   {
    "companyId": "catonetworks-com",
@@ -818,6 +796,26 @@
    ],
    "title": "Principal Product Security Researcher",
    "flexibleCyber": false,
+   "location": "United Kingdom - Remote",
+   "locClass": "europe",
+   "url": "https://job-boards.greenhouse.io/chainguard/jobs/4723615006",
+   "posted": "2026-11-18"
+  },
+  {
+   "companyId": "chainguard-dev",
+   "company": "Chainguard",
+   "companyHq": "Kirkland, WA, USA",
+   "companyType": "private",
+   "tier": 1,
+   "investors": [
+    "General Catalyst",
+    "IVP",
+    "Lightspeed Venture Partners",
+    "Redpoint",
+    "Sequoia Capital"
+   ],
+   "title": "Principal Product Security Researcher",
+   "flexibleCyber": false,
    "location": "United States - Remote",
    "locClass": "remote-overseas",
    "url": "https://job-boards.greenhouse.io/chainguard/jobs/4723614006",
@@ -841,26 +839,6 @@
    "location": "Canada - Remote",
    "locClass": "remote-overseas",
    "url": "https://job-boards.greenhouse.io/chainguard/jobs/4723619006",
-   "posted": "2026-11-18"
-  },
-  {
-   "companyId": "chainguard-dev",
-   "company": "Chainguard",
-   "companyHq": "Kirkland, WA, USA",
-   "companyType": "private",
-   "tier": 1,
-   "investors": [
-    "General Catalyst",
-    "IVP",
-    "Lightspeed Venture Partners",
-    "Redpoint",
-    "Sequoia Capital"
-   ],
-   "title": "Principal Product Security Researcher",
-   "flexibleCyber": false,
-   "location": "United Kingdom - Remote",
-   "locClass": "europe",
-   "url": "https://job-boards.greenhouse.io/chainguard/jobs/4723615006",
    "posted": "2026-11-18"
   },
   {
@@ -980,22 +958,6 @@
    "investors": [
     "New Enterprise Associates"
    ],
-   "title": "Head of GTM, AI Inference",
-   "flexibleCyber": false,
-   "location": "Hybrid",
-   "locClass": "remote",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/7428796?gh_jid=7428796",
-   "posted": "2026-11-13"
-  },
-  {
-   "companyId": "cloudflare-com",
-   "company": "Cloudflare",
-   "companyHq": "San Francisco, CA, USA",
-   "companyType": "listed",
-   "tier": 1,
-   "investors": [
-    "New Enterprise Associates"
-   ],
    "title": "Principal Product Manager, Certificate Authority",
    "flexibleCyber": false,
    "location": "Hybrid",
@@ -1012,12 +974,12 @@
    "investors": [
     "New Enterprise Associates"
    ],
-   "title": "Senior Customer Engagement Strategy Manager",
-   "flexibleCyber": false,
+   "title": "Professional Services Consultant, Application Security",
+   "flexibleCyber": true,
    "location": "Hybrid",
    "locClass": "remote",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8059775?gh_jid=8059775",
-   "posted": "2026-11-13"
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8393924?gh_jid=8393924",
+   "posted": "2026-11-19"
   },
   {
    "companyId": "cloudflare-com",
@@ -1028,12 +990,12 @@
    "investors": [
     "New Enterprise Associates"
    ],
-   "title": "Senior Manager, Infrastructure Operations and Compliance",
+   "title": "Senior Customer Engagement Strategy Manager",
    "flexibleCyber": false,
    "location": "Hybrid",
    "locClass": "remote",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8163076?gh_jid=8163076",
-   "posted": "2026-11-09"
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8059775?gh_jid=8059775",
+   "posted": "2026-11-13"
   },
   {
    "companyId": "cloudflare-com",
@@ -1440,6 +1402,22 @@
    "investors": [
     "Ballistic Ventures"
    ],
+   "title": "Director, Growth Partnerships",
+   "flexibleCyber": false,
+   "location": "Kirkland, Washington (HYBRID)",
+   "locClass": "outside-europe",
+   "url": "https://job-boards.greenhouse.io/concentric/jobs/4729557006",
+   "posted": "2026-11-19"
+  },
+  {
+   "companyId": "concentric-ai",
+   "company": "Concentric AI",
+   "companyHq": "",
+   "companyType": "private",
+   "tier": 2,
+   "investors": [
+    "Ballistic Ventures"
+   ],
    "title": "Residential Security Agent, Ad Hoc Part Time (Malibu,CA)",
    "flexibleCyber": true,
    "location": "Malibu, CA",
@@ -1675,44 +1653,12 @@
    "investors": [
     "Insight Partners"
    ],
-   "title": "Senior Product Manager - Identity Inventory, Correlation and Graph",
+   "title": "Director, People Business Partner - Product, Technology & AI",
    "flexibleCyber": false,
    "location": "U.S. Remote; Remote",
    "locClass": "remote-overseas",
-   "url": "https://jobs.ashbyhq.com/delinea/79f6065e-a97f-41fe-9878-721b27ed5a42",
-   "posted": "2026-10-02"
-  },
-  {
-   "companyId": "delinea-com",
-   "company": "Delinea",
-   "companyHq": "Redwood City, CA, USA",
-   "companyType": "private",
-   "tier": 1,
-   "investors": [
-    "Insight Partners"
-   ],
-   "title": "Senior Product Manager - Remote Access Client Portfolio",
-   "flexibleCyber": false,
-   "location": "U.S. Remote; Remote",
-   "locClass": "remote-overseas",
-   "url": "https://jobs.ashbyhq.com/delinea/a15efb2a-6cb6-4598-908d-7d7817507539",
-   "posted": "2026-08-25"
-  },
-  {
-   "companyId": "delinea-com",
-   "company": "Delinea",
-   "companyHq": "Redwood City, CA, USA",
-   "companyType": "private",
-   "tier": 1,
-   "investors": [
-    "Insight Partners"
-   ],
-   "title": "Senior Product Manager - Browser and Mobile Applications",
-   "flexibleCyber": false,
-   "location": "U.S. Remote; Remote",
-   "locClass": "remote-overseas",
-   "url": "https://jobs.ashbyhq.com/delinea/cd3d7af7-4f2e-4e43-8a68-317675da3c12",
-   "posted": "2026-09-11"
+   "url": "https://jobs.ashbyhq.com/delinea/83c3a7e2-cac4-444b-a66d-c1153d15b4a5",
+   "posted": "2026-11-19"
   },
   {
    "companyId": "delinea-com",
@@ -1914,20 +1860,6 @@
    "investors": [],
    "title": "Director of Product Management, Observability",
    "flexibleCyber": false,
-   "location": "Canada",
-   "locClass": "outside-europe",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8312168&gh_jid=8312168",
-   "posted": "2026-11-04"
-  },
-  {
-   "companyId": "elastic-co",
-   "company": "Elastic",
-   "companyHq": "San Francisco, CA, USA",
-   "companyType": "listed",
-   "tier": 1,
-   "investors": [],
-   "title": "Director of Product Management, Observability",
-   "flexibleCyber": false,
    "location": "United Kingdom",
    "locClass": "europe",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8312171&gh_jid=8312171",
@@ -1942,9 +1874,9 @@
    "investors": [],
    "title": "Director of Product Management, Observability",
    "flexibleCyber": false,
-   "location": "Spain",
+   "location": "Greece",
    "locClass": "europe",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8312175&gh_jid=8312175",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8312178&gh_jid=8312178",
    "posted": "2026-11-04"
   },
   {
@@ -1956,9 +1888,9 @@
    "investors": [],
    "title": "Director of Product Management, Observability",
    "flexibleCyber": false,
-   "location": "Greece",
+   "location": "Spain",
    "locClass": "europe",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8312178&gh_jid=8312178",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8312175&gh_jid=8312175",
    "posted": "2026-11-04"
   },
   {
@@ -2010,6 +1942,48 @@
    "companyType": "listed",
    "tier": 1,
    "investors": [],
+   "title": "Director of Product Management, Observability",
+   "flexibleCyber": false,
+   "location": "Canada",
+   "locClass": "outside-europe",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8312168&gh_jid=8312168",
+   "posted": "2026-11-04"
+  },
+  {
+   "companyId": "elastic-co",
+   "company": "Elastic",
+   "companyHq": "San Francisco, CA, USA",
+   "companyType": "listed",
+   "tier": 1,
+   "investors": [],
+   "title": "Principal Product Manager Agents and Context - Elasticsearch",
+   "flexibleCyber": false,
+   "location": "Canada",
+   "locClass": "outside-europe",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8070011&gh_jid=8070011",
+   "posted": "2026-10-01"
+  },
+  {
+   "companyId": "elastic-co",
+   "company": "Elastic",
+   "companyHq": "San Francisco, CA, USA",
+   "companyType": "listed",
+   "tier": 1,
+   "investors": [],
+   "title": "Principal Product Manager Agents and Context - Elasticsearch",
+   "flexibleCyber": false,
+   "location": "United States",
+   "locClass": "outside-europe",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=7602101&gh_jid=7602101",
+   "posted": "2026-10-01"
+  },
+  {
+   "companyId": "elastic-co",
+   "company": "Elastic",
+   "companyHq": "San Francisco, CA, USA",
+   "companyType": "listed",
+   "tier": 1,
+   "investors": [],
    "title": "Principal Product Manager Agents and Context - Elasticsearch",
    "flexibleCyber": false,
    "location": "United Kingdom",
@@ -2038,53 +2012,11 @@
    "companyType": "listed",
    "tier": 1,
    "investors": [],
-   "title": "Principal Product Manager Agents and Context - Elasticsearch",
-   "flexibleCyber": false,
-   "location": "United States",
-   "locClass": "outside-europe",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=7602101&gh_jid=7602101",
-   "posted": "2026-10-01"
-  },
-  {
-   "companyId": "elastic-co",
-   "company": "Elastic",
-   "companyHq": "San Francisco, CA, USA",
-   "companyType": "listed",
-   "tier": 1,
-   "investors": [],
-   "title": "Principal Product Manager Agents and Context - Elasticsearch",
-   "flexibleCyber": false,
-   "location": "Canada",
-   "locClass": "outside-europe",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8070011&gh_jid=8070011",
-   "posted": "2026-10-01"
-  },
-  {
-   "companyId": "elastic-co",
-   "company": "Elastic",
-   "companyHq": "San Francisco, CA, USA",
-   "companyType": "listed",
-   "tier": 1,
-   "investors": [],
    "title": "Principal Product Manager II, AI/Vectors  Elasticsearch",
    "flexibleCyber": false,
    "location": "United Kingdom",
    "locClass": "europe",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8306238&gh_jid=8306238",
-   "posted": "2026-10-26"
-  },
-  {
-   "companyId": "elastic-co",
-   "company": "Elastic",
-   "companyHq": "San Francisco, CA, USA",
-   "companyType": "listed",
-   "tier": 1,
-   "investors": [],
-   "title": "Principal Product Manager II, AI/Vectors - Elasticsearch",
-   "flexibleCyber": false,
-   "location": "Canada",
-   "locClass": "outside-europe",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8306227&gh_jid=8306227",
    "posted": "2026-10-26"
   },
   {
@@ -2122,12 +2054,12 @@
    "companyType": "listed",
    "tier": 1,
    "investors": [],
-   "title": "Principal Product Manager, Security Pricing and Packaging (Serverless) - Security Solutions",
+   "title": "Principal Product Manager II, AI/Vectors - Elasticsearch",
    "flexibleCyber": false,
-   "location": "United States",
+   "location": "Canada",
    "locClass": "outside-europe",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8316745&gh_jid=8316745",
-   "posted": "2026-10-28"
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8306227&gh_jid=8306227",
+   "posted": "2026-10-26"
   },
   {
    "companyId": "elastic-co",
@@ -2141,6 +2073,20 @@
    "location": "Canada",
    "locClass": "outside-europe",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8332655&gh_jid=8332655",
+   "posted": "2026-10-28"
+  },
+  {
+   "companyId": "elastic-co",
+   "company": "Elastic",
+   "companyHq": "San Francisco, CA, USA",
+   "companyType": "listed",
+   "tier": 1,
+   "investors": [],
+   "title": "Principal Product Manager, Security Pricing and Packaging (Serverless) - Security Solutions",
+   "flexibleCyber": false,
+   "location": "United States",
+   "locClass": "outside-europe",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8316745&gh_jid=8316745",
    "posted": "2026-10-28"
   },
   {
@@ -2250,9 +2196,9 @@
    "investors": [],
    "title": "Senior Product Manager - Self service cloud",
    "flexibleCyber": false,
-   "location": "Portugal",
+   "location": "Spain",
    "locClass": "europe",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8041208&gh_jid=8041208",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8028261&gh_jid=8028261",
    "posted": "2026-10-01"
   },
   {
@@ -2278,9 +2224,9 @@
    "investors": [],
    "title": "Senior Product Manager - Self service cloud",
    "flexibleCyber": false,
-   "location": "Spain",
+   "location": "Portugal",
    "locClass": "europe",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8028261&gh_jid=8028261",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8041208&gh_jid=8041208",
    "posted": "2026-10-01"
   },
   {
@@ -2613,20 +2559,6 @@
    "companyType": "listed",
    "tier": 1,
    "investors": [],
-   "title": "Director of Product, Web Experiences",
-   "flexibleCyber": false,
-   "location": "USA - New York, NY; Remote",
-   "locClass": "remote-overseas",
-   "url": "https://jobs.ashbyhq.com/gen-digital/1bddbc52-fd9a-4b47-91bb-2644ba903d45",
-   "posted": "2026-10-14"
-  },
-  {
-   "companyId": "gendigital-com",
-   "company": "Gen Digital",
-   "companyHq": "Tempe, AZ, USA",
-   "companyType": "listed",
-   "tier": 1,
-   "investors": [],
    "title": "Sr Principal Product Manager \u2013 Norton Point Solutions",
    "flexibleCyber": false,
    "location": "USA - New York, NY; USA - Mountain View, CA; Remote",
@@ -2661,20 +2593,6 @@
    "locClass": "remote-overseas",
    "url": "https://jobs.ashbyhq.com/gen-digital/585e50bc-a324-47c3-b81d-81c5fafc03d1",
    "posted": "2026-09-03"
-  },
-  {
-   "companyId": "gendigital-com",
-   "company": "Gen Digital",
-   "companyHq": "Tempe, AZ, USA",
-   "companyType": "listed",
-   "tier": 1,
-   "investors": [],
-   "title": "Director of Product, Enterprise Content Hub",
-   "flexibleCyber": false,
-   "location": "USA - New York, NY",
-   "locClass": "outside-europe",
-   "url": "https://jobs.ashbyhq.com/gen-digital/aa44de12-2e2e-4830-87c3-fb06442ad6c4",
-   "posted": "2026-10-14"
   },
   {
    "companyId": "gendigital-com",
@@ -2773,6 +2691,22 @@
    "locClass": "remote-overseas",
    "url": "https://jobs.ashbyhq.com/gen-digital/c77a35d7-fdb3-4954-a89e-ecadcfd5bdfc",
    "posted": "2026-11-12"
+  },
+  {
+   "companyId": "hackerone-com",
+   "company": "HackerOne",
+   "companyHq": "San Francisco, California",
+   "companyType": "private",
+   "tier": 1,
+   "investors": [
+    "New Enterprise Associates"
+   ],
+   "title": "Director, Business Operations",
+   "flexibleCyber": false,
+   "location": "Seattle; San Francisco; Washington DC; Boston; Austin; Remote",
+   "locClass": "remote-overseas",
+   "url": "https://jobs.ashbyhq.com/hackerone/a105ffa8-5c50-4976-a51a-8a3ff64738ee",
+   "posted": "2026-11-13"
   },
   {
    "companyId": "halcyon-ai",
@@ -3058,8 +2992,8 @@
    ],
    "title": "Competitive Intelligence Director",
    "flexibleCyber": false,
-   "location": "US, Remote; Remote",
-   "locClass": "remote-overseas",
+   "location": "San Francisco, California",
+   "locClass": "outside-europe",
    "url": "https://jobs.ashbyhq.com/horizon3ai/c916d392-b0dc-48f7-bf9c-72cba7e8284c",
    "posted": "2026-11-18"
   },
@@ -3861,40 +3795,12 @@
    "companyType": "listed",
    "tier": 1,
    "investors": [],
-   "title": "Director, M&A People Strategy & Integration",
+   "title": "Director Channel and Alliances - Emerging Markets",
    "flexibleCyber": false,
-   "location": "Chicago, Illinois",
-   "locClass": "outside-europe",
-   "url": "https://www.okta.com/company/careers/opportunity/8275286?gh_jid=8275286",
-   "posted": "2026-11-16"
-  },
-  {
-   "companyId": "okta-com",
-   "company": "Okta",
-   "companyHq": "San Francisco, CA, USA",
-   "companyType": "listed",
-   "tier": 1,
-   "investors": [],
-   "title": "Director, M&A People Strategy & Integration",
-   "flexibleCyber": false,
-   "location": "Bellevue, Washington",
-   "locClass": "outside-europe",
-   "url": "https://www.okta.com/company/careers/opportunity/8275287?gh_jid=8275287",
-   "posted": "2026-11-16"
-  },
-  {
-   "companyId": "okta-com",
-   "company": "Okta",
-   "companyHq": "San Francisco, CA, USA",
-   "companyType": "listed",
-   "tier": 1,
-   "investors": [],
-   "title": "Director, M&A People Strategy & Integration",
-   "flexibleCyber": false,
-   "location": "San Francisco, California",
-   "locClass": "outside-europe",
-   "url": "https://www.okta.com/company/careers/opportunity/8275271?gh_jid=8275271",
-   "posted": "2026-11-16"
+   "location": "Dublin",
+   "locClass": "europe",
+   "url": "https://www.okta.com/company/careers/opportunity/8176095?gh_jid=8176095",
+   "posted": "2026-11-19"
   },
   {
    "companyId": "okta-com",
@@ -3908,7 +3814,7 @@
    "location": "Bellevue, Washington; San Francisco, California",
    "locClass": "outside-europe",
    "url": "https://www.okta.com/company/careers/opportunity/7834352?gh_jid=7834352",
-   "posted": "2026-11-16"
+   "posted": "2026-11-19"
   },
   {
    "companyId": "okta-com",
@@ -3950,7 +3856,7 @@
    "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC",
    "locClass": "outside-europe",
    "url": "https://www.okta.com/company/careers/opportunity/8284216?gh_jid=8284216",
-   "posted": "2026-11-16"
+   "posted": "2026-11-19"
   },
   {
    "companyId": "okta-com",
@@ -3964,7 +3870,7 @@
    "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California",
    "locClass": "outside-europe",
    "url": "https://www.okta.com/company/careers/opportunity/8332523?gh_jid=8332523",
-   "posted": "2026-11-16"
+   "posted": "2026-11-19"
   },
   {
    "companyId": "okta-com",
@@ -4020,7 +3926,7 @@
    "location": "Bellevue, WA, United States; Chicago, Illinois, United States; Toronto, ON, Canada",
    "locClass": "outside-europe",
    "url": "https://www.okta.com/company/careers/opportunity/8324993?gh_jid=8324993",
-   "posted": "2026-11-16"
+   "posted": "2026-11-19"
   },
   {
    "companyId": "okta-com",
@@ -4059,9 +3965,9 @@
    "investors": [],
    "title": "Senior Product Manager - Agentic Security (Auth0)",
    "flexibleCyber": false,
-   "location": "Toronto, Ontario, Canada",
+   "location": "Chicago, Illinois; New York, New York; Seattle, Washington; Washington, DC",
    "locClass": "outside-europe",
-   "url": "https://www.okta.com/company/careers/opportunity/8041551?gh_jid=8041551",
+   "url": "https://www.okta.com/company/careers/opportunity/8038929?gh_jid=8038929",
    "posted": "2026-11-16"
   },
   {
@@ -4073,9 +3979,9 @@
    "investors": [],
    "title": "Senior Product Manager - Agentic Security (Auth0)",
    "flexibleCyber": false,
-   "location": "Chicago, Illinois; New York, New York; Seattle, Washington; Washington, DC",
+   "location": "Toronto, Ontario, Canada",
    "locClass": "outside-europe",
-   "url": "https://www.okta.com/company/careers/opportunity/8038929?gh_jid=8038929",
+   "url": "https://www.okta.com/company/careers/opportunity/8041551?gh_jid=8041551",
    "posted": "2026-11-16"
   },
   {
@@ -4091,6 +3997,20 @@
    "locClass": "outside-europe",
    "url": "https://www.okta.com/company/careers/opportunity/8351434?gh_jid=8351434",
    "posted": "2026-11-16"
+  },
+  {
+   "companyId": "okta-com",
+   "company": "Okta",
+   "companyHq": "San Francisco, CA, USA",
+   "companyType": "listed",
+   "tier": 1,
+   "investors": [],
+   "title": "Senior Product Manager - Auth0",
+   "flexibleCyber": false,
+   "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; Toronto, Ontario, Canada; Washington, DC",
+   "locClass": "outside-europe",
+   "url": "https://www.okta.com/company/careers/opportunity/8072515?gh_jid=8072515",
+   "posted": "2026-11-19"
   },
   {
    "companyId": "okta-com",
@@ -4183,20 +4103,6 @@
    "companyType": "listed",
    "tier": 1,
    "investors": [],
-   "title": "Senior Product Manager, Product Platform",
-   "flexibleCyber": false,
-   "location": "Bengaluru, India",
-   "locClass": "outside-europe",
-   "url": "https://www.okta.com/company/careers/opportunity/8164066?gh_jid=8164066",
-   "posted": "2026-11-17"
-  },
-  {
-   "companyId": "okta-com",
-   "company": "Okta",
-   "companyHq": "San Francisco, CA, USA",
-   "companyType": "listed",
-   "tier": 1,
-   "investors": [],
    "title": "Senior Product Manager - UI Platform",
    "flexibleCyber": false,
    "location": "New York, New York; Toronto, Ontario, Canada",
@@ -4230,7 +4136,7 @@
    "location": "San Francisco, CA, United States",
    "locClass": "outside-europe",
    "url": "https://www.okta.com/company/careers/opportunity/8335184?gh_jid=8335184",
-   "posted": "2026-11-16"
+   "posted": "2026-11-19"
   },
   {
    "companyId": "okta-com",
@@ -4492,22 +4398,6 @@
    "flexibleCyber": false,
    "location": "USA - Remote",
    "locClass": "remote-overseas",
-   "url": "https://job-boards.greenhouse.io/pingidentity/jobs/8922566002",
-   "posted": "2026-11-03"
-  },
-  {
-   "companyId": "pingidentity-com",
-   "company": "Ping Identity",
-   "companyHq": "Denver, CO, USA",
-   "companyType": "private",
-   "tier": 2,
-   "investors": [
-    "General Catalyst"
-   ],
-   "title": "GTM Solutions Management Director",
-   "flexibleCyber": false,
-   "location": "USA - Remote",
-   "locClass": "remote-overseas",
    "url": "https://job-boards.greenhouse.io/pingidentity/jobs/8922584002",
    "posted": "2026-11-03"
   },
@@ -4634,7 +4524,7 @@
    "location": "Bangalore, India",
    "locClass": "outside-europe",
    "url": "https://www.rubrik.com/company/careers/departments/job.8376959?gh_jid=8376959",
-   "posted": "2026-11-19"
+   "posted": "2026-11-20"
   },
   {
    "companyId": "rubrik-com",
@@ -4687,10 +4577,10 @@
    "investors": [],
    "title": "Senior Product Manager-Identity Resilience",
    "flexibleCyber": false,
-   "location": "Israel",
-   "locClass": "europe",
-   "url": "https://www.rubrik.com/company/careers/departments/job.8398158?gh_jid=8398158",
-   "posted": "2026-11-18"
+   "location": "Bangalore, India",
+   "locClass": "outside-europe",
+   "url": "https://www.rubrik.com/company/careers/departments/job.7976001?gh_jid=7976001",
+   "posted": "2026-11-11"
   },
   {
    "companyId": "rubrik-com",
@@ -4701,10 +4591,10 @@
    "investors": [],
    "title": "Senior Product Manager-Identity Resilience",
    "flexibleCyber": false,
-   "location": "Bangalore, India",
-   "locClass": "outside-europe",
-   "url": "https://www.rubrik.com/company/careers/departments/job.7976001?gh_jid=7976001",
-   "posted": "2026-11-11"
+   "location": "Israel",
+   "locClass": "europe",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8398158?gh_jid=8398158",
+   "posted": "2026-11-18"
   },
   {
    "companyId": "rubrik-com",
@@ -4777,6 +4667,22 @@
    "locClass": "remote-overseas",
    "url": "https://jobs.ashbyhq.com/runlayer/771c67d0-07d1-4729-b15c-a72983b9d22a",
    "posted": "2026-06-26"
+  },
+  {
+   "companyId": "runlayer-com",
+   "company": "Runlayer",
+   "companyHq": "New York, USA",
+   "companyType": "private",
+   "tier": 2,
+   "investors": [
+    "Khosla Ventures"
+   ],
+   "title": "Founding Product Manager, Control Plane",
+   "flexibleCyber": false,
+   "location": "NYC; Remote (US Timezones); SF; Remote",
+   "locClass": "remote-overseas",
+   "url": "https://jobs.ashbyhq.com/runlayer/89a7b99f-8242-4ed8-926f-796ec453b66d",
+   "posted": "2026-11-19"
   },
   {
    "companyId": "sandboxaq-com",
@@ -5111,6 +5017,23 @@
     "Accel",
     "Insight Partners"
    ],
+   "title": "Director, Customer Experience, Partner Program",
+   "flexibleCyber": false,
+   "location": "United States - Remote",
+   "locClass": "remote-overseas",
+   "url": "https://www.sentinelone.com/jobs/?gh_jid=8204487003",
+   "posted": "2026-11-19"
+  },
+  {
+   "companyId": "sentinelone-com",
+   "company": "SentinelOne",
+   "companyHq": "Mountain View, CA, USA",
+   "companyType": "listed",
+   "tier": 1,
+   "investors": [
+    "Accel",
+    "Insight Partners"
+   ],
    "title": "Director of Product Management, Agentic Security - Prompt Security",
    "flexibleCyber": false,
    "location": "Israel",
@@ -5198,10 +5121,10 @@
    ],
    "title": "Senior Staff Product Manager (Bangalore/Noida)",
    "flexibleCyber": false,
-   "location": "India",
+   "location": "Bengaluru, Karnataka, India; Noida",
    "locClass": "outside-europe",
    "url": "https://www.sentinelone.com/jobs/?gh_jid=8005415003",
-   "posted": "2026-11-17"
+   "posted": "2026-11-19"
   },
   {
    "companyId": "sentinelone-com",
@@ -5685,7 +5608,7 @@
    "flexibleCyber": false,
    "location": "Noida, Uttar Pradesh, India",
    "locClass": "outside-europe",
-   "url": "https://job-boards.greenhouse.io/sumologic/jobs/8382629",
+   "url": "https://job-boards.greenhouse.io/sumologic/jobs/8382639",
    "posted": "2026-11-17"
   },
   {
@@ -5701,7 +5624,7 @@
    "flexibleCyber": false,
    "location": "Noida, Uttar Pradesh, India",
    "locClass": "outside-europe",
-   "url": "https://job-boards.greenhouse.io/sumologic/jobs/8382639",
+   "url": "https://job-boards.greenhouse.io/sumologic/jobs/8382629",
    "posted": "2026-11-17"
   },
   {
@@ -5836,9 +5759,9 @@
    ],
    "title": "Director of Strategic Accounts",
    "flexibleCyber": false,
-   "location": "Tokyo, Japan (Hybrid)",
-   "locClass": "outside-europe",
-   "url": "https://job-boards.greenhouse.io/tanium/jobs/8280252",
+   "location": "Remote, Switzerland",
+   "locClass": "europe",
+   "url": "https://job-boards.greenhouse.io/tanium/jobs/7993973",
    "posted": "2026-10-30"
   },
   {
@@ -5853,9 +5776,9 @@
    ],
    "title": "Director of Strategic Accounts",
    "flexibleCyber": false,
-   "location": "Remote, Switzerland",
-   "locClass": "europe",
-   "url": "https://job-boards.greenhouse.io/tanium/jobs/7993973",
+   "location": "Tokyo, Japan (Hybrid)",
+   "locClass": "outside-europe",
+   "url": "https://job-boards.greenhouse.io/tanium/jobs/8280252",
    "posted": "2026-10-30"
   },
   {
@@ -6055,23 +5978,6 @@
     "Andreessen Horowitz",
     "IVP"
    ],
-   "title": "Director, Strategic Partner Accounts - Optiv/Guidepoint",
-   "flexibleCyber": false,
-   "location": "Remote, US",
-   "locClass": "remote-overseas",
-   "url": "https://job-boards.greenhouse.io/tanium/jobs/8260778",
-   "posted": "2026-10-30"
-  },
-  {
-   "companyId": "tanium-com",
-   "company": "Tanium",
-   "companyHq": "Durham, North Carolina",
-   "companyType": "private",
-   "tier": 1,
-   "investors": [
-    "Andreessen Horowitz",
-    "IVP"
-   ],
    "title": "Senior Product Manager, AI Core Services",
    "flexibleCyber": false,
    "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid)",
@@ -6256,22 +6162,6 @@
    "investors": [
     "TCV"
    ],
-   "title": "Senior Product Manager (KYC - Fraud & Risk)",
-   "flexibleCyber": false,
-   "location": "Vancouver, BC; San Diego, CA; Toronto, ON; San Francisco, CA; Remote",
-   "locClass": "remote-overseas",
-   "url": "https://jobs.ashbyhq.com/trulioo/a3749bc8-0fdb-46c6-9dd2-94a078b8b9ae",
-   "posted": "2026-10-09"
-  },
-  {
-   "companyId": "trulioo-com",
-   "company": "Trulioo",
-   "companyHq": "Austin, TX, USA",
-   "companyType": "private",
-   "tier": 2,
-   "investors": [
-    "TCV"
-   ],
    "title": "Senior Director, Corporate Strategy & Development",
    "flexibleCyber": false,
    "location": "Vancouver, BC; New York, NY; San Diego, CA; Toronto, ON; San Francisco, CA; Remote",
@@ -6396,23 +6286,6 @@
    "locClass": "remote-overseas",
    "url": "https://jobs.ashbyhq.com/vanta/20d2c9aa-19da-4370-9378-491312f6f98a",
    "posted": "2026-08-27"
-  },
-  {
-   "companyId": "vanta-com",
-   "company": "Vanta",
-   "companyHq": "San Francisco, CA, USA",
-   "companyType": "private",
-   "tier": 1,
-   "investors": [
-    "Sequoia Capital",
-    "Y Combinator"
-   ],
-   "title": "Director, Vanta for Government Partnerships",
-   "flexibleCyber": false,
-   "location": "Remote U.S.; Remote",
-   "locClass": "remote-overseas",
-   "url": "https://jobs.ashbyhq.com/vanta/c27d1d10-9bab-484b-af98-1071c6834d77",
-   "posted": "2026-09-01"
   },
   {
    "companyId": "vanta-com",
@@ -6593,23 +6466,7 @@
    "location": "San Jose, CA, USA",
    "locClass": "outside-europe",
    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4837207101",
-   "posted": "2026-11-16"
-  },
-  {
-   "companyId": "veeam-com",
-   "company": "Veeam Software",
-   "companyHq": "Seattle, WA, USA",
-   "companyType": "private",
-   "tier": 1,
-   "investors": [
-    "Insight Partners"
-   ],
-   "title": "Product Marketing Director, DataAI Privacy",
-   "flexibleCyber": false,
-   "location": "San Jose, CA, USA",
-   "locClass": "outside-europe",
-   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4935419101",
-   "posted": "2026-11-17"
+   "posted": "2026-11-19"
   },
   {
    "companyId": "veeam-com",
@@ -6625,6 +6482,22 @@
    "location": "Seattle, WA, USA",
    "locClass": "outside-europe",
    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4954191101",
+   "posted": "2026-11-17"
+  },
+  {
+   "companyId": "veeam-com",
+   "company": "Veeam Software",
+   "companyHq": "Seattle, WA, USA",
+   "companyType": "private",
+   "tier": 1,
+   "investors": [
+    "Insight Partners"
+   ],
+   "title": "Product Marketing Director, DataAI Privacy",
+   "flexibleCyber": false,
+   "location": "San Jose, CA, USA",
+   "locClass": "outside-europe",
+   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4935419101",
    "posted": "2026-11-17"
   },
   {
@@ -6783,7 +6656,7 @@
    "location": "Remote - USA",
    "locClass": "remote-overseas",
    "url": "https://www.wiz.io/careers/job/4712009006/:title?gh_jid=4712009006",
-   "posted": "2026-11-16"
+   "posted": "2026-11-19"
   },
   {
    "companyId": "yubico-com",
@@ -6859,6 +6732,20 @@
    "companyType": "listed",
    "tier": 1,
    "investors": [],
+   "title": "Director, Product Management-Customer Growth & Value Realization",
+   "flexibleCyber": false,
+   "location": "Santa Clara, California, USA",
+   "locClass": "outside-europe",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5250710007",
+   "posted": "2026-11-19"
+  },
+  {
+   "companyId": "zscaler-com",
+   "company": "Zscaler",
+   "companyHq": "San Jose, CA, USA",
+   "companyType": "listed",
+   "tier": 1,
+   "investors": [],
    "title": "Director, Product Management, ZIA",
    "flexibleCyber": false,
    "location": "Santa Clara, California, USA",
@@ -6901,26 +6788,12 @@
    "companyType": "listed",
    "tier": 1,
    "investors": [],
-   "title": "Director, Software Engineering - Common Platform Services",
-   "flexibleCyber": false,
-   "location": "Santa Clara, California, USA",
-   "locClass": "outside-europe",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5166806007",
-   "posted": "2026-10-29"
-  },
-  {
-   "companyId": "zscaler-com",
-   "company": "Zscaler",
-   "companyHq": "San Jose, CA, USA",
-   "companyType": "listed",
-   "tier": 1,
-   "investors": [],
    "title": "Principal Product Manager",
    "flexibleCyber": false,
    "location": "Remote - USA",
    "locClass": "remote-overseas",
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5278545007",
-   "posted": "2026-11-12"
+   "posted": "2026-11-19"
   },
   {
    "companyId": "zscaler-com",
@@ -7054,7 +6927,7 @@
    "id": "a10networks-com",
    "name": "A10 Networks",
    "ats": "workday",
-   "error": "http 429"
+   "error": "http 422"
   },
   {
    "id": "arkoselabs-com",
