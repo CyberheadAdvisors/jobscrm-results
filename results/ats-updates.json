@@ -1,69 +1,24 @@
 {
- "date": "2026-11-16",
- "checked": 419,
+ "date": "2026-11-23",
+ "checked": 412,
  "found": [
   {
-   "id": "7ai-com",
-   "name": "7AI",
+   "id": "anvilogic-com",
+   "name": "Anvilogic",
    "ats": "workable",
-   "atsSlug": "7ai",
+   "atsSlug": "anvilogic",
    "atsHost": "",
-   "careersUrl": "https://apply.workable.com/7ai",
+   "careersUrl": "https://apply.workable.com/anvilogic",
    "jobs": 0
   },
   {
-   "id": "a-security",
-   "name": "A Security",
-   "ats": "workable",
-   "atsSlug": "a",
+   "id": "tinfoil-sh",
+   "name": "Tinfoil",
+   "ats": "greenhouse",
+   "atsSlug": "tinfoil",
    "atsHost": "",
-   "careersUrl": "https://apply.workable.com/a",
-   "jobs": 0
-  },
-  {
-   "id": "ambient-ai",
-   "name": "Ambient.ai",
-   "ats": "workable",
-   "atsSlug": "ambient",
-   "atsHost": "",
-   "careersUrl": "https://apply.workable.com/ambient",
-   "jobs": 0
-  },
-  {
-   "id": "keepit-com",
-   "name": "Keepit",
-   "ats": "workable",
-   "atsSlug": "keepit",
-   "atsHost": "",
-   "careersUrl": "https://apply.workable.com/keepit",
-   "jobs": 0
-  },
-  {
-   "id": "metomic-io",
-   "name": "Metomic",
-   "ats": "workable",
-   "atsSlug": "metomic",
-   "atsHost": "",
-   "careersUrl": "https://apply.workable.com/metomic",
-   "jobs": 0
-  },
-  {
-   "id": "oort-io",
-   "name": "Oort",
-   "ats": "workable",
-   "atsSlug": "oort",
-   "atsHost": "",
-   "careersUrl": "https://apply.workable.com/oort",
-   "jobs": 0
-  },
-  {
-   "id": "strata-io",
-   "name": "Strata Identity",
-   "ats": "workable",
-   "atsSlug": "strata",
-   "atsHost": "",
-   "careersUrl": "https://apply.workable.com/strata",
-   "jobs": 0
+   "careersUrl": "https://job-boards.greenhouse.io/tinfoil",
+   "jobs": 2
   }
  ]
 }

@@ -1,43 +1,25 @@
 {
- "docId": "2026-11-16-github-ats-detect-0829",
+ "docId": "2026-11-23-github-ats-detect-0723",
  "actor": "github",
  "task": "GitHub job-board detection",
  "runType": "scheduled",
- "started": "2026-11-16T08:29:32Z",
- "finished": "2026-11-16T08:33:42Z",
- "summary": "419 companies checked, 7 job boards found",
+ "started": "2026-11-23T07:23:22Z",
+ "finished": "2026-11-23T07:27:00Z",
+ "summary": "412 companies checked, 2 job boards found",
  "events": [
   {
-   "ts": "2026-11-16T08:29:32Z",
+   "ts": "2026-11-23T07:23:22Z",
    "action": "run",
    "text": "Started GitHub job-board detection on GitHub Actions"
   },
   {
-   "ts": "2026-11-16T08:29:32Z",
+   "ts": "2026-11-23T07:23:22Z",
    "action": "connect",
    "text": "Probed public job-board APIs: Greenhouse, Ashby, Lever, Workable, SmartRecruiters",
    "result": "read-only"
   },
   {
-   "ts": "2026-11-16T08:29:36Z",
-   "action": "review",
-   "text": "Found 7AI's job board on workable",
-   "url": "https://apply.workable.com/7ai",
-   "result": "0 open jobs; Claude will record it",
-   "coll": "companies",
-   "id": "7ai-com"
-  },
-  {
-   "ts": "2026-11-16T08:29:36Z",
-   "action": "review",
-   "text": "Found A Security's job board on workable",
-   "url": "https://apply.workable.com/a",
-   "result": "0 open jobs; Claude will record it",
-   "coll": "companies",
-   "id": "a-security"
-  },
-  {
-   "ts": "2026-11-16T08:29:40Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked MCPTotal for a public job board",
    "result": "none found",
@@ -45,7 +27,7 @@
    "id": "a16y-ai"
   },
   {
-   "ts": "2026-11-16T08:29:40Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Acalvio Technologies for a public job board",
    "result": "none found",
@@ -53,7 +35,7 @@
    "id": "acalvio-com"
   },
   {
-   "ts": "2026-11-16T08:29:40Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Advenica for a public job board",
    "result": "none found",
@@ -61,7 +43,7 @@
    "id": "advenica-com"
   },
   {
-   "ts": "2026-11-16T08:29:40Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked AegisAI for a public job board",
    "result": "none found",
@@ -69,7 +51,7 @@
    "id": "aegisai-ai"
   },
   {
-   "ts": "2026-11-16T08:29:40Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Agentic Fabriq for a public job board",
    "result": "none found",
@@ -77,7 +59,7 @@
    "id": "agenticfabriq-com"
   },
   {
-   "ts": "2026-11-16T08:29:40Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Aikido Security for a public job board",
    "result": "none found",
@@ -85,7 +67,7 @@
    "id": "aikido-dev"
   },
   {
-   "ts": "2026-11-16T08:29:40Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked AirEye for a public job board",
    "result": "none found",
@@ -93,7 +75,7 @@
    "id": "aireye-tech"
   },
   {
-   "ts": "2026-11-16T08:29:40Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked AirMDR for a public job board",
    "result": "none found",
@@ -101,7 +83,7 @@
    "id": "airmdr-com"
   },
   {
-   "ts": "2026-11-16T08:29:40Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Akto for a public job board",
    "result": "none found",
@@ -109,7 +91,7 @@
    "id": "akto-io"
   },
   {
-   "ts": "2026-11-16T08:29:40Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Alter for a public job board",
    "result": "none found",
@@ -117,16 +99,7 @@
    "id": "alterauth-com"
   },
   {
-   "ts": "2026-11-16T08:29:40Z",
-   "action": "review",
-   "text": "Found Ambient.ai's job board on workable",
-   "url": "https://apply.workable.com/ambient",
-   "result": "0 open jobs; Claude will record it",
-   "coll": "companies",
-   "id": "ambient-ai"
-  },
-  {
-   "ts": "2026-11-16T08:29:47Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Anecdotes for a public job board",
    "result": "none found",
@@ -134,7 +107,7 @@
    "id": "anecdotes-ai"
   },
   {
-   "ts": "2026-11-16T08:29:49Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Anitian for a public job board",
    "result": "none found",
@@ -142,7 +115,7 @@
    "id": "anitian-com"
   },
   {
-   "ts": "2026-11-16T08:29:49Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Anjuna for a public job board",
    "result": "none found",
@@ -150,15 +123,16 @@
    "id": "anjuna-io"
   },
   {
-   "ts": "2026-11-16T08:29:49Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
-   "text": "Checked Anvilogic for a public job board",
-   "result": "none found",
+   "text": "Found Anvilogic's job board on workable",
+   "url": "https://apply.workable.com/anvilogic",
+   "result": "0 open jobs; Claude will record it",
    "coll": "companies",
    "id": "anvilogic-com"
   },
   {
-   "ts": "2026-11-16T08:29:49Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Apozy for a public job board",
    "result": "none found",
@@ -166,7 +140,7 @@
    "id": "apozy-com"
   },
   {
-   "ts": "2026-11-16T08:29:49Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Arcjet for a public job board",
    "result": "none found",
@@ -174,7 +148,7 @@
    "id": "arcjet-com"
   },
   {
-   "ts": "2026-11-16T08:29:50Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Arctic Wolf for a public job board",
    "result": "none found",
@@ -182,7 +156,7 @@
    "id": "arcticwolf-com"
   },
   {
-   "ts": "2026-11-16T08:29:50Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Armorer Labs for a public job board",
    "result": "none found",
@@ -190,7 +164,7 @@
    "id": "armorerlabs-com"
   },
   {
-   "ts": "2026-11-16T08:29:50Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked artius.ID for a public job board",
    "result": "none found",
@@ -198,7 +172,7 @@
    "id": "artiusid-dev"
   },
   {
-   "ts": "2026-11-16T08:29:50Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Aryaka for a public job board",
    "result": "none found",
@@ -206,7 +180,7 @@
    "id": "aryaka-com"
   },
   {
-   "ts": "2026-11-16T08:29:50Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Astelia for a public job board",
    "result": "none found",
@@ -214,7 +188,7 @@
    "id": "astelia-io"
   },
   {
-   "ts": "2026-11-16T08:29:50Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Astrix Security for a public job board",
    "result": "none found",
@@ -222,7 +196,7 @@
    "id": "astrix-security"
   },
   {
-   "ts": "2026-11-16T08:29:50Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked AttackIQ for a public job board",
    "result": "none found",
@@ -230,7 +204,7 @@
    "id": "attackiq-com"
   },
   {
-   "ts": "2026-11-16T08:29:50Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Auguria for a public job board",
    "result": "none found",
@@ -238,7 +212,7 @@
    "id": "auguria-io"
   },
   {
-   "ts": "2026-11-16T08:29:50Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Aurascape AI for a public job board",
    "result": "none found",
@@ -246,7 +220,7 @@
    "id": "aurascape-ai"
   },
   {
-   "ts": "2026-11-16T08:29:50Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked authID for a public job board",
    "result": "none found",
@@ -254,7 +228,7 @@
    "id": "authid-ai"
   },
   {
-   "ts": "2026-11-16T08:29:50Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked AuthMind for a public job board",
    "result": "none found",
@@ -262,7 +236,7 @@
    "id": "authmind-com"
   },
   {
-   "ts": "2026-11-16T08:29:50Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked AUTOHEAL for a public job board",
    "result": "none found",
@@ -270,7 +244,7 @@
    "id": "autoheal-ai"
   },
   {
-   "ts": "2026-11-16T08:29:50Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Backline for a public job board",
    "result": "none found",
@@ -278,7 +252,7 @@
    "id": "backline-ai"
   },
   {
-   "ts": "2026-11-16T08:29:50Z",
+   "ts": "2026-11-23T07:24:01Z",
    "action": "review",
    "text": "Checked Baffle, Inc. for a public job board",
    "result": "none found",
@@ -286,7 +260,7 @@
    "id": "baffle-io"
   },
   {
-   "ts": "2026-11-16T08:29:51Z",
+   "ts": "2026-11-23T07:24:04Z",
    "action": "review",
    "text": "Checked Bastille Networks for a public job board",
    "result": "none found",
@@ -294,7 +268,7 @@
    "id": "bastille-net"
   },
   {
-   "ts": "2026-11-16T08:29:51Z",
+   "ts": "2026-11-23T07:24:04Z",
    "action": "review",
    "text": "Checked Baz for a public job board",
    "result": "none found",
@@ -302,7 +276,7 @@
    "id": "baz-ai"
   },
   {
-   "ts": "2026-11-16T08:29:51Z",
+   "ts": "2026-11-23T07:24:04Z",
    "action": "review",
    "text": "Checked BeeSafe AI for a public job board",
    "result": "none found",
@@ -310,7 +284,7 @@
    "id": "beesafe-ai"
   },
   {
-   "ts": "2026-11-16T08:29:51Z",
+   "ts": "2026-11-23T07:24:04Z",
    "action": "review",
    "text": "Checked Beltic for a public job board",
    "result": "none found",
@@ -318,7 +292,7 @@
    "id": "beltic-com"
   },
   {
-   "ts": "2026-11-16T08:29:51Z",
+   "ts": "2026-11-23T07:24:04Z",
    "action": "review",
    "text": "Checked Better Auth for a public job board",
    "result": "none found",
@@ -326,7 +300,7 @@
    "id": "better-auth-com"
   },
   {
-   "ts": "2026-11-16T08:29:53Z",
+   "ts": "2026-11-23T07:24:04Z",
    "action": "review",
    "text": "Checked BforeAI for a public job board",
    "result": "none found",
@@ -334,7 +308,7 @@
    "id": "bfore-ai"
   },
   {
-   "ts": "2026-11-16T08:29:53Z",
+   "ts": "2026-11-23T07:24:06Z",
    "action": "review",
    "text": "Checked BIO-key for a public job board",
    "result": "none found",
@@ -342,7 +316,7 @@
    "id": "bio-key-com"
   },
   {
-   "ts": "2026-11-16T08:29:53Z",
+   "ts": "2026-11-23T07:24:06Z",
    "action": "review",
    "text": "Checked Bittium for a public job board",
    "result": "none found",
@@ -350,7 +324,7 @@
    "id": "bittium-com"
   },
   {
-   "ts": "2026-11-16T08:29:53Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked BLACKBIRD.AI for a public job board",
    "result": "none found",
@@ -358,7 +332,7 @@
    "id": "blackbird-ai"
   },
   {
-   "ts": "2026-11-16T08:29:53Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked Black Kite for a public job board",
    "result": "none found",
@@ -366,7 +340,7 @@
    "id": "blackkite-com"
   },
   {
-   "ts": "2026-11-16T08:29:55Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked BlackPoint Cyber for a public job board",
    "result": "none found",
@@ -374,7 +348,7 @@
    "id": "blackpointcyber-com"
   },
   {
-   "ts": "2026-11-16T08:29:59Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked BlackWall (formerly BotGuard) for a public job board",
    "result": "none found",
@@ -382,7 +356,7 @@
    "id": "blackwall-com"
   },
   {
-   "ts": "2026-11-16T08:29:59Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked Blackwell Security for a public job board",
    "result": "none found",
@@ -390,7 +364,7 @@
    "id": "blackwellsecurity-com"
   },
   {
-   "ts": "2026-11-16T08:29:59Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked Blink for a public job board",
    "result": "none found",
@@ -398,7 +372,7 @@
    "id": "blinkops-com"
   },
   {
-   "ts": "2026-11-16T08:29:59Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked Blockaid for a public job board",
    "result": "none found",
@@ -406,7 +380,7 @@
    "id": "blockaid-io"
   },
   {
-   "ts": "2026-11-16T08:29:59Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked BlueFlag Security for a public job board",
    "result": "none found",
@@ -414,7 +388,7 @@
    "id": "blueflagsecurity-com"
   },
   {
-   "ts": "2026-11-16T08:29:59Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked BoxLite for a public job board",
    "result": "none found",
@@ -422,7 +396,7 @@
    "id": "boxlite-ai"
   },
   {
-   "ts": "2026-11-16T08:29:59Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked BrandShield Systems for a public job board",
    "result": "none found",
@@ -430,7 +404,7 @@
    "id": "brandshield-com"
   },
   {
-   "ts": "2026-11-16T08:29:59Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked BreachRx for a public job board",
    "result": "none found",
@@ -438,7 +412,7 @@
    "id": "breachrx-com"
   },
   {
-   "ts": "2026-11-16T08:29:59Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked Bright Security for a public job board",
    "result": "none found",
@@ -446,7 +420,7 @@
    "id": "brightsec-com"
   },
   {
-   "ts": "2026-11-16T08:29:59Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked Bunkyr for a public job board",
    "result": "none found",
@@ -454,7 +428,7 @@
    "id": "bunkyr-com"
   },
   {
-   "ts": "2026-11-16T08:29:59Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked Calamu Technologies for a public job board",
    "result": "none found",
@@ -462,7 +436,7 @@
    "id": "calamu-com"
   },
   {
-   "ts": "2026-11-16T08:29:59Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked Callsign for a public job board",
    "result": "none found",
@@ -470,7 +444,7 @@
    "id": "callsign-com"
   },
   {
-   "ts": "2026-11-16T08:29:59Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked Candor for a public job board",
    "result": "none found",
@@ -478,7 +452,7 @@
    "id": "candor-security"
   },
   {
-   "ts": "2026-11-16T08:29:59Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked CardinalOps for a public job board",
    "result": "none found",
@@ -486,7 +460,7 @@
    "id": "cardinalops-com"
   },
   {
-   "ts": "2026-11-16T08:30:03Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked Castellum for a public job board",
    "result": "none found",
@@ -494,7 +468,7 @@
    "id": "castellumus-com"
   },
   {
-   "ts": "2026-11-16T08:30:03Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked Cellebrite for a public job board",
    "result": "none found",
@@ -502,7 +476,7 @@
    "id": "cellebrite-com"
   },
   {
-   "ts": "2026-11-16T08:30:05Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked Cequence Security for a public job board",
    "result": "none found",
@@ -510,7 +484,7 @@
    "id": "cequence-ai"
   },
   {
-   "ts": "2026-11-16T08:30:05Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked Chaleit for a public job board",
    "result": "none found",
@@ -518,7 +492,7 @@
    "id": "chaleit-com"
   },
   {
-   "ts": "2026-11-16T08:30:05Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked Charm Security for a public job board",
    "result": "none found",
@@ -526,7 +500,7 @@
    "id": "charmsecurity-com"
   },
   {
-   "ts": "2026-11-16T08:30:05Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked Marble for a public job board",
    "result": "weak match, not used",
@@ -534,7 +508,7 @@
    "id": "checkmarble-com"
   },
   {
-   "ts": "2026-11-16T08:30:05Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked Checkmarx for a public job board",
    "result": "none found",
@@ -542,7 +516,7 @@
    "id": "checkmarx-com"
   },
   {
-   "ts": "2026-11-16T08:30:08Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked Check Point Software for a public job board",
    "result": "none found",
@@ -550,7 +524,7 @@
    "id": "checkpoint-com"
   },
   {
-   "ts": "2026-11-16T08:30:08Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked CHEQ for a public job board",
    "result": "none found",
@@ -558,7 +532,7 @@
    "id": "cheq-ai"
   },
   {
-   "ts": "2026-11-16T08:30:08Z",
+   "ts": "2026-11-23T07:24:09Z",
    "action": "review",
    "text": "Checked Circumvent for a public job board",
    "result": "none found",
@@ -566,7 +540,7 @@
    "id": "circumvent-io"
   },
   {
-   "ts": "2026-11-16T08:30:08Z",
+   "ts": "2026-11-23T07:24:10Z",
    "action": "review",
    "text": "Checked CISO Global for a public job board",
    "result": "none found",
@@ -574,7 +548,7 @@
    "id": "ciso-inc"
   },
   {
-   "ts": "2026-11-16T08:30:08Z",
+   "ts": "2026-11-23T07:24:10Z",
    "action": "review",
    "text": "Checked Clavister for a public job board",
    "result": "none found",
@@ -582,7 +556,7 @@
    "id": "clavister-com"
   },
   {
-   "ts": "2026-11-16T08:30:08Z",
+   "ts": "2026-11-23T07:24:10Z",
    "action": "review",
    "text": "Checked Clawvisor for a public job board",
    "result": "none found",
@@ -590,7 +564,7 @@
    "id": "clawvisor-com"
   },
   {
-   "ts": "2026-11-16T08:30:08Z",
+   "ts": "2026-11-23T07:24:10Z",
    "action": "review",
    "text": "Checked ClearDATA for a public job board",
    "result": "none found",
@@ -598,7 +572,7 @@
    "id": "cleardata-com"
   },
   {
-   "ts": "2026-11-16T08:30:08Z",
+   "ts": "2026-11-23T07:24:12Z",
    "action": "review",
    "text": "Checked Cloud Guardian for a public job board",
    "result": "none found",
@@ -606,7 +580,7 @@
    "id": "cloud-guardian-com"
   },
   {
-   "ts": "2026-11-16T08:30:08Z",
+   "ts": "2026-11-23T07:24:12Z",
    "action": "review",
    "text": "Checked Cloudanix for a public job board",
    "result": "none found",
@@ -614,7 +588,7 @@
    "id": "cloudanix-com"
   },
   {
-   "ts": "2026-11-16T08:30:08Z",
+   "ts": "2026-11-23T07:24:14Z",
    "action": "review",
    "text": "Checked Command Zero for a public job board",
    "result": "none found",
@@ -622,7 +596,7 @@
    "id": "cmdzero-io"
   },
   {
-   "ts": "2026-11-16T08:30:08Z",
+   "ts": "2026-11-23T07:24:14Z",
    "action": "review",
    "text": "Checked CodeIntegrity for a public job board",
    "result": "none found",
@@ -630,7 +604,7 @@
    "id": "codeintegrity-ai"
   },
   {
-   "ts": "2026-11-16T08:30:08Z",
+   "ts": "2026-11-23T07:24:14Z",
    "action": "review",
    "text": "Checked CodeWall for a public job board",
    "result": "none found",
@@ -638,7 +612,7 @@
    "id": "codewall-ai"
   },
   {
-   "ts": "2026-11-16T08:30:08Z",
+   "ts": "2026-11-23T07:24:14Z",
    "action": "review",
    "text": "Checked Codezero for a public job board",
    "result": "none found",
@@ -646,7 +620,7 @@
    "id": "codezero-io"
   },
   {
-   "ts": "2026-11-16T08:30:08Z",
+   "ts": "2026-11-23T07:24:14Z",
    "action": "review",
    "text": "Checked Cofense for a public job board",
    "result": "none found",
@@ -654,7 +628,7 @@
    "id": "cofense-com"
   },
   {
-   "ts": "2026-11-16T08:30:09Z",
+   "ts": "2026-11-23T07:24:14Z",
    "action": "review",
    "text": "Checked Cognyte for a public job board",
    "result": "none found",
@@ -662,7 +636,7 @@
    "id": "cognyte-com"
   },
   {
-   "ts": "2026-11-16T08:30:09Z",
+   "ts": "2026-11-23T07:24:14Z",
    "action": "review",
    "text": "Checked Complaion for a public job board",
    "result": "none found",
@@ -670,7 +644,7 @@
    "id": "complaion-com"
   },
   {
-   "ts": "2026-11-16T08:30:11Z",
+   "ts": "2026-11-23T07:24:15Z",
    "action": "review",
    "text": "Checked compliant-llm for a public job board",
    "result": "none found",
@@ -678,7 +652,7 @@
    "id": "compliantllm-com"
   },
   {
-   "ts": "2026-11-16T08:30:11Z",
+   "ts": "2026-11-23T07:24:15Z",
    "action": "review",
    "text": "Checked ConductorOne for a public job board",
    "result": "none found",
@@ -686,7 +660,7 @@
    "id": "conductorone-com"
   },
   {
-   "ts": "2026-11-16T08:30:14Z",
+   "ts": "2026-11-23T07:24:15Z",
    "action": "review",
    "text": "Checked Conifers.ai for a public job board",
    "result": "none found",
@@ -694,7 +668,7 @@
    "id": "conifers-ai"
   },
   {
-   "ts": "2026-11-16T08:30:14Z",
+   "ts": "2026-11-23T07:24:15Z",
    "action": "review",
    "text": "Checked Constella Intelligence for a public job board",
    "result": "none found",
@@ -702,7 +676,7 @@
    "id": "constellaintelligence-com"
   },
   {
-   "ts": "2026-11-16T08:30:14Z",
+   "ts": "2026-11-23T07:24:15Z",
    "action": "review",
    "text": "Checked ContextFort for a public job board",
    "result": "none found",
@@ -710,7 +684,7 @@
    "id": "contextfort-ai"
   },
   {
-   "ts": "2026-11-16T08:30:14Z",
+   "ts": "2026-11-23T07:24:15Z",
    "action": "review",
    "text": "Checked ContraForce for a public job board",
    "result": "none found",
@@ -718,7 +692,7 @@
    "id": "contraforce-com"
   },
   {
-   "ts": "2026-11-16T08:30:14Z",
+   "ts": "2026-11-23T07:24:15Z",
    "action": "review",
    "text": "Checked Conveyor for a public job board",
    "result": "none found",
@@ -726,7 +700,7 @@
    "id": "conveyor-com"
   },
   {
-   "ts": "2026-11-16T08:30:15Z",
+   "ts": "2026-11-23T07:24:17Z",
    "action": "review",
    "text": "Checked Corero Network Security for a public job board",
    "result": "none found",
@@ -734,7 +708,7 @@
    "id": "corero-com"
   },
   {
-   "ts": "2026-11-16T08:30:15Z",
+   "ts": "2026-11-23T07:24:17Z",
    "action": "review",
    "text": "Checked Corgea for a public job board",
    "result": "none found",
@@ -742,7 +716,7 @@
    "id": "corgea-com"
   },
   {
-   "ts": "2026-11-16T08:30:15Z",
+   "ts": "2026-11-23T07:24:20Z",
    "action": "review",
    "text": "Checked Coro for a public job board",
    "result": "none found",
@@ -750,7 +724,7 @@
    "id": "coro-net"
   },
   {
-   "ts": "2026-11-16T08:30:15Z",
+   "ts": "2026-11-23T07:24:20Z",
    "action": "review",
    "text": "Checked Cotool for a public job board",
    "result": "none found",
@@ -758,7 +732,7 @@
    "id": "cotool-ai"
   },
   {
-   "ts": "2026-11-16T08:30:21Z",
+   "ts": "2026-11-23T07:24:20Z",
    "action": "review",
    "text": "Checked CounterCraft for a public job board",
    "result": "none found",
@@ -766,7 +740,7 @@
    "id": "countercraftsec-com"
   },
   {
-   "ts": "2026-11-16T08:30:21Z",
+   "ts": "2026-11-23T07:24:20Z",
    "action": "review",
    "text": "Checked Cranium for a public job board",
    "result": "none found",
@@ -774,7 +748,7 @@
    "id": "cranium-ai"
   },
   {
-   "ts": "2026-11-16T08:30:21Z",
+   "ts": "2026-11-23T07:24:20Z",
    "action": "review",
    "text": "Checked Crash Override for a public job board",
    "result": "none found",
@@ -782,7 +756,7 @@
    "id": "crashoverride-com"
   },
   {
-   "ts": "2026-11-16T08:30:21Z",
+   "ts": "2026-11-23T07:24:21Z",
    "action": "review",
    "text": "Checked Crosslayer Labs for a public job board",
    "result": "none found",
@@ -790,7 +764,7 @@
    "id": "crosslayerlabs-com"
   },
   {
-   "ts": "2026-11-16T08:30:21Z",
+   "ts": "2026-11-23T07:24:21Z",
    "action": "review",
    "text": "Checked Cy4Gate for a public job board",
    "result": "none found",
@@ -798,7 +772,7 @@
    "id": "cy4gate-com"
   },
   {
-   "ts": "2026-11-16T08:30:21Z",
+   "ts": "2026-11-23T07:24:21Z",
    "action": "review",
    "text": "Checked CyberGRX for a public job board",
    "result": "none found",
@@ -806,7 +780,7 @@
    "id": "cybergrx-com"
   },
   {
-   "ts": "2026-11-16T08:30:21Z",
+   "ts": "2026-11-23T07:24:21Z",
    "action": "review",
    "text": "Checked Cyberoo for a public job board",
    "result": "none found",
@@ -814,7 +788,7 @@
    "id": "cyberoo-com"
   },
   {
-   "ts": "2026-11-16T08:30:21Z",
+   "ts": "2026-11-23T07:24:21Z",
    "action": "review",
    "text": "Checked Cyble for a public job board",
    "result": "none found",
@@ -822,7 +796,7 @@
    "id": "cyble-com"
   },
   {
-   "ts": "2026-11-16T08:30:21Z",
+   "ts": "2026-11-23T07:24:21Z",
    "action": "review",
    "text": "Checked CybSafe for a public job board",
    "result": "none found",
@@ -830,7 +804,7 @@
    "id": "cybsafe-com"
   },
   {
-   "ts": "2026-11-16T08:30:21Z",
+   "ts": "2026-11-23T07:24:21Z",
    "action": "review",
    "text": "Checked CyCognito for a public job board",
    "result": "none found",
@@ -838,7 +812,7 @@
    "id": "cycognito-com"
   },
   {
-   "ts": "2026-11-16T08:30:31Z",
+   "ts": "2026-11-23T07:24:21Z",
    "action": "review",
    "text": "Checked Cyctactic for a public job board",
    "result": "none found",
@@ -846,7 +820,7 @@
    "id": "cyctactic-com"
   },
   {
-   "ts": "2026-11-16T08:30:31Z",
+   "ts": "2026-11-23T07:24:21Z",
    "action": "review",
    "text": "Checked Cycurion for a public job board",
    "result": "none found",
@@ -854,7 +828,7 @@
    "id": "cycurion-com"
   },
   {
-   "ts": "2026-11-16T08:30:31Z",
+   "ts": "2026-11-23T07:24:22Z",
    "action": "review",
    "text": "Checked Cygrid for a public job board",
    "result": "none found",
@@ -862,7 +836,7 @@
    "id": "cygrid-io"
   },
   {
-   "ts": "2026-11-16T08:30:31Z",
+   "ts": "2026-11-23T07:24:22Z",
    "action": "review",
    "text": "Checked Cylake for a public job board",
    "result": "none found",
@@ -870,7 +844,7 @@
    "id": "cylake-com"
   },
   {
-   "ts": "2026-11-16T08:30:31Z",
+   "ts": "2026-11-23T07:24:22Z",
    "action": "review",
    "text": "Checked Cylus for a public job board",
    "result": "none found",
@@ -878,7 +852,7 @@
    "id": "cylus-com"
   },
   {
-   "ts": "2026-11-16T08:30:31Z",
+   "ts": "2026-11-23T07:24:25Z",
    "action": "review",
    "text": "Checked Cynet Security for a public job board",
    "result": "none found",
@@ -886,7 +860,7 @@
    "id": "cynet-com"
   },
   {
-   "ts": "2026-11-16T08:30:31Z",
+   "ts": "2026-11-23T07:24:26Z",
    "action": "review",
    "text": "Checked Cynomi for a public job board",
    "result": "none found",
@@ -894,7 +868,7 @@
    "id": "cynomi-com"
   },
   {
-   "ts": "2026-11-16T08:30:31Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked Cyolo for a public job board",
    "result": "none found",
@@ -902,7 +876,7 @@
    "id": "cyolo-io"
   },
   {
-   "ts": "2026-11-16T08:30:31Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked Cyscale for a public job board",
    "result": "none found",
@@ -910,7 +884,7 @@
    "id": "cyscale-com"
   },
   {
-   "ts": "2026-11-16T08:30:31Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked Dam Secure for a public job board",
    "result": "none found",
@@ -918,7 +892,7 @@
    "id": "damsecure-com"
   },
   {
-   "ts": "2026-11-16T08:30:37Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked DarkWeb IQ for a public job board",
    "result": "none found",
@@ -926,7 +900,7 @@
    "id": "darkwebiq-com"
   },
   {
-   "ts": "2026-11-16T08:30:37Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked Decentriq for a public job board",
    "result": "none found",
@@ -934,7 +908,7 @@
    "id": "decentriq-com"
   },
   {
-   "ts": "2026-11-16T08:30:37Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked DeepMark for a public job board",
    "result": "none found",
@@ -942,7 +916,7 @@
    "id": "deepmark-me"
   },
   {
-   "ts": "2026-11-16T08:30:37Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked Defence Tech Holding for a public job board",
    "result": "none found",
@@ -950,7 +924,7 @@
    "id": "defencetech-it"
   },
   {
-   "ts": "2026-11-16T08:30:37Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked Defendify for a public job board",
    "result": "none found",
@@ -958,7 +932,7 @@
    "id": "defendify-com"
   },
   {
-   "ts": "2026-11-16T08:30:37Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked Delve (Yc W24) for a public job board",
    "result": "none found",
@@ -966,7 +940,7 @@
    "id": "delve-co"
   },
   {
-   "ts": "2026-11-16T08:30:37Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked Detectify for a public job board",
    "result": "none found",
@@ -974,7 +948,7 @@
    "id": "detectify-com"
   },
   {
-   "ts": "2026-11-16T08:30:37Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked Device Authority for a public job board",
    "result": "none found",
@@ -982,7 +956,7 @@
    "id": "deviceauthority-com"
   },
   {
-   "ts": "2026-11-16T08:30:37Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked Devicie for a public job board",
    "result": "none found",
@@ -990,7 +964,7 @@
    "id": "devicie-com"
   },
   {
-   "ts": "2026-11-16T08:30:37Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked Devo for a public job board",
    "result": "none found",
@@ -998,7 +972,7 @@
    "id": "devo-com"
   },
   {
-   "ts": "2026-11-16T08:30:37Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked Di8it for a public job board",
    "result": "none found",
@@ -1006,7 +980,7 @@
    "id": "dig8labs-com"
   },
   {
-   "ts": "2026-11-16T08:30:37Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked DigitalXForce for a public job board",
    "result": "none found",
@@ -1014,7 +988,7 @@
    "id": "digitalxforce-com"
   },
   {
-   "ts": "2026-11-16T08:30:37Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked DomainTools for a public job board",
    "result": "none found",
@@ -1022,7 +996,7 @@
    "id": "domaintools-com"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked Doxxnet for a public job board",
    "result": "none found",
@@ -1030,7 +1004,7 @@
    "id": "doxx-net"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked Dream for a public job board",
    "result": "none found",
@@ -1038,7 +1012,7 @@
    "id": "dreamgroup-com"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked DTEX for a public job board",
    "result": "none found",
@@ -1046,7 +1020,7 @@
    "id": "dtexsystems-com"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked Dux Development for a public job board",
    "result": "none found",
@@ -1054,7 +1028,7 @@
    "id": "dux-io"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:33Z",
    "action": "review",
    "text": "Checked Dynamo AI for a public job board",
    "result": "none found",
@@ -1062,7 +1036,7 @@
    "id": "dynamo-ai"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:34Z",
    "action": "review",
    "text": "Checked Eclypsium for a public job board",
    "result": "none found",
@@ -1070,7 +1044,7 @@
    "id": "eclypsium-com"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:34Z",
    "action": "review",
    "text": "Checked Elisity for a public job board",
    "result": "none found",
@@ -1078,7 +1052,7 @@
    "id": "elisity-com"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:35Z",
    "action": "review",
    "text": "Checked Elpha Secure for a public job board",
    "result": "none found",
@@ -1086,7 +1060,7 @@
    "id": "elphasecure-com"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:35Z",
    "action": "review",
    "text": "Checked Embed Security for a public job board",
    "result": "none found",
@@ -1094,7 +1068,7 @@
    "id": "embedsecurity-com"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:35Z",
    "action": "review",
    "text": "Checked Enea for a public job board",
    "result": "none found",
@@ -1102,7 +1076,7 @@
    "id": "enea-com"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:35Z",
    "action": "review",
    "text": "Checked Exaforce for a public job board",
    "result": "none found",
@@ -1110,7 +1084,7 @@
    "id": "exaforce-com"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:36Z",
    "action": "review",
    "text": "Checked F-Secure for a public job board",
    "result": "none found",
@@ -1118,7 +1092,7 @@
    "id": "f-secure-com"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:36Z",
    "action": "review",
    "text": "Checked F5 for a public job board",
    "result": "none found",
@@ -1126,7 +1100,7 @@
    "id": "f5-com"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:36Z",
    "action": "review",
    "text": "Checked Fabraix for a public job board",
    "result": "none found",
@@ -1134,7 +1108,7 @@
    "id": "fabraix-com"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:37Z",
    "action": "review",
    "text": "Checked Feroot Security for a public job board",
    "result": "none found",
@@ -1142,7 +1116,7 @@
    "id": "feroot-com"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:38Z",
    "action": "review",
    "text": "Checked Fingerprint Cards for a public job board",
    "result": "none found",
@@ -1150,7 +1124,7 @@
    "id": "fingerprints-com"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:38Z",
    "action": "review",
    "text": "Checked FireTail for a public job board",
    "result": "none found",
@@ -1158,7 +1132,7 @@
    "id": "firetail-ai"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:39Z",
    "action": "review",
    "text": "Checked Firezone for a public job board",
    "result": "none found",
@@ -1166,7 +1140,7 @@
    "id": "firezone-dev"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:40Z",
    "action": "review",
    "text": "Checked Fivecast for a public job board",
    "result": "none found",
@@ -1174,7 +1148,7 @@
    "id": "fivecast-com"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:40Z",
    "action": "review",
    "text": "Checked Fleet Device Management for a public job board",
    "result": "none found",
@@ -1182,7 +1156,7 @@
    "id": "fleetdm-com"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:40Z",
    "action": "review",
    "text": "Checked Fleuret AI for a public job board",
    "result": "none found",
@@ -1190,7 +1164,7 @@
    "id": "fleuret-ai"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:40Z",
    "action": "review",
    "text": "Checked Fortanix for a public job board",
    "result": "none found",
@@ -1198,7 +1172,7 @@
    "id": "fortanix-com"
   },
   {
-   "ts": "2026-11-16T08:30:43Z",
+   "ts": "2026-11-23T07:24:42Z",
    "action": "review",
    "text": "Checked Fortinet for a public job board",
    "result": "none found",
@@ -1206,7 +1180,7 @@
    "id": "fortinet-com"
   },
   {
-   "ts": "2026-11-16T08:30:46Z",
+   "ts": "2026-11-23T07:24:52Z",
    "action": "review",
    "text": "Checked Frame Security for a public job board",
    "result": "none found",
@@ -1214,7 +1188,7 @@
    "id": "framesecurity-io"
   },
   {
-   "ts": "2026-11-16T08:30:46Z",
+   "ts": "2026-11-23T07:24:52Z",
    "action": "review",
    "text": "Checked Frontegg for a public job board",
    "result": "none found",
@@ -1222,7 +1196,7 @@
    "id": "frontegg-com"
   },
   {
-   "ts": "2026-11-16T08:30:46Z",
+   "ts": "2026-11-23T07:24:52Z",
    "action": "review",
    "text": "Checked Gambit for a public job board",
    "result": "none found",
@@ -1230,7 +1204,7 @@
    "id": "gambit-security"
   },
   {
-   "ts": "2026-11-16T08:30:46Z",
+   "ts": "2026-11-23T07:24:57Z",
    "action": "review",
    "text": "Checked GB Group (GBG) for a public job board",
    "result": "none found",
@@ -1238,7 +1212,7 @@
    "id": "gbgplc-com"
   },
   {
-   "ts": "2026-11-16T08:30:47Z",
+   "ts": "2026-11-23T07:25:01Z",
    "action": "review",
    "text": "Checked Gecko Security for a public job board",
    "result": "none found",
@@ -1246,7 +1220,7 @@
    "id": "gecko-security"
   },
   {
-   "ts": "2026-11-16T08:30:47Z",
+   "ts": "2026-11-23T07:25:01Z",
    "action": "review",
    "text": "Checked GeoComply for a public job board",
    "result": "none found",
@@ -1254,7 +1228,7 @@
    "id": "geocomply-com"
   },
   {
-   "ts": "2026-11-16T08:30:49Z",
+   "ts": "2026-11-23T07:25:01Z",
    "action": "review",
    "text": "Checked Picnic Corporation for a public job board",
    "result": "weak match, not used",
@@ -1262,7 +1236,7 @@
    "id": "getpicnic-com"
   },
   {
-   "ts": "2026-11-16T08:30:49Z",
+   "ts": "2026-11-23T07:25:01Z",
    "action": "review",
    "text": "Checked GetReal Security for a public job board",
    "result": "none found",
@@ -1270,7 +1244,7 @@
    "id": "getrealsecurity-com"
   },
   {
-   "ts": "2026-11-16T08:30:49Z",
+   "ts": "2026-11-23T07:25:01Z",
    "action": "review",
    "text": "Checked GhostEye for a public job board",
    "result": "none found",
@@ -1278,7 +1252,7 @@
    "id": "ghosteye-ai"
   },
   {
-   "ts": "2026-11-16T08:30:49Z",
+   "ts": "2026-11-23T07:25:01Z",
    "action": "review",
    "text": "Checked GitGuardian for a public job board",
    "result": "none found",
@@ -1286,7 +1260,7 @@
    "id": "gitguardian-com"
   },
   {
-   "ts": "2026-11-16T08:30:49Z",
+   "ts": "2026-11-23T07:25:01Z",
    "action": "review",
    "text": "Checked Hush (privacy) for a public job board",
    "result": "none found",
@@ -1294,7 +1268,7 @@
    "id": "gohush-com"
   },
   {
-   "ts": "2026-11-16T08:30:49Z",
+   "ts": "2026-11-23T07:25:01Z",
    "action": "review",
    "text": "Checked Loti AI for a public job board",
    "result": "none found",
@@ -1302,7 +1276,7 @@
    "id": "goloti-com"
   },
   {
-   "ts": "2026-11-16T08:30:49Z",
+   "ts": "2026-11-23T07:25:01Z",
    "action": "review",
    "text": "Checked Gomboc for a public job board",
    "result": "none found",
@@ -1310,7 +1284,7 @@
    "id": "gomboc-ai"
   },
   {
-   "ts": "2026-11-16T08:30:49Z",
+   "ts": "2026-11-23T07:25:01Z",
    "action": "review",
    "text": "Checked Goodweek for a public job board",
    "result": "none found",
@@ -1318,7 +1292,7 @@
    "id": "goodweek-com"
   },
   {
-   "ts": "2026-11-16T08:30:49Z",
+   "ts": "2026-11-23T07:25:01Z",
    "action": "review",
    "text": "Checked GoSecure for a public job board",
    "result": "none found",
@@ -1326,7 +1300,7 @@
    "id": "gosecure-net"
   },
   {
-   "ts": "2026-11-16T08:30:49Z",
+   "ts": "2026-11-23T07:25:02Z",
    "action": "review",
    "text": "Checked GreyNoise for a public job board",
    "result": "none found",
@@ -1334,7 +1308,7 @@
    "id": "greynoise-io"
   },
   {
-   "ts": "2026-11-16T08:30:50Z",
+   "ts": "2026-11-23T07:25:02Z",
    "action": "review",
    "text": "Checked Grip Security for a public job board",
    "result": "none found",
@@ -1342,7 +1316,7 @@
    "id": "grip-security"
   },
   {
-   "ts": "2026-11-16T08:30:50Z",
+   "ts": "2026-11-23T07:25:02Z",
    "action": "review",
    "text": "Checked Guardare for a public job board",
    "result": "none found",
@@ -1350,7 +1324,7 @@
    "id": "guardare-com"
   },
   {
-   "ts": "2026-11-16T08:30:50Z",
+   "ts": "2026-11-23T07:25:02Z",
    "action": "review",
    "text": "Checked Hack The Box for a public job board",
    "result": "none found",
@@ -1358,7 +1332,7 @@
    "id": "hackthebox-com"
   },
   {
-   "ts": "2026-11-16T08:30:50Z",
+   "ts": "2026-11-23T07:25:13Z",
    "action": "review",
    "text": "Checked Hadrian for a public job board",
    "result": "none found",
@@ -1366,7 +1340,7 @@
    "id": "hadrian-io"
   },
   {
-   "ts": "2026-11-16T08:30:50Z",
+   "ts": "2026-11-23T07:25:13Z",
    "action": "review",
    "text": "Checked Halborn for a public job board",
    "result": "none found",
@@ -1374,7 +1348,7 @@
    "id": "halborn-com"
   },
   {
-   "ts": "2026-11-16T08:30:50Z",
+   "ts": "2026-11-23T07:25:13Z",
    "action": "review",
    "text": "Checked Heeler for a public job board",
    "result": "none found",
@@ -1382,7 +1356,7 @@
    "id": "heeler-com"
   },
   {
-   "ts": "2026-11-16T08:30:50Z",
+   "ts": "2026-11-23T07:25:13Z",
    "action": "review",
    "text": "Checked Helmet Security for a public job board",
    "result": "none found",
@@ -1390,7 +1364,7 @@
    "id": "helmetsecurity-com"
   },
   {
-   "ts": "2026-11-16T08:30:50Z",
+   "ts": "2026-11-23T07:25:13Z",
    "action": "review",
    "text": "Checked Hilt for a public job board",
    "result": "none found",
@@ -1398,7 +1372,7 @@
    "id": "hilt-ai"
   },
   {
-   "ts": "2026-11-16T08:31:21Z",
+   "ts": "2026-11-23T07:25:13Z",
    "action": "review",
    "text": "Checked HUB Cyber Security for a public job board",
    "result": "none found",
@@ -1406,7 +1380,7 @@
    "id": "hubsecurity-com"
   },
   {
-   "ts": "2026-11-16T08:31:21Z",
+   "ts": "2026-11-23T07:25:13Z",
    "action": "review",
    "text": "Checked Hunters for a public job board",
    "result": "none found",
@@ -1414,7 +1388,7 @@
    "id": "hunters-ai"
   },
   {
-   "ts": "2026-11-16T08:31:21Z",
+   "ts": "2026-11-23T07:25:13Z",
    "action": "review",
    "text": "Checked Hushmesh for a public job board",
    "result": "none found",
@@ -1422,7 +1396,7 @@
    "id": "hushmesh-com"
   },
   {
-   "ts": "2026-11-16T08:31:21Z",
+   "ts": "2026-11-23T07:25:13Z",
    "action": "review",
    "text": "Checked Hydden for a public job board",
    "result": "none found",
@@ -1430,7 +1404,7 @@
    "id": "hydden-com"
   },
   {
-   "ts": "2026-11-16T08:31:21Z",
+   "ts": "2026-11-23T07:25:13Z",
    "action": "review",
    "text": "Checked iCite for a public job board",
    "result": "none found",
@@ -1438,7 +1412,7 @@
    "id": "icite-io"
   },
   {
-   "ts": "2026-11-16T08:31:32Z",
+   "ts": "2026-11-23T07:25:13Z",
    "action": "review",
    "text": "Checked idemeum for a public job board",
    "result": "none found",
@@ -1446,7 +1420,7 @@
    "id": "idemeum-com"
   },
   {
-   "ts": "2026-11-16T08:31:32Z",
+   "ts": "2026-11-23T07:25:13Z",
    "action": "review",
    "text": "Checked Identiq for a public job board",
    "result": "none found",
@@ -1454,7 +1428,7 @@
    "id": "identiq-com"
   },
   {
-   "ts": "2026-11-16T08:31:32Z",
+   "ts": "2026-11-23T07:25:13Z",
    "action": "review",
    "text": "Checked IDEX Biometrics for a public job board",
    "result": "none found",
@@ -1462,7 +1436,7 @@
    "id": "idexbiometrics-com"
   },
   {
-   "ts": "2026-11-16T08:31:32Z",
+   "ts": "2026-11-23T07:25:13Z",
    "action": "review",
    "text": "Checked Idwall for a public job board",
    "result": "none found",
@@ -1470,7 +1444,7 @@
    "id": "idwall-co"
   },
   {
-   "ts": "2026-11-16T08:31:32Z",
+   "ts": "2026-11-23T07:25:13Z",
    "action": "review",
    "text": "Checked Indurex for a public job board",
    "result": "none found",
@@ -1478,7 +1452,7 @@
    "id": "indurex-ai"
   },
   {
-   "ts": "2026-11-16T08:31:32Z",
+   "ts": "2026-11-23T07:25:13Z",
    "action": "review",
    "text": "Checked Infra for a public job board",
    "result": "none found",
@@ -1486,7 +1460,7 @@
    "id": "infrahq-com"
   },
   {
-   "ts": "2026-11-16T08:31:32Z",
+   "ts": "2026-11-23T07:25:13Z",
    "action": "review",
    "text": "Checked Inky for a public job board",
    "result": "none found",
@@ -1494,7 +1468,7 @@
    "id": "inky-com"
   },
   {
-   "ts": "2026-11-16T08:31:32Z",
+   "ts": "2026-11-23T07:25:13Z",
    "action": "review",
    "text": "Checked Insane Cyber for a public job board",
    "result": "none found",
@@ -1502,7 +1476,7 @@
    "id": "insanecyber-com"
   },
   {
-   "ts": "2026-11-16T08:31:32Z",
+   "ts": "2026-11-23T07:25:13Z",
    "action": "review",
    "text": "Checked Intellicheck for a public job board",
    "result": "none found",
@@ -1510,7 +1484,7 @@
    "id": "intellicheck-com"
   },
   {
-   "ts": "2026-11-16T08:31:32Z",
+   "ts": "2026-11-23T07:25:17Z",
    "action": "review",
    "text": "Checked Intercede for a public job board",
    "result": "none found",
@@ -1518,7 +1492,7 @@
    "id": "intercede-com"
   },
   {
-   "ts": "2026-11-16T08:31:32Z",
+   "ts": "2026-11-23T07:25:17Z",
    "action": "review",
    "text": "Checked Interos for a public job board",
    "result": "none found",
@@ -1526,7 +1500,7 @@
    "id": "interos-ai"
   },
   {
-   "ts": "2026-11-16T08:31:32Z",
+   "ts": "2026-11-23T07:25:17Z",
    "action": "review",
    "text": "Checked Intezer for a public job board",
    "result": "none found",
@@ -1534,7 +1508,7 @@
    "id": "intezer-com"
   },
   {
-   "ts": "2026-11-16T08:31:32Z",
+   "ts": "2026-11-23T07:25:17Z",
    "action": "review",
    "text": "Checked Intrusion for a public job board",
    "result": "none found",
@@ -1542,7 +1516,7 @@
    "id": "intrusion-com"
   },
   {
-   "ts": "2026-11-16T08:31:32Z",
+   "ts": "2026-11-23T07:25:17Z",
    "action": "review",
    "text": "Checked Invicti Security for a public job board",
    "result": "none found",
@@ -1550,7 +1524,7 @@
    "id": "invicti-com"
   },
   {
-   "ts": "2026-11-16T08:31:32Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked IriusRisk for a public job board",
    "result": "none found",
@@ -1558,7 +1532,7 @@
    "id": "iriusrisk-com"
   },
   {
-   "ts": "2026-11-16T08:31:32Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked IronCircle for a public job board",
    "result": "none found",
@@ -1566,7 +1540,7 @@
    "id": "ironcircle-com"
   },
   {
-   "ts": "2026-11-16T08:31:32Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked Jericho Security for a public job board",
    "result": "none found",
@@ -1574,7 +1548,7 @@
    "id": "jerichosecurity-com"
   },
   {
-   "ts": "2026-11-16T08:31:32Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked JupiterOne for a public job board",
    "result": "none found",
@@ -1582,7 +1556,7 @@
    "id": "jupiterone-com"
   },
   {
-   "ts": "2026-11-16T08:31:35Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked Karamba Security for a public job board",
    "result": "none found",
@@ -1590,16 +1564,7 @@
    "id": "karambasecurity-com"
   },
   {
-   "ts": "2026-11-16T08:31:35Z",
-   "action": "review",
-   "text": "Found Keepit's job board on workable",
-   "url": "https://apply.workable.com/keepit",
-   "result": "0 open jobs; Claude will record it",
-   "coll": "companies",
-   "id": "keepit-com"
-  },
-  {
-   "ts": "2026-11-16T08:31:35Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked Kiteworks for a public job board",
    "result": "none found",
@@ -1607,7 +1572,7 @@
    "id": "kiteworks-com"
   },
   {
-   "ts": "2026-11-16T08:31:35Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked Klyro for a public job board",
    "result": "none found",
@@ -1615,7 +1580,7 @@
    "id": "klyro-security"
   },
   {
-   "ts": "2026-11-16T08:31:35Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked Kovrr for a public job board",
    "result": "none found",
@@ -1623,7 +1588,7 @@
    "id": "kovrr-com"
   },
   {
-   "ts": "2026-11-16T08:31:35Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked Lansweeper for a public job board",
    "result": "none found",
@@ -1631,7 +1596,7 @@
    "id": "lansweeper-com"
   },
   {
-   "ts": "2026-11-16T08:31:35Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked Lasso Security for a public job board",
    "result": "none found",
@@ -1639,7 +1604,7 @@
    "id": "lasso-security"
   },
   {
-   "ts": "2026-11-16T08:31:35Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked Lava for a public job board",
    "result": "none found",
@@ -1647,7 +1612,7 @@
    "id": "lava-security"
   },
   {
-   "ts": "2026-11-16T08:31:36Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked Legion Security for a public job board",
    "result": "none found",
@@ -1655,7 +1620,7 @@
    "id": "legionsecurity-ai"
   },
   {
-   "ts": "2026-11-16T08:31:36Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked Legit Security for a public job board",
    "result": "none found",
@@ -1663,7 +1628,7 @@
    "id": "legitsecurity-com"
   },
   {
-   "ts": "2026-11-16T08:31:36Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked Lema for a public job board",
    "result": "none found",
@@ -1671,7 +1636,7 @@
    "id": "lema-ai"
   },
   {
-   "ts": "2026-11-16T08:31:36Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked Lightbeam.AI for a public job board",
    "result": "none found",
@@ -1679,7 +1644,7 @@
    "id": "lightbeam-ai"
   },
   {
-   "ts": "2026-11-16T08:31:36Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked LimaCharlie for a public job board",
    "result": "none found",
@@ -1687,7 +1652,7 @@
    "id": "limacharlie-io"
   },
   {
-   "ts": "2026-11-16T08:31:36Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked Lineaje for a public job board",
    "result": "none found",
@@ -1695,7 +1660,7 @@
    "id": "lineaje-com"
   },
   {
-   "ts": "2026-11-16T08:31:36Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked Logpoint for a public job board",
    "result": "none found",
@@ -1703,7 +1668,7 @@
    "id": "logpoint-com"
   },
   {
-   "ts": "2026-11-16T08:31:38Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked Lumia Security for a public job board",
    "result": "none found",
@@ -1711,7 +1676,7 @@
    "id": "lumia-security"
   },
   {
-   "ts": "2026-11-16T08:31:38Z",
+   "ts": "2026-11-23T07:25:22Z",
    "action": "review",
    "text": "Checked Lumu Technologies for a public job board",
    "result": "none found",
@@ -1719,7 +1684,7 @@
    "id": "lumu-io"
   },
   {
-   "ts": "2026-11-16T08:31:38Z",
+   "ts": "2026-11-23T07:25:26Z",
    "action": "review",
    "text": "Checked Malloc Inc for a public job board",
    "result": "none found",
@@ -1727,7 +1692,7 @@
    "id": "mallocprivacy-com"
   },
   {
-   "ts": "2026-11-16T08:31:38Z",
+   "ts": "2026-11-23T07:25:26Z",
    "action": "review",
    "text": "Checked Matano for a public job board",
    "result": "none found",
@@ -1735,7 +1700,7 @@
    "id": "matano-dev"
   },
   {
-   "ts": "2026-11-16T08:31:38Z",
+   "ts": "2026-11-23T07:25:26Z",
    "action": "review",
    "text": "Checked Mate Security for a public job board",
    "result": "none found",
@@ -1743,7 +1708,7 @@
    "id": "mate-security"
   },
   {
-   "ts": "2026-11-16T08:31:38Z",
+   "ts": "2026-11-23T07:25:26Z",
    "action": "review",
    "text": "Checked Mave for a public job board",
    "result": "none found",
@@ -1751,7 +1716,7 @@
    "id": "mave-com"
   },
   {
-   "ts": "2026-11-16T08:31:38Z",
+   "ts": "2026-11-23T07:25:26Z",
    "action": "review",
    "text": "Checked Mayhem Security for a public job board",
    "result": "none found",
@@ -1759,7 +1724,7 @@
    "id": "mayhem-security"
   },
   {
-   "ts": "2026-11-16T08:31:38Z",
+   "ts": "2026-11-23T07:25:26Z",
    "action": "review",
    "text": "Checked Metalware for a public job board",
    "result": "none found",
@@ -1767,16 +1732,7 @@
    "id": "metalware-com"
   },
   {
-   "ts": "2026-11-16T08:31:38Z",
-   "action": "review",
-   "text": "Found Metomic's job board on workable",
-   "url": "https://apply.workable.com/metomic",
-   "result": "0 open jobs; Claude will record it",
-   "coll": "companies",
-   "id": "metomic-io"
-  },
-  {
-   "ts": "2026-11-16T08:31:40Z",
+   "ts": "2026-11-23T07:25:26Z",
    "action": "review",
    "text": "Checked Miggo Security for a public job board",
    "result": "none found",
@@ -1784,7 +1740,7 @@
    "id": "miggo-io"
   },
   {
-   "ts": "2026-11-16T08:31:40Z",
+   "ts": "2026-11-23T07:25:26Z",
    "action": "review",
    "text": "Checked MIND for a public job board",
    "result": "none found",
@@ -1792,7 +1748,7 @@
    "id": "mind-io"
   },
   {
-   "ts": "2026-11-16T08:31:40Z",
+   "ts": "2026-11-23T07:25:26Z",
    "action": "review",
    "text": "Checked MindFort for a public job board",
    "result": "none found",
@@ -1800,7 +1756,7 @@
    "id": "mindfort-ai"
   },
   {
-   "ts": "2026-11-16T08:31:40Z",
+   "ts": "2026-11-23T07:25:26Z",
    "action": "review",
    "text": "Checked Minimus for a public job board",
    "result": "none found",
@@ -1808,7 +1764,7 @@
    "id": "minimus-io"
   },
   {
-   "ts": "2026-11-16T08:31:40Z",
+   "ts": "2026-11-23T07:25:26Z",
    "action": "review",
    "text": "Checked MirrorTab for a public job board",
    "result": "none found",
@@ -1816,7 +1772,7 @@
    "id": "mirrortab-com"
   },
   {
-   "ts": "2026-11-16T08:31:40Z",
+   "ts": "2026-11-23T07:25:26Z",
    "action": "review",
    "text": "Checked Mitiga for a public job board",
    "result": "none found",
@@ -1824,7 +1780,7 @@
    "id": "mitiga-io"
   },
   {
-   "ts": "2026-11-16T08:31:40Z",
+   "ts": "2026-11-23T07:25:26Z",
    "action": "review",
    "text": "Checked Modelyo Technologies for a public job board",
    "result": "none found",
@@ -1832,7 +1788,7 @@
    "id": "modelyo-com"
   },
   {
-   "ts": "2026-11-16T08:31:42Z",
+   "ts": "2026-11-23T07:25:27Z",
    "action": "review",
    "text": "Checked MokN for a public job board",
    "result": "none found",
@@ -1840,7 +1796,7 @@
    "id": "mokn-io"
   },
   {
-   "ts": "2026-11-16T08:31:42Z",
+   "ts": "2026-11-23T07:25:27Z",
    "action": "review",
    "text": "Checked Monad for a public job board",
    "result": "none found",
@@ -1848,7 +1804,7 @@
    "id": "monad-security"
   },
   {
-   "ts": "2026-11-16T08:31:42Z",
+   "ts": "2026-11-23T07:25:27Z",
    "action": "review",
    "text": "Checked Mosyle for a public job board",
    "result": "none found",
@@ -1856,7 +1812,7 @@
    "id": "mosyle-com"
   },
   {
-   "ts": "2026-11-16T08:31:42Z",
+   "ts": "2026-11-23T07:25:28Z",
    "action": "review",
    "text": "Checked Multifactor for a public job board",
    "result": "none found",
@@ -1864,7 +1820,7 @@
    "id": "multifactor-com"
   },
   {
-   "ts": "2026-11-16T08:31:43Z",
+   "ts": "2026-11-23T07:25:29Z",
    "action": "review",
    "text": "Checked N-able for a public job board",
    "result": "none found",
@@ -1872,7 +1828,7 @@
    "id": "n-able-com"
   },
   {
-   "ts": "2026-11-16T08:32:00Z",
+   "ts": "2026-11-23T07:25:32Z",
    "action": "review",
    "text": "Checked Kudelski Group for a public job board",
    "result": "none found",
@@ -1880,7 +1836,7 @@
    "id": "nagra-com"
   },
   {
-   "ts": "2026-11-16T08:32:00Z",
+   "ts": "2026-11-23T07:25:32Z",
    "action": "review",
    "text": "Checked Native Security for a public job board",
    "result": "none found",
@@ -1888,7 +1844,7 @@
    "id": "native-security"
   },
   {
-   "ts": "2026-11-16T08:32:00Z",
+   "ts": "2026-11-23T07:25:34Z",
    "action": "review",
    "text": "Checked NCC Group for a public job board",
    "result": "none found",
@@ -1896,7 +1852,7 @@
    "id": "nccgroup-com"
   },
   {
-   "ts": "2026-11-16T08:32:00Z",
+   "ts": "2026-11-23T07:25:34Z",
    "action": "review",
    "text": "Checked NebuSec for a public job board",
    "result": "none found",
@@ -1904,7 +1860,7 @@
    "id": "nebusec-ai"
   },
   {
-   "ts": "2026-11-16T08:32:01Z",
+   "ts": "2026-11-23T07:25:34Z",
    "action": "review",
    "text": "Checked Neo Security for a public job board",
    "result": "none found",
@@ -1912,7 +1868,7 @@
    "id": "neo-ai"
   },
   {
-   "ts": "2026-11-16T08:32:01Z",
+   "ts": "2026-11-23T07:25:34Z",
    "action": "review",
    "text": "Checked Netography for a public job board",
    "result": "none found",
@@ -1920,7 +1876,7 @@
    "id": "netography-com"
   },
   {
-   "ts": "2026-11-16T08:32:01Z",
+   "ts": "2026-11-23T07:25:34Z",
    "action": "review",
    "text": "Checked Netsec for a public job board",
    "result": "none found",
@@ -1928,7 +1884,7 @@
    "id": "netsec-it"
   },
   {
-   "ts": "2026-11-16T08:32:01Z",
+   "ts": "2026-11-23T07:25:34Z",
    "action": "review",
    "text": "Checked NetSPI for a public job board",
    "result": "none found",
@@ -1936,7 +1892,7 @@
    "id": "netspi-com"
   },
   {
-   "ts": "2026-11-16T08:32:01Z",
+   "ts": "2026-11-23T07:25:34Z",
    "action": "review",
    "text": "Checked NewCore for a public job board",
    "result": "none found",
@@ -1944,7 +1900,7 @@
    "id": "newcore-security"
   },
   {
-   "ts": "2026-11-16T08:32:01Z",
+   "ts": "2026-11-23T07:25:35Z",
    "action": "review",
    "text": "Checked Nisos for a public job board",
    "result": "none found",
@@ -1952,7 +1908,7 @@
    "id": "nisos-com"
   },
   {
-   "ts": "2026-11-16T08:32:01Z",
+   "ts": "2026-11-23T07:25:35Z",
    "action": "review",
    "text": "Checked Noma Security for a public job board",
    "result": "none found",
@@ -1960,7 +1916,7 @@
    "id": "noma-security"
   },
   {
-   "ts": "2026-11-16T08:32:01Z",
+   "ts": "2026-11-23T07:25:35Z",
    "action": "review",
    "text": "Checked North.cloud for a public job board",
    "result": "none found",
@@ -1968,7 +1924,7 @@
    "id": "north-cloud"
   },
   {
-   "ts": "2026-11-16T08:32:01Z",
+   "ts": "2026-11-23T07:25:35Z",
    "action": "review",
    "text": "Checked Novee Security for a public job board",
    "result": "none found",
@@ -1976,7 +1932,7 @@
    "id": "novee-io"
   },
   {
-   "ts": "2026-11-16T08:32:01Z",
+   "ts": "2026-11-23T07:25:35Z",
    "action": "review",
    "text": "Checked NowSecure for a public job board",
    "result": "none found",
@@ -1984,7 +1940,7 @@
    "id": "nowsecure-com"
   },
   {
-   "ts": "2026-11-16T08:32:01Z",
+   "ts": "2026-11-23T07:25:35Z",
    "action": "review",
    "text": "Checked Nullify for a public job board",
    "result": "none found",
@@ -1992,7 +1948,7 @@
    "id": "nullify-ai"
   },
   {
-   "ts": "2026-11-16T08:32:01Z",
+   "ts": "2026-11-23T07:25:35Z",
    "action": "review",
    "text": "Checked Ocean for a public job board",
    "result": "none found",
@@ -2000,7 +1956,7 @@
    "id": "ocean-security"
   },
   {
-   "ts": "2026-11-16T08:32:01Z",
+   "ts": "2026-11-23T07:25:35Z",
    "action": "review",
    "text": "Checked Oleria for a public job board",
    "result": "none found",
@@ -2008,7 +1964,7 @@
    "id": "oleria-com"
   },
   {
-   "ts": "2026-11-16T08:32:01Z",
+   "ts": "2026-11-23T07:25:35Z",
    "action": "review",
    "text": "Checked Footprint for a public job board",
    "result": "weak match, not used",
@@ -2016,16 +1972,7 @@
    "id": "onefootprint-com"
   },
   {
-   "ts": "2026-11-16T08:32:01Z",
-   "action": "review",
-   "text": "Found Oort's job board on workable",
-   "url": "https://apply.workable.com/oort",
-   "result": "0 open jobs; Claude will record it",
-   "coll": "companies",
-   "id": "oort-io"
-  },
-  {
-   "ts": "2026-11-16T08:32:01Z",
+   "ts": "2026-11-23T07:25:35Z",
    "action": "review",
    "text": "Checked OpenHack for a public job board",
    "result": "none found",
@@ -2033,7 +1980,7 @@
    "id": "openhack-com"
   },
   {
-   "ts": "2026-11-16T08:32:01Z",
+   "ts": "2026-11-23T07:25:36Z",
    "action": "review",
    "text": "Checked Opsin for a public job board",
    "result": "none found",
@@ -2041,7 +1988,7 @@
    "id": "opsinsecurity-com"
   },
   {
-   "ts": "2026-11-16T08:32:01Z",
+   "ts": "2026-11-23T07:25:36Z",
    "action": "review",
    "text": "Checked Opti for a public job board",
    "result": "none found",
@@ -2049,7 +1996,7 @@
    "id": "opti-ai"
   },
   {
-   "ts": "2026-11-16T08:32:05Z",
+   "ts": "2026-11-23T07:25:38Z",
    "action": "review",
    "text": "Checked Orchid Security for a public job board",
    "result": "none found",
@@ -2057,7 +2004,7 @@
    "id": "orchid-security"
   },
   {
-   "ts": "2026-11-16T08:32:05Z",
+   "ts": "2026-11-23T07:25:38Z",
    "action": "review",
    "text": "Checked ORION Security for a public job board",
    "result": "none found",
@@ -2065,7 +2012,7 @@
    "id": "orionsec-io"
   },
   {
-   "ts": "2026-11-16T08:32:05Z",
+   "ts": "2026-11-23T07:25:38Z",
    "action": "review",
    "text": "Checked Ory for a public job board",
    "result": "none found",
@@ -2073,7 +2020,7 @@
    "id": "ory-sh"
   },
   {
-   "ts": "2026-11-16T08:32:05Z",
+   "ts": "2026-11-23T07:25:38Z",
    "action": "review",
    "text": "Checked Osavul for a public job board",
    "result": "none found",
@@ -2081,7 +2028,7 @@
    "id": "osavul-cloud"
   },
   {
-   "ts": "2026-11-16T08:32:05Z",
+   "ts": "2026-11-23T07:25:38Z",
    "action": "review",
    "text": "Checked Otterize for a public job board",
    "result": "none found",
@@ -2089,7 +2036,7 @@
    "id": "otterize-com"
   },
   {
-   "ts": "2026-11-16T08:32:07Z",
+   "ts": "2026-11-23T07:25:39Z",
    "action": "review",
    "text": "Checked OwnID for a public job board",
    "result": "none found",
@@ -2097,7 +2044,7 @@
    "id": "ownid-com"
   },
   {
-   "ts": "2026-11-16T08:32:07Z",
+   "ts": "2026-11-23T07:25:42Z",
    "action": "review",
    "text": "Checked OX Security for a public job board",
    "result": "none found",
@@ -2105,7 +2052,7 @@
    "id": "ox-security"
   },
   {
-   "ts": "2026-11-16T08:32:10Z",
+   "ts": "2026-11-23T07:25:42Z",
    "action": "review",
    "text": "Checked P0 Security for a public job board",
    "result": "none found",
@@ -2113,7 +2060,7 @@
    "id": "p0-dev"
   },
   {
-   "ts": "2026-11-16T08:32:10Z",
+   "ts": "2026-11-23T07:25:42Z",
    "action": "review",
    "text": "Checked Palisade for a public job board",
    "result": "none found",
@@ -2121,7 +2068,7 @@
    "id": "palisade-ai-com"
   },
   {
-   "ts": "2026-11-16T08:32:10Z",
+   "ts": "2026-11-23T07:25:42Z",
    "action": "review",
    "text": "Checked Palitronica Inc for a public job board",
    "result": "none found",
@@ -2129,7 +2076,7 @@
    "id": "palitronica-com"
   },
   {
-   "ts": "2026-11-16T08:32:11Z",
+   "ts": "2026-11-23T07:25:42Z",
    "action": "review",
    "text": "Checked Palo Alto Networks for a public job board",
    "result": "none found",
@@ -2137,7 +2084,7 @@
    "id": "paloaltonetworks-com"
   },
   {
-   "ts": "2026-11-16T08:32:11Z",
+   "ts": "2026-11-23T07:25:42Z",
    "action": "review",
    "text": "Checked Panaseer for a public job board",
    "result": "none found",
@@ -2145,7 +2092,7 @@
    "id": "panaseer-com"
   },
   {
-   "ts": "2026-11-16T08:32:11Z",
+   "ts": "2026-11-23T07:25:42Z",
    "action": "review",
    "text": "Checked Pangea for a public job board",
    "result": "none found",
@@ -2153,7 +2100,7 @@
    "id": "pangea-cloud"
   },
   {
-   "ts": "2026-11-16T08:32:11Z",
+   "ts": "2026-11-23T07:25:42Z",
    "action": "review",
    "text": "Checked Panther for a public job board",
    "result": "none found",
@@ -2161,7 +2108,7 @@
    "id": "panther-com"
   },
   {
-   "ts": "2026-11-16T08:32:11Z",
+   "ts": "2026-11-23T07:25:42Z",
    "action": "review",
    "text": "Checked Paravision for a public job board",
    "result": "none found",
@@ -2169,7 +2116,7 @@
    "id": "paravision-ai"
   },
   {
-   "ts": "2026-11-16T08:32:11Z",
+   "ts": "2026-11-23T07:25:42Z",
    "action": "review",
    "text": "Checked Passus for a public job board",
    "result": "none found",
@@ -2177,7 +2124,7 @@
    "id": "passus-com"
   },
   {
-   "ts": "2026-11-16T08:32:14Z",
+   "ts": "2026-11-23T07:25:44Z",
    "action": "review",
    "text": "Checked Permit.io for a public job board",
    "result": "none found",
@@ -2185,7 +2132,7 @@
    "id": "permit-io"
   },
   {
-   "ts": "2026-11-16T08:32:14Z",
+   "ts": "2026-11-23T07:25:44Z",
    "action": "review",
    "text": "Checked Perygee for a public job board",
    "result": "none found",
@@ -2193,7 +2140,7 @@
    "id": "perygee-com"
   },
   {
-   "ts": "2026-11-16T08:32:14Z",
+   "ts": "2026-11-23T07:25:44Z",
    "action": "review",
    "text": "Checked Phala for a public job board",
    "result": "none found",
@@ -2201,7 +2148,7 @@
    "id": "phala-com"
   },
   {
-   "ts": "2026-11-16T08:32:15Z",
+   "ts": "2026-11-23T07:25:44Z",
    "action": "review",
    "text": "Checked Phosphorus for a public job board",
    "result": "none found",
@@ -2209,7 +2156,7 @@
    "id": "phosphorus-io"
   },
   {
-   "ts": "2026-11-16T08:32:15Z",
+   "ts": "2026-11-23T07:25:44Z",
    "action": "review",
    "text": "Checked Pixee for a public job board",
    "result": "none found",
@@ -2217,7 +2164,7 @@
    "id": "pixee-ai"
   },
   {
-   "ts": "2026-11-16T08:32:15Z",
+   "ts": "2026-11-23T07:25:44Z",
    "action": "review",
    "text": "Checked Plixer for a public job board",
    "result": "none found",
@@ -2225,7 +2172,7 @@
    "id": "plixer-com"
   },
   {
-   "ts": "2026-11-16T08:32:15Z",
+   "ts": "2026-11-23T07:25:46Z",
    "action": "review",
    "text": "Checked Pluto Security for a public job board",
    "result": "none found",
@@ -2233,7 +2180,7 @@
    "id": "pluto-security"
   },
   {
-   "ts": "2026-11-16T08:32:15Z",
+   "ts": "2026-11-23T07:25:46Z",
    "action": "review",
    "text": "Checked Pomerium for a public job board",
    "result": "none found",
@@ -2241,7 +2188,7 @@
    "id": "pomerium-com"
   },
   {
-   "ts": "2026-11-16T08:32:15Z",
+   "ts": "2026-11-23T07:25:46Z",
    "action": "review",
    "text": "Checked Precise Biometrics for a public job board",
    "result": "none found",
@@ -2249,7 +2196,7 @@
    "id": "precisebiometrics-com"
   },
   {
-   "ts": "2026-11-16T08:32:15Z",
+   "ts": "2026-11-23T07:25:46Z",
    "action": "review",
    "text": "Checked Privacera for a public job board",
    "result": "none found",
@@ -2257,7 +2204,7 @@
    "id": "privacera-com"
   },
   {
-   "ts": "2026-11-16T08:32:15Z",
+   "ts": "2026-11-23T07:25:46Z",
    "action": "review",
    "text": "Checked PrivacyHawk for a public job board",
    "result": "none found",
@@ -2265,7 +2212,7 @@
    "id": "privacyhawk-com"
   },
   {
-   "ts": "2026-11-16T08:32:15Z",
+   "ts": "2026-11-23T07:25:46Z",
    "action": "review",
    "text": "Checked PrivadoVPN for a public job board",
    "result": "none found",
@@ -2273,7 +2220,7 @@
    "id": "privadovpn-com"
   },
   {
-   "ts": "2026-11-16T08:32:15Z",
+   "ts": "2026-11-23T07:25:47Z",
    "action": "review",
    "text": "Checked Probo for a public job board",
    "result": "none found",
@@ -2281,7 +2228,7 @@
    "id": "probo-com"
   },
   {
-   "ts": "2026-11-16T08:32:15Z",
+   "ts": "2026-11-23T07:25:49Z",
    "action": "review",
    "text": "Checked ProcessUnity for a public job board",
    "result": "none found",
@@ -2289,7 +2236,7 @@
    "id": "processunity-com"
   },
   {
-   "ts": "2026-11-16T08:32:15Z",
+   "ts": "2026-11-23T07:25:49Z",
    "action": "review",
    "text": "Checked ProjectDiscovery for a public job board",
    "result": "none found",
@@ -2297,7 +2244,7 @@
    "id": "projectdiscovery-io"
   },
   {
-   "ts": "2026-11-16T08:32:15Z",
+   "ts": "2026-11-23T07:25:49Z",
    "action": "review",
    "text": "Checked PromptArmor for a public job board",
    "result": "none found",
@@ -2305,7 +2252,7 @@
    "id": "promptarmor-com"
   },
   {
-   "ts": "2026-11-16T08:32:15Z",
+   "ts": "2026-11-23T07:25:49Z",
    "action": "review",
    "text": "Checked Promptfoo for a public job board",
    "result": "none found",
@@ -2313,7 +2260,7 @@
    "id": "promptfoo-dev"
   },
   {
-   "ts": "2026-11-16T08:32:15Z",
+   "ts": "2026-11-23T07:25:50Z",
    "action": "review",
    "text": "Checked Prosimo.io for a public job board",
    "result": "none found",
@@ -2321,7 +2268,7 @@
    "id": "prosimo-io"
   },
   {
-   "ts": "2026-11-16T08:32:15Z",
+   "ts": "2026-11-23T07:25:52Z",
    "action": "review",
    "text": "Checked Protect AI for a public job board",
    "result": "none found",
@@ -2329,7 +2276,7 @@
    "id": "protectai-com"
   },
   {
-   "ts": "2026-11-16T08:32:15Z",
+   "ts": "2026-11-23T07:25:52Z",
    "action": "review",
    "text": "Checked Protectt.ai for a public job board",
    "result": "none found",
@@ -2337,7 +2284,7 @@
    "id": "protectt-ai"
   },
   {
-   "ts": "2026-11-16T08:32:16Z",
+   "ts": "2026-11-23T07:25:52Z",
    "action": "review",
    "text": "Checked Qevlar AI for a public job board",
    "result": "none found",
@@ -2345,7 +2292,7 @@
    "id": "qevlar-com"
   },
   {
-   "ts": "2026-11-16T08:32:16Z",
+   "ts": "2026-11-23T07:25:52Z",
    "action": "review",
    "text": "Checked QIZ Security for a public job board",
    "result": "none found",
@@ -2353,7 +2300,7 @@
    "id": "qizsecurity-com"
   },
   {
-   "ts": "2026-11-16T08:32:16Z",
+   "ts": "2026-11-23T07:25:52Z",
    "action": "review",
    "text": "Checked Qualys for a public job board",
    "result": "none found",
@@ -2361,7 +2308,7 @@
    "id": "qualys-com"
   },
   {
-   "ts": "2026-11-16T08:32:16Z",
+   "ts": "2026-11-23T07:25:52Z",
    "action": "review",
    "text": "Checked Query for a public job board",
    "result": "none found",
@@ -2369,7 +2316,7 @@
    "id": "query-ai"
   },
   {
-   "ts": "2026-11-16T08:32:16Z",
+   "ts": "2026-11-23T07:25:52Z",
    "action": "review",
    "text": "Checked QuestorAI for a public job board",
    "result": "none found",
@@ -2377,7 +2324,7 @@
    "id": "questorai-com"
   },
   {
-   "ts": "2026-11-16T08:32:17Z",
+   "ts": "2026-11-23T07:25:52Z",
    "action": "review",
    "text": "Checked Qwiet AI for a public job board",
    "result": "none found",
@@ -2385,7 +2332,7 @@
    "id": "qwiet-ai"
   },
   {
-   "ts": "2026-11-16T08:32:21Z",
+   "ts": "2026-11-23T07:25:54Z",
    "action": "review",
    "text": "Checked Radiant Security for a public job board",
    "result": "none found",
@@ -2393,7 +2340,7 @@
    "id": "radiantsecurity-ai"
   },
   {
-   "ts": "2026-11-16T08:32:21Z",
+   "ts": "2026-11-23T07:25:54Z",
    "action": "review",
    "text": "Checked RADICL for a public job board",
    "result": "none found",
@@ -2401,7 +2348,7 @@
    "id": "radicl-com"
   },
   {
-   "ts": "2026-11-16T08:32:21Z",
+   "ts": "2026-11-23T07:25:54Z",
    "action": "review",
    "text": "Checked Radware for a public job board",
    "result": "none found",
@@ -2409,7 +2356,7 @@
    "id": "radware-com"
   },
   {
-   "ts": "2026-11-16T08:32:23Z",
+   "ts": "2026-11-23T07:25:54Z",
    "action": "review",
    "text": "Checked Raito for a public job board",
    "result": "none found",
@@ -2417,7 +2364,7 @@
    "id": "raito-io"
   },
   {
-   "ts": "2026-11-16T08:32:23Z",
+   "ts": "2026-11-23T07:25:54Z",
    "action": "review",
    "text": "Checked RangeForce for a public job board",
    "result": "none found",
@@ -2425,7 +2372,7 @@
    "id": "rangeforce-com"
   },
   {
-   "ts": "2026-11-16T08:32:23Z",
+   "ts": "2026-11-23T07:25:54Z",
    "action": "review",
    "text": "Checked Rapid7 for a public job board",
    "result": "none found",
@@ -2433,7 +2380,7 @@
    "id": "rapid7-com"
   },
   {
-   "ts": "2026-11-16T08:32:23Z",
+   "ts": "2026-11-23T07:25:54Z",
    "action": "review",
    "text": "Checked RASPIRE for a public job board",
    "result": "none found",
@@ -2441,7 +2388,7 @@
    "id": "raspire-com"
   },
   {
-   "ts": "2026-11-16T08:32:24Z",
+   "ts": "2026-11-23T07:25:59Z",
    "action": "review",
    "text": "Checked Reclaim Security for a public job board",
    "result": "none found",
@@ -2449,7 +2396,7 @@
    "id": "reclaim-security"
   },
   {
-   "ts": "2026-11-16T08:32:24Z",
+   "ts": "2026-11-23T07:25:59Z",
    "action": "review",
    "text": "Checked Red Access for a public job board",
    "result": "none found",
@@ -2457,7 +2404,7 @@
    "id": "redaccess-io"
   },
   {
-   "ts": "2026-11-16T08:32:24Z",
+   "ts": "2026-11-23T07:25:59Z",
    "action": "review",
    "text": "Checked Red Balloon Security for a public job board",
    "result": "none found",
@@ -2465,7 +2412,7 @@
    "id": "redballoonsecurity-com"
   },
   {
-   "ts": "2026-11-16T08:32:24Z",
+   "ts": "2026-11-23T07:25:59Z",
    "action": "review",
    "text": "Checked Redhawk Federal Solutions for a public job board",
    "result": "none found",
@@ -2473,7 +2420,7 @@
    "id": "redhawkfederal-ai"
   },
   {
-   "ts": "2026-11-16T08:32:25Z",
+   "ts": "2026-11-23T07:25:59Z",
    "action": "review",
    "text": "Checked Red Sift for a public job board",
    "result": "none found",
@@ -2481,7 +2428,7 @@
    "id": "redsift-com"
   },
   {
-   "ts": "2026-11-16T08:32:25Z",
+   "ts": "2026-11-23T07:25:59Z",
    "action": "review",
    "text": "Checked Refine Intelligence for a public job board",
    "result": "none found",
@@ -2489,7 +2436,7 @@
    "id": "refineintelligence-com"
   },
   {
-   "ts": "2026-11-16T08:32:25Z",
+   "ts": "2026-11-23T07:25:59Z",
    "action": "review",
    "text": "Checked Reinsec for a public job board",
    "result": "none found",
@@ -2497,7 +2444,7 @@
    "id": "reinsec-io"
   },
   {
-   "ts": "2026-11-16T08:32:25Z",
+   "ts": "2026-11-23T07:26:24Z",
    "action": "review",
    "text": "Checked Relyance AI for a public job board",
    "result": "none found",
@@ -2505,7 +2452,7 @@
    "id": "relyance-ai"
   },
   {
-   "ts": "2026-11-16T08:32:27Z",
+   "ts": "2026-11-23T07:26:24Z",
    "action": "review",
    "text": "Checked Remedio for a public job board",
    "result": "none found",
@@ -2513,7 +2460,7 @@
    "id": "remedio-io"
   },
   {
-   "ts": "2026-11-16T08:32:27Z",
+   "ts": "2026-11-23T07:26:24Z",
    "action": "review",
    "text": "Checked RemoteThreat for a public job board",
    "result": "none found",
@@ -2521,7 +2468,7 @@
    "id": "remotethreat-com"
   },
   {
-   "ts": "2026-11-16T08:32:27Z",
+   "ts": "2026-11-23T07:26:24Z",
    "action": "review",
    "text": "Checked Repacket for a public job board",
    "result": "none found",
@@ -2529,7 +2476,7 @@
    "id": "repacket-com"
   },
   {
-   "ts": "2026-11-16T08:32:27Z",
+   "ts": "2026-11-23T07:26:24Z",
    "action": "review",
    "text": "Checked Resemble AI for a public job board",
    "result": "none found",
@@ -2537,7 +2484,7 @@
    "id": "resemble-ai"
   },
   {
-   "ts": "2026-11-16T08:32:41Z",
+   "ts": "2026-11-23T07:26:24Z",
    "action": "review",
    "text": "Checked Resistant AI for a public job board",
    "result": "none found",
@@ -2545,7 +2492,7 @@
    "id": "resistant-ai"
   },
   {
-   "ts": "2026-11-16T08:32:41Z",
+   "ts": "2026-11-23T07:26:24Z",
    "action": "review",
    "text": "Checked Reveal Security for a public job board",
    "result": "none found",
@@ -2553,7 +2500,7 @@
    "id": "reveal-security"
   },
   {
-   "ts": "2026-11-16T08:32:41Z",
+   "ts": "2026-11-23T07:26:24Z",
    "action": "review",
    "text": "Checked RevEng.ai for a public job board",
    "result": "none found",
@@ -2561,7 +2508,7 @@
    "id": "reveng-ai"
   },
   {
-   "ts": "2026-11-16T08:33:04Z",
+   "ts": "2026-11-23T07:26:24Z",
    "action": "review",
    "text": "Checked Rig Security for a public job board",
    "result": "none found",
@@ -2569,7 +2516,7 @@
    "id": "rig-security"
   },
   {
-   "ts": "2026-11-16T08:33:04Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked Right-Hand Cybersecurity for a public job board",
    "result": "none found",
@@ -2577,7 +2524,7 @@
    "id": "right-hand-ai"
   },
   {
-   "ts": "2026-11-16T08:33:04Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked Ring Zero Security for a public job board",
    "result": "none found",
@@ -2585,7 +2532,7 @@
    "id": "ringzerosecurity-com"
   },
   {
-   "ts": "2026-11-16T08:33:04Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked RiPSIM Technologies for a public job board",
    "result": "none found",
@@ -2593,7 +2540,7 @@
    "id": "ripsim-com"
   },
   {
-   "ts": "2026-11-16T08:33:04Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked Root Evidence for a public job board",
    "result": "none found",
@@ -2601,7 +2548,7 @@
    "id": "rootevidence-com"
   },
   {
-   "ts": "2026-11-16T08:33:04Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked SailPoint for a public job board",
    "result": "none found",
@@ -2609,7 +2556,7 @@
    "id": "sailpoint-com"
   },
   {
-   "ts": "2026-11-16T08:33:04Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked Salvador Technologies for a public job board",
    "result": "none found",
@@ -2617,7 +2564,7 @@
    "id": "salvador-tech-com"
   },
   {
-   "ts": "2026-11-16T08:33:04Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked Sanctum SecOps for a public job board",
    "result": "none found",
@@ -2625,7 +2572,7 @@
    "id": "sanctumsecops-com"
   },
   {
-   "ts": "2026-11-16T08:33:04Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked Satori Cyber for a public job board",
    "result": "none found",
@@ -2633,7 +2580,7 @@
    "id": "satoricyber-com"
   },
   {
-   "ts": "2026-11-16T08:33:09Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked Mine for a public job board",
    "result": "none found",
@@ -2641,7 +2588,7 @@
    "id": "saymine-com"
   },
   {
-   "ts": "2026-11-16T08:33:09Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked SCYTHE for a public job board",
    "result": "none found",
@@ -2649,7 +2596,7 @@
    "id": "scythe-io"
   },
   {
-   "ts": "2026-11-16T08:33:09Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked Seal Security for a public job board",
    "result": "none found",
@@ -2657,7 +2604,7 @@
    "id": "seal-security"
   },
   {
-   "ts": "2026-11-16T08:33:09Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked SEALSQ for a public job board",
    "result": "none found",
@@ -2665,7 +2612,7 @@
    "id": "sealsq-com"
   },
   {
-   "ts": "2026-11-16T08:33:09Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked SecondSight for a public job board",
    "result": "none found",
@@ -2673,7 +2620,7 @@
    "id": "secondsight-ai"
   },
   {
-   "ts": "2026-11-16T08:33:09Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked Secunet Security Networks for a public job board",
    "result": "none found",
@@ -2681,7 +2628,7 @@
    "id": "secunet-com"
   },
   {
-   "ts": "2026-11-16T08:33:09Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked Securden for a public job board",
    "result": "none found",
@@ -2689,7 +2636,7 @@
    "id": "securden-com"
   },
   {
-   "ts": "2026-11-16T08:33:09Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked SecureW2 for a public job board",
    "result": "none found",
@@ -2697,7 +2644,7 @@
    "id": "securew2-com"
   },
   {
-   "ts": "2026-11-16T08:33:09Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked Seemplicity for a public job board",
    "result": "none found",
@@ -2705,7 +2652,7 @@
    "id": "seemplicity-ai"
   },
   {
-   "ts": "2026-11-16T08:33:09Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked Seezo for a public job board",
    "result": "none found",
@@ -2713,7 +2660,7 @@
    "id": "seezo-io"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked Sekoia.io for a public job board",
    "result": "none found",
@@ -2721,7 +2668,7 @@
    "id": "sekoia-io"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked Shearwater Group for a public job board",
    "result": "none found",
@@ -2729,7 +2676,7 @@
    "id": "shearwatergroup-com"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked Silent Push for a public job board",
    "result": "none found",
@@ -2737,7 +2684,7 @@
    "id": "silentpush-com"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked Silverfort for a public job board",
    "result": "none found",
@@ -2745,7 +2692,7 @@
    "id": "silverfort-com"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked Sirius Computer for a public job board",
    "result": "none found",
@@ -2753,7 +2700,7 @@
    "id": "sirius-computer"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked Skypher for a public job board",
    "result": "none found",
@@ -2761,7 +2708,7 @@
    "id": "skypher-co"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:29Z",
    "action": "review",
    "text": "Checked Smarttech247 for a public job board",
    "result": "none found",
@@ -2769,7 +2716,7 @@
    "id": "smarttech247-com"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Snappt for a public job board",
    "result": "none found",
@@ -2777,7 +2724,7 @@
    "id": "snappt-com"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked SolCyber for a public job board",
    "result": "none found",
@@ -2785,7 +2732,7 @@
    "id": "solcyber-com"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Source Defense for a public job board",
    "result": "none found",
@@ -2793,7 +2740,7 @@
    "id": "sourcedefense-com"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked SPHERE Technology Solutions for a public job board",
    "result": "none found",
@@ -2801,7 +2748,7 @@
    "id": "sphereco-com"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Splashtop for a public job board",
    "result": "none found",
@@ -2809,7 +2756,7 @@
    "id": "splashtop-com"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Stairwell for a public job board",
    "result": "none found",
@@ -2817,7 +2764,7 @@
    "id": "stairwell-com"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Steg AI for a public job board",
    "result": "none found",
@@ -2825,7 +2772,7 @@
    "id": "steg-ai"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Stellar Cyber for a public job board",
    "result": "none found",
@@ -2833,7 +2780,7 @@
    "id": "stellarcyber-ai"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Strac for a public job board",
    "result": "none found",
@@ -2841,7 +2788,7 @@
    "id": "strac-io"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Straiker for a public job board",
    "result": "none found",
@@ -2849,16 +2796,7 @@
    "id": "straiker-ai"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
-   "action": "review",
-   "text": "Found Strata Identity's job board on workable",
-   "url": "https://apply.workable.com/strata",
-   "result": "0 open jobs; Claude will record it",
-   "coll": "companies",
-   "id": "strata-io"
-  },
-  {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked SubImage for a public job board",
    "result": "none found",
@@ -2866,7 +2804,7 @@
    "id": "subimage-io"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Sunnies for a public job board",
    "result": "none found",
@@ -2874,7 +2812,7 @@
    "id": "sunnies-co-jp"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Superagent for a public job board",
    "result": "none found",
@@ -2882,7 +2820,7 @@
    "id": "superagent-sh"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked SuperTokens for a public job board",
    "result": "none found",
@@ -2890,7 +2828,7 @@
    "id": "supertokens-com"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Swif.ai for a public job board",
    "result": "none found",
@@ -2898,7 +2836,7 @@
    "id": "swif-ai"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Swimlane for a public job board",
    "result": "none found",
@@ -2906,7 +2844,7 @@
    "id": "swimlane-com"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Sygnia for a public job board",
    "result": "none found",
@@ -2914,7 +2852,7 @@
    "id": "sygnia-co"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Symmetry Systems for a public job board",
    "result": "none found",
@@ -2922,7 +2860,7 @@
    "id": "symmetry-systems-com"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Synadia Communications for a public job board",
    "result": "none found",
@@ -2930,7 +2868,7 @@
    "id": "synadia-com"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Synqly for a public job board",
    "result": "none found",
@@ -2938,7 +2876,7 @@
    "id": "synqly-com"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked SynSaber for a public job board",
    "result": "none found",
@@ -2946,7 +2884,7 @@
    "id": "synsaber-com"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Tadaweb for a public job board",
    "result": "none found",
@@ -2954,7 +2892,7 @@
    "id": "tadaweb-com"
   },
   {
-   "ts": "2026-11-16T08:33:21Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Telos for a public job board",
    "result": "none found",
@@ -2962,7 +2900,7 @@
    "id": "telos-com"
   },
   {
-   "ts": "2026-11-16T08:33:23Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Tenzai for a public job board",
    "result": "none found",
@@ -2970,7 +2908,7 @@
    "id": "tenzai-com"
   },
   {
-   "ts": "2026-11-16T08:33:23Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Termius for a public job board",
    "result": "none found",
@@ -2978,7 +2916,7 @@
    "id": "termius-com"
   },
   {
-   "ts": "2026-11-16T08:33:23Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Theom for a public job board",
    "result": "none found",
@@ -2986,7 +2924,7 @@
    "id": "theom-ai"
   },
   {
-   "ts": "2026-11-16T08:33:23Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Theta Lake for a public job board",
    "result": "none found",
@@ -2994,7 +2932,7 @@
    "id": "thetalake-com"
   },
   {
-   "ts": "2026-11-16T08:33:23Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked ThreatLocker for a public job board",
    "result": "none found",
@@ -3002,15 +2940,16 @@
    "id": "threatlocker-com"
   },
   {
-   "ts": "2026-11-16T08:33:27Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
-   "text": "Checked Tinfoil for a public job board",
-   "result": "none found",
+   "text": "Found Tinfoil's job board on greenhouse",
+   "url": "https://job-boards.greenhouse.io/tinfoil",
+   "result": "2 open jobs; Claude will record it",
    "coll": "companies",
    "id": "tinfoil-sh"
   },
   {
-   "ts": "2026-11-16T08:33:27Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Tracecat for a public job board",
    "result": "none found",
@@ -3018,7 +2957,7 @@
    "id": "tracecat-com"
   },
   {
-   "ts": "2026-11-16T08:33:27Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Traceforce for a public job board",
    "result": "none found",
@@ -3026,7 +2965,7 @@
    "id": "traceforce-ai"
   },
   {
-   "ts": "2026-11-16T08:33:27Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked Trident for a public job board",
    "result": "none found",
@@ -3034,7 +2973,7 @@
    "id": "tridentsecurity-io"
   },
   {
-   "ts": "2026-11-16T08:33:27Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked TripleBlind for a public job board",
    "result": "none found",
@@ -3042,7 +2981,7 @@
    "id": "tripleblind-com"
   },
   {
-   "ts": "2026-11-16T08:33:27Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked TrueFort for a public job board",
    "result": "none found",
@@ -3050,7 +2989,7 @@
    "id": "truefort-com"
   },
   {
-   "ts": "2026-11-16T08:33:27Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked TruGard for a public job board",
    "result": "none found",
@@ -3058,7 +2997,7 @@
    "id": "trugard-ai"
   },
   {
-   "ts": "2026-11-16T08:33:27Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked TrustedRouter for a public job board",
    "result": "none found",
@@ -3066,7 +3005,7 @@
    "id": "trustedrouter-com"
   },
   {
-   "ts": "2026-11-16T08:33:27Z",
+   "ts": "2026-11-23T07:26:43Z",
    "action": "review",
    "text": "Checked TrustLogix for a public job board",
    "result": "none found",
@@ -3074,7 +3013,7 @@
    "id": "trustlogix-io"
   },
   {
-   "ts": "2026-11-16T08:33:27Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Trustmi for a public job board",
    "result": "none found",
@@ -3082,7 +3021,7 @@
    "id": "trustmi-ai"
   },
   {
-   "ts": "2026-11-16T08:33:28Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Turngate for a public job board",
    "result": "none found",
@@ -3090,7 +3029,7 @@
    "id": "turngate-io"
   },
   {
-   "ts": "2026-11-16T08:33:29Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Tuskira for a public job board",
    "result": "none found",
@@ -3098,7 +3037,7 @@
    "id": "tuskira-ai"
   },
   {
-   "ts": "2026-11-16T08:33:29Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Twine Security for a public job board",
    "result": "none found",
@@ -3106,7 +3045,7 @@
    "id": "twinesecurity-com"
   },
   {
-   "ts": "2026-11-16T08:33:29Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Unitary for a public job board",
    "result": "none found",
@@ -3114,7 +3053,7 @@
    "id": "unitary-ai"
   },
   {
-   "ts": "2026-11-16T08:33:32Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Unixi for a public job board",
    "result": "none found",
@@ -3122,7 +3061,7 @@
    "id": "unixi-io"
   },
   {
-   "ts": "2026-11-16T08:33:32Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Upfort for a public job board",
    "result": "none found",
@@ -3130,7 +3069,7 @@
    "id": "upfort-com"
   },
   {
-   "ts": "2026-11-16T08:33:32Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Upstream Security for a public job board",
    "result": "none found",
@@ -3138,7 +3077,7 @@
    "id": "upstream-auto"
   },
   {
-   "ts": "2026-11-16T08:33:32Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Uptycs for a public job board",
    "result": "none found",
@@ -3146,7 +3085,7 @@
    "id": "uptycs-com"
   },
   {
-   "ts": "2026-11-16T08:33:32Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Upwind Security for a public job board",
    "result": "none found",
@@ -3154,7 +3093,7 @@
    "id": "upwind-io"
   },
   {
-   "ts": "2026-11-16T08:33:32Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Valence Security for a public job board",
    "result": "none found",
@@ -3162,7 +3101,7 @@
    "id": "valencesecurity-com"
   },
   {
-   "ts": "2026-11-16T08:33:32Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Varonis for a public job board",
    "result": "none found",
@@ -3170,7 +3109,7 @@
    "id": "varonis-com"
   },
   {
-   "ts": "2026-11-16T08:33:32Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Vates for a public job board",
    "result": "none found",
@@ -3178,7 +3117,7 @@
    "id": "vates-tech"
   },
   {
-   "ts": "2026-11-16T08:33:32Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Venice for a public job board",
    "result": "none found",
@@ -3186,7 +3125,7 @@
    "id": "venice-io"
   },
   {
-   "ts": "2026-11-16T08:33:32Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Verdict Machine for a public job board",
    "result": "none found",
@@ -3194,7 +3133,7 @@
    "id": "verdictmachine-com"
   },
   {
-   "ts": "2026-11-16T08:33:32Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Verdun for a public job board",
    "result": "none found",
@@ -3202,7 +3141,7 @@
    "id": "verdun-ai"
   },
   {
-   "ts": "2026-11-16T08:33:35Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Veria Labs for a public job board",
    "result": "none found",
@@ -3210,7 +3149,7 @@
    "id": "verialabs-com"
   },
   {
-   "ts": "2026-11-16T08:33:35Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Versa Networks for a public job board",
    "result": "none found",
@@ -3218,7 +3157,7 @@
    "id": "versa-networks-com"
   },
   {
-   "ts": "2026-11-16T08:33:36Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Veza for a public job board",
    "result": "none found",
@@ -3226,7 +3165,7 @@
    "id": "veza-com"
   },
   {
-   "ts": "2026-11-16T08:33:36Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Vorlon for a public job board",
    "result": "none found",
@@ -3234,7 +3173,7 @@
    "id": "vorlonsecurity-com"
   },
   {
-   "ts": "2026-11-16T08:33:36Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Wallix for a public job board",
    "result": "none found",
@@ -3242,7 +3181,7 @@
    "id": "wallix-com"
   },
   {
-   "ts": "2026-11-16T08:33:36Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Way Security for a public job board",
    "result": "none found",
@@ -3250,7 +3189,7 @@
    "id": "way-security"
   },
   {
-   "ts": "2026-11-16T08:33:36Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked Whistic for a public job board",
    "result": "none found",
@@ -3258,7 +3197,7 @@
    "id": "whistic-com"
   },
   {
-   "ts": "2026-11-16T08:33:36Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked WidePoint for a public job board",
    "result": "none found",
@@ -3266,7 +3205,7 @@
    "id": "widepoint-com"
   },
   {
-   "ts": "2026-11-16T08:33:36Z",
+   "ts": "2026-11-23T07:26:54Z",
    "action": "review",
    "text": "Checked winfunc for a public job board",
    "result": "none found",
@@ -3274,7 +3213,7 @@
    "id": "winfunc-com"
   },
   {
-   "ts": "2026-11-16T08:33:37Z",
+   "ts": "2026-11-23T07:26:57Z",
    "action": "review",
    "text": "Checked WireX Cube for a public job board",
    "result": "none found",
@@ -3282,7 +3221,7 @@
    "id": "wirexsystems-com"
   },
   {
-   "ts": "2026-11-16T08:33:37Z",
+   "ts": "2026-11-23T07:26:57Z",
    "action": "review",
    "text": "Checked WISeKey for a public job board",
    "result": "none found",
@@ -3290,7 +3229,7 @@
    "id": "wisekey-com"
   },
   {
-   "ts": "2026-11-16T08:33:37Z",
+   "ts": "2026-11-23T07:26:57Z",
    "action": "review",
    "text": "Checked Persona for a public job board",
    "result": "weak match, not used",
@@ -3298,7 +3237,7 @@
    "id": "withpersona-com"
   },
   {
-   "ts": "2026-11-16T08:33:37Z",
+   "ts": "2026-11-23T07:26:57Z",
    "action": "review",
    "text": "Checked XBOW for a public job board",
    "result": "none found",
@@ -3306,7 +3245,7 @@
    "id": "xbow-com"
   },
   {
-   "ts": "2026-11-16T08:33:39Z",
+   "ts": "2026-11-23T07:26:57Z",
    "action": "review",
    "text": "Checked XONA for a public job board",
    "result": "none found",
@@ -3314,7 +3253,7 @@
    "id": "xonasystems-com"
   },
   {
-   "ts": "2026-11-16T08:33:39Z",
+   "ts": "2026-11-23T07:26:57Z",
    "action": "review",
    "text": "Checked Zafran for a public job board",
    "result": "none found",
@@ -3322,7 +3261,7 @@
    "id": "zafran-io"
   },
   {
-   "ts": "2026-11-16T08:33:39Z",
+   "ts": "2026-11-23T07:26:57Z",
    "action": "review",
    "text": "Checked Zaperon for a public job board",
    "result": "none found",
@@ -3330,7 +3269,7 @@
    "id": "zaperon-com"
   },
   {
-   "ts": "2026-11-16T08:33:39Z",
+   "ts": "2026-11-23T07:26:57Z",
    "action": "review",
    "text": "Checked Zenity for a public job board",
    "result": "none found",
@@ -3338,7 +3277,7 @@
    "id": "zenity-io"
   },
   {
-   "ts": "2026-11-16T08:33:39Z",
+   "ts": "2026-11-23T07:26:57Z",
    "action": "review",
    "text": "Checked ZeroFOX for a public job board",
    "result": "none found",
@@ -3346,7 +3285,7 @@
    "id": "zerofox-com"
   },
   {
-   "ts": "2026-11-16T08:33:39Z",
+   "ts": "2026-11-23T07:26:57Z",
    "action": "review",
    "text": "Checked ZeroPath for a public job board",
    "result": "none found",
@@ -3354,7 +3293,7 @@
    "id": "zeropath-com"
   },
   {
-   "ts": "2026-11-16T08:33:42Z",
+   "ts": "2026-11-23T07:26:58Z",
    "action": "review",
    "text": "Checked Zip Security for a public job board",
    "result": "none found",
@@ -3362,7 +3301,7 @@
    "id": "zipsec-com"
   },
   {
-   "ts": "2026-11-16T08:33:42Z",
+   "ts": "2026-11-23T07:26:58Z",
    "action": "review",
    "text": "Checked Zivver for a public job board",
    "result": "none found",
@@ -3370,7 +3309,7 @@
    "id": "zivver-com"
   },
   {
-   "ts": "2026-11-16T08:33:42Z",
+   "ts": "2026-11-23T07:27:00Z",
    "action": "review",
    "text": "Checked Zorus for a public job board",
    "result": "none found",
@@ -3378,11 +3317,11 @@
    "id": "zorustech-com"
   },
   {
-   "ts": "2026-11-16T08:33:42Z",
+   "ts": "2026-11-23T07:27:00Z",
    "action": "run",
-   "text": "Finished: 419 companies checked, 7 job boards found",
+   "text": "Finished: 412 companies checked, 2 job boards found",
    "result": "done"
   }
  ],
- "runUrl": "https://github.com/CyberheadAdvisors/JobsCRM/actions/runs/43831446464"
+ "runUrl": "https://github.com/CyberheadAdvisors/JobsCRM/actions/runs/45130621080"
 }
